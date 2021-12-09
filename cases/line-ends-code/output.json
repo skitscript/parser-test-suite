@@ -1,0 +1,11 @@
+{
+  "events": [
+    {
+      "type": "unterminatedCode",
+      "line": 1,
+      "fromColumn": 11,
+      "toColumn": 35,
+      "verbatim": "`line which ends as code."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "events": [
+    {
+      "type": "exitAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Example Character A",
+        "normalized": "example-character-a",
+        "fromColumn": 1,
+        "toColumn": 19
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 72,
+        "toColumn": 75
+      }
+    },
+    {
+      "type": "exitAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Example  CharActer B",
+        "normalized": "example-character-b",
+        "fromColumn": 22,
+        "toColumn": 41
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 72,
+        "toColumn": 75
+      }
+    },
+    {
+      "type": "exitAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Example Character C",
+        "normalized": "example-character-c",
+        "fromColumn": 47,
+        "toColumn": 65
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 72,
+        "toColumn": 75
+      }
+    },
+    {
+      "type": "speaker",
+      "line": 3,
+      "characters": [
+        {
+          "verbatim": "exAMple CHARacter B",
+          "normalized": "example-character-b",
+          "fromColumn": 1,
+          "toColumn": 19
+        }
+      ]
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example  CharActer B",
+          "normalized": "example-character-b",
+          "fromColumn": 22,
+          "toColumn": 41
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "exAMple CHARacter B",
+          "normalized": "example-character-b",
+          "fromColumn": 1,
+          "toColumn": 19
+        }
+      }
+    }
+  ]
+}

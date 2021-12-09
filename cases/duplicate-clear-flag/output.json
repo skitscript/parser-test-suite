@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "type": "set",
+      "line": 1,
+      "flag": {
+        "verbatim": "Example Flag A",
+        "normalized": "example-flag-a",
+        "fromColumn": 5,
+        "toColumn": 18
+      }
+    },
+    {
+      "type": "set",
+      "line": 1,
+      "flag": {
+        "verbatim": "Example Flag B",
+        "normalized": "example-flag-b",
+        "fromColumn": 21,
+        "toColumn": 34
+      }
+    },
+    {
+      "type": "set",
+      "line": 1,
+      "flag": {
+        "verbatim": "Example Flag C",
+        "normalized": "example-flag-c",
+        "fromColumn": 37,
+        "toColumn": 50
+      }
+    },
+    {
+      "type": "set",
+      "line": 1,
+      "flag": {
+        "verbatim": "Example Flag D",
+        "normalized": "example-flag-d",
+        "fromColumn": 56,
+        "toColumn": 69
+      }
+    },
+    {
+      "type": "clear",
+      "line": 3,
+      "flag": {
+        "verbatim": "Example Flag A",
+        "normalized": "example-flag-a",
+        "fromColumn": 7,
+        "toColumn": 20
+      }
+    },
+    {
+      "type": "clear",
+      "line": 3,
+      "flag": {
+        "verbatim": "Example Flag B",
+        "normalized": "example-flag-b",
+        "fromColumn": 23,
+        "toColumn": 36
+      }
+    },
+    {
+      "type": "clear",
+      "line": 3,
+      "flag": {
+        "verbatim": "Example Flag C",
+        "normalized": "example-flag-c",
+        "fromColumn": 39,
+        "toColumn": 52
+      }
+    },
+    {
+      "type": "clear",
+      "line": 3,
+      "flag": {
+        "verbatim": "Example Flag D",
+        "normalized": "example-flag-d",
+        "fromColumn": 78,
+        "toColumn": 91
+      }
+    },
+    {
+      "type": "duplicateIdentifierInList",
+      "line": 3,
+      "first": {
+        "verbatim": "Example Flag B",
+        "normalized": "example-flag-b",
+        "fromColumn": 23,
+        "toColumn": 36
+      },
+      "second": {
+        "verbatim": "example    flAG  b",
+        "normalized": "example-flag-b",
+        "fromColumn": 55,
+        "toColumn": 72
+      }
+    }
+  ]
+}

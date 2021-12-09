@@ -1,0 +1,11 @@
+{
+  "events": [
+    {
+      "type": "invalidEscapeSequence",
+      "line": 1,
+      "fromColumn": 38,
+      "toColumn": 39,
+      "verbatim": "\\Q"
+    }
+  ]
+}

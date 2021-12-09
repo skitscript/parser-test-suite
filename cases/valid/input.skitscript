@@ -1,0 +1,169 @@
+Location: Podium.
+
+Mr. Explainer enters from the left.
+
+Mr. Explainer:
+  By default, characters display the "neutral" emote.
+  Any number of lines of dialog can be given following the name of a character (the speaker).
+  Syntax *similar **to** markdown* can be *\\used.*
+  This includes `inline \`code\\ segments` which can be inside ***`other-*sections* **formatted in other ways**`***.
+  All \*such\* \`syntax\` \*\*can\*\* be \\es\\\\caped.
+
+Mrs. Elucidator enters from the right.
+
+Mrs. Elucidator (proud):
+  The name of an emote can be specified alongside the name of the speaking character.
+
+Mr. Explainer is shocked.
+
+Mr. Explainer:
+  You can?  I've always used a stage direction!
+
+Mr. Company enters from the left, surprised.
+Mrs. Crowd enters from the right.
+
+Mr. Explainer, Mrs. Elucidator, Mr. Company and Mrs. Crowd:
+  Multiple people can speak simultaneously.
+  Now to hand over to our assistant for a menu demo...
+
+Mr. Explainer and Mr. Company exit left, waving.
+Mrs. Elucidator and Mrs. Crowd exit right, waving.
+
+Location: !?'"{}@*/\&#%`   +<=>|$.-Interview!?'"{}@*/\&#%`   +<=>|$.-Room!?'"{}@*/\&#%`   +<=>|$.-.
+
+The Questioner enters from the bottom, eyebrow raised.
+
+~ Menu ~
+
+The Questioner:
+  A list of options can be given, which can also be conditional:
+
+> Reset leads to Reset.
+> View state leads to State Viewer.
+> Set *flag A* leads to Flag Setter A.
+> Set **flag B** leads to Flag Setter B.
+> Set `flag C` leads to Flag Setter C.
+> Option which is removed when any flag is set leads to Remark No Flags when not flag A, flag B or flag C.
+> Option which is added when any flag is set leads to Remark At Least One Flag when flag A, flag B or flag C.
+> Option which is removed when every flag is set leads to Remark At Least Some Flags Missing when not flag A, flag B and flag C.
+> Option which is added when every flag is set leads to Remark All Flags when flag A, flag B and flag C.
+
+~ Reset ~
+
+Clear flag A, flag B and flag C.
+
+  All flags have been cleared.
+
+Jump to Menu.
+
+~ State Viewer ~
+
+Jump to State Viewer - None when not flag A, flag B or flag C.
+Jump to State Viewer - All when flag A, flag B and flag C.
+
+Jump to State Viewer - Only A when not flag B or flag C.
+Jump to State Viewer - Only B when not flag A or flag C.
+Jump to State Viewer - Only C when not flag A or flag B.
+
+Jump to State Viewer - A + B when not flag C.
+Jump to State Viewer - A + C when not flag B.
+
+  Flags B and C have been set.
+
+Jump to Menu.
+
+~ State Viewer - None ~
+
+  All of the flags (A, B and C) are clear.
+
+Jump to Menu.
+
+~ State Viewer - All ~
+
+  All of the flags (A, B and C) are set.
+
+Jump to Menu.
+
+~ State Viewer - Only A ~
+
+  Flag A is set; flags B and C are clear.
+
+Jump to Menu.
+
+~ State Viewer - Only B ~
+
+  Flag B is set; flags A and C are clear.
+
+Jump to Menu.
+
+~ State Viewer - Only C ~
+
+  Flag C is set; flags A and B are clear.
+
+Jump to Menu.
+
+~ State Viewer - A + B ~
+
+  Flags A and B are set; flag C is clear.
+
+Jump to Menu.
+
+~ State Viewer - A + C ~
+
+  Flags A and C are set; flag B is clear.
+
+Jump to Menu.
+
+~ State Viewer - B + C ~
+
+  Flags B and C are set; flag A is clear.
+
+Jump to Menu.
+
+~ Flag Setter A ~
+
+Set Flag A.
+
+  Flag A has been set.
+
+Jump to Menu.
+
+~ Flag Setter B ~
+
+Set Flag B.
+
+  Flag B has been set.
+
+Jump to Menu.
+
+~ Flag Setter C ~
+
+Set Flag C.
+
+  Flag C has been set.
+
+Jump to Menu.
+
+~ Remark No Flags ~
+
+  No flags are set.
+
+Jump to Menu.
+
+~ Remark At Least One Flag ~
+
+  At least one flag is set.
+
+Jump to Menu.
+
+~ Remark At Least Some Flags Missing ~
+
+  At least some flags are not set.
+
+Jump to Menu.
+
+~ Remark All Flags ~
+
+  All flags are set.
+
+Jump to Menu.
