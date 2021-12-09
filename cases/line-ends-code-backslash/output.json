@@ -1,0 +1,9 @@
+{
+  "events": [
+    {
+      "type": "incompleteEscapeSequence",
+      "line": 1,
+      "column": 51
+    }
+  ]
+}

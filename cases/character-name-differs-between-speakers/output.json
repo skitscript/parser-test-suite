@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "type": "speaker",
+      "line": 1,
+      "characters": [
+        {
+          "verbatim": "Example  CharActer",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 18
+        }
+      ]
+    },
+    {
+      "type": "speaker",
+      "line": 3,
+      "characters": [
+        {
+          "verbatim": "exAMple CHARacter",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        }
+      ]
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example  CharActer",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 18
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "exAMple CHARacter",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        }
+      }
+    }
+  ]
+}

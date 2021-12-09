@@ -1,0 +1,11 @@
+{
+  "events": [
+    {
+      "type": "unterminatedItalic",
+      "line": 1,
+      "fromColumn": 33,
+      "toColumn": 33,
+      "verbatim": "*"
+    }
+  ]
+}

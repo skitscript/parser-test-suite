@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "type": "label",
+      "line": 1,
+      "name": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      }
+    },
+    {
+      "type": "line",
+      "line": 3,
+      "content": [
+        {
+          "bold": false,
+          "italic": false,
+          "code": false,
+          "verbatim": "Example Line",
+          "plainText": "Example Line",
+          "fromColumn": 3,
+          "toColumn": 14
+        }
+      ]
+    },
+    {
+      "type": "jump",
+      "line": 5,
+      "label": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 9,
+        "toColumn": 21
+      },
+      "condition": null
+    },
+    {
+      "type": "unreachable",
+      "line": 7
+    }
+  ]
+}
