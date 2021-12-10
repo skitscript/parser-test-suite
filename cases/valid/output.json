@@ -1467,42 +1467,6 @@
       "type": "label",
       "line": 117,
       "name": {
-        "verbatim": "State Viewer - B + C",
-        "normalized": "state-viewer-b-c",
-        "fromColumn": 3,
-        "toColumn": 22
-      }
-    },
-    {
-      "type": "line",
-      "line": 119,
-      "content": [
-        {
-          "bold": false,
-          "italic": false,
-          "code": false,
-          "verbatim": "Flags B and C are set; flag A is clear.",
-          "plainText": "Flags B and C are set; flag A is clear.",
-          "fromColumn": 3,
-          "toColumn": 41
-        }
-      ]
-    },
-    {
-      "type": "jump",
-      "line": 121,
-      "label": {
-        "verbatim": "Menu",
-        "normalized": "menu",
-        "fromColumn": 9,
-        "toColumn": 12
-      },
-      "condition": null
-    },
-    {
-      "type": "label",
-      "line": 123,
-      "name": {
         "verbatim": "Flag Setter A",
         "normalized": "flag-setter-a",
         "fromColumn": 3,
@@ -1511,7 +1475,7 @@
     },
     {
       "type": "set",
-      "line": 125,
+      "line": 119,
       "flag": {
         "verbatim": "Flag A",
         "normalized": "flag-a",
@@ -1521,7 +1485,7 @@
     },
     {
       "type": "line",
-      "line": 127,
+      "line": 121,
       "content": [
         {
           "bold": false,
@@ -1536,7 +1500,7 @@
     },
     {
       "type": "jump",
-      "line": 129,
+      "line": 123,
       "label": {
         "verbatim": "Menu",
         "normalized": "menu",
@@ -1547,7 +1511,7 @@
     },
     {
       "type": "label",
-      "line": 131,
+      "line": 125,
       "name": {
         "verbatim": "Flag Setter B",
         "normalized": "flag-setter-b",
@@ -1557,7 +1521,7 @@
     },
     {
       "type": "set",
-      "line": 133,
+      "line": 127,
       "flag": {
         "verbatim": "Flag B",
         "normalized": "flag-b",
@@ -1567,7 +1531,7 @@
     },
     {
       "type": "line",
-      "line": 135,
+      "line": 129,
       "content": [
         {
           "bold": false,
@@ -1582,7 +1546,7 @@
     },
     {
       "type": "jump",
-      "line": 137,
+      "line": 131,
       "label": {
         "verbatim": "Menu",
         "normalized": "menu",
@@ -1593,7 +1557,7 @@
     },
     {
       "type": "label",
-      "line": 139,
+      "line": 133,
       "name": {
         "verbatim": "Flag Setter C",
         "normalized": "flag-setter-c",
@@ -1603,12 +1567,48 @@
     },
     {
       "type": "set",
-      "line": 141,
+      "line": 135,
       "flag": {
         "verbatim": "Flag C",
         "normalized": "flag-c",
         "fromColumn": 5,
         "toColumn": 10
+      }
+    },
+    {
+      "type": "line",
+      "line": 137,
+      "content": [
+        {
+          "bold": false,
+          "italic": false,
+          "code": false,
+          "verbatim": "Flag C has been set.",
+          "plainText": "Flag C has been set.",
+          "fromColumn": 3,
+          "toColumn": 22
+        }
+      ]
+    },
+    {
+      "type": "jump",
+      "line": 139,
+      "label": {
+        "verbatim": "Menu",
+        "normalized": "menu",
+        "fromColumn": 9,
+        "toColumn": 12
+      },
+      "condition": null
+    },
+    {
+      "type": "label",
+      "line": 141,
+      "name": {
+        "verbatim": "Remark No Flags",
+        "normalized": "remark-no-flags",
+        "fromColumn": 3,
+        "toColumn": 17
       }
     },
     {
@@ -1619,10 +1619,10 @@
           "bold": false,
           "italic": false,
           "code": false,
-          "verbatim": "Flag C has been set.",
-          "plainText": "Flag C has been set.",
+          "verbatim": "No flags are set.",
+          "plainText": "No flags are set.",
           "fromColumn": 3,
-          "toColumn": 22
+          "toColumn": 19
         }
       ]
     },
@@ -1641,10 +1641,10 @@
       "type": "label",
       "line": 147,
       "name": {
-        "verbatim": "Remark No Flags",
-        "normalized": "remark-no-flags",
+        "verbatim": "Remark At Least One Flag",
+        "normalized": "remark-at-least-one-flag",
         "fromColumn": 3,
-        "toColumn": 17
+        "toColumn": 26
       }
     },
     {
@@ -1655,10 +1655,10 @@
           "bold": false,
           "italic": false,
           "code": false,
-          "verbatim": "No flags are set.",
-          "plainText": "No flags are set.",
+          "verbatim": "At least one flag is set.",
+          "plainText": "At least one flag is set.",
           "fromColumn": 3,
-          "toColumn": 19
+          "toColumn": 27
         }
       ]
     },
@@ -1677,10 +1677,10 @@
       "type": "label",
       "line": 153,
       "name": {
-        "verbatim": "Remark At Least One Flag",
-        "normalized": "remark-at-least-one-flag",
+        "verbatim": "Remark At Least Some Flags Missing",
+        "normalized": "remark-at-least-some-flags-missing",
         "fromColumn": 3,
-        "toColumn": 26
+        "toColumn": 36
       }
     },
     {
@@ -1691,10 +1691,10 @@
           "bold": false,
           "italic": false,
           "code": false,
-          "verbatim": "At least one flag is set.",
-          "plainText": "At least one flag is set.",
+          "verbatim": "At least some flags are not set.",
+          "plainText": "At least some flags are not set.",
           "fromColumn": 3,
-          "toColumn": 27
+          "toColumn": 34
         }
       ]
     },
@@ -1713,42 +1713,6 @@
       "type": "label",
       "line": 159,
       "name": {
-        "verbatim": "Remark At Least Some Flags Missing",
-        "normalized": "remark-at-least-some-flags-missing",
-        "fromColumn": 3,
-        "toColumn": 36
-      }
-    },
-    {
-      "type": "line",
-      "line": 161,
-      "content": [
-        {
-          "bold": false,
-          "italic": false,
-          "code": false,
-          "verbatim": "At least some flags are not set.",
-          "plainText": "At least some flags are not set.",
-          "fromColumn": 3,
-          "toColumn": 34
-        }
-      ]
-    },
-    {
-      "type": "jump",
-      "line": 163,
-      "label": {
-        "verbatim": "Menu",
-        "normalized": "menu",
-        "fromColumn": 9,
-        "toColumn": 12
-      },
-      "condition": null
-    },
-    {
-      "type": "label",
-      "line": 165,
-      "name": {
         "verbatim": "Remark All Flags",
         "normalized": "remark-all-flags",
         "fromColumn": 3,
@@ -1757,7 +1721,7 @@
     },
     {
       "type": "line",
-      "line": 167,
+      "line": 161,
       "content": [
         {
           "bold": false,
@@ -1772,7 +1736,7 @@
     },
     {
       "type": "jump",
-      "line": 169,
+      "line": 163,
       "label": {
         "verbatim": "Menu",
         "normalized": "menu",
