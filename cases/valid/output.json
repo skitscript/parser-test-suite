@@ -1477,7 +1477,7 @@
       "type": "set",
       "line": 119,
       "flag": {
-        "verbatim": "Flag A",
+        "verbatim": "flag A",
         "normalized": "flag-a",
         "fromColumn": 5,
         "toColumn": 10
@@ -1523,7 +1523,7 @@
       "type": "set",
       "line": 127,
       "flag": {
-        "verbatim": "Flag B",
+        "verbatim": "flag B",
         "normalized": "flag-b",
         "fromColumn": 5,
         "toColumn": 10
@@ -1569,7 +1569,7 @@
       "type": "set",
       "line": 135,
       "flag": {
-        "verbatim": "Flag C",
+        "verbatim": "flag C",
         "normalized": "flag-c",
         "fromColumn": 5,
         "toColumn": 10
