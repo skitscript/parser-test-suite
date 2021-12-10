@@ -1,0 +1,45 @@
+{
+  "events": [
+    {
+      "type": "location",
+      "line": 1,
+      "background": {
+        "verbatim": "Example Background",
+        "normalized": "example-background",
+        "fromColumn": 11,
+        "toColumn": 28
+      }
+    },
+    {
+      "type": "location",
+      "line": 3,
+      "background": {
+        "verbatim": "ExamPLE    Background",
+        "normalized": "example-background",
+        "fromColumn": 11,
+        "toColumn": 31
+      }
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example Background",
+          "normalized": "example-background",
+          "fromColumn": 11,
+          "toColumn": 28
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "ExamPLE    Background",
+          "normalized": "example-background",
+          "fromColumn": 11,
+          "toColumn": 31
+        }
+      }
+    }
+  ]
+}

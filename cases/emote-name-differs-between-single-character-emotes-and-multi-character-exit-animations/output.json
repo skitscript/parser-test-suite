@@ -1,0 +1,105 @@
+{
+  "events": [
+    {
+      "type": "emote",
+      "line": 1,
+      "character": {
+        "verbatim": "Example Character",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 17
+      },
+      "emote": {
+        "verbatim": "Example  EmoTe",
+        "normalized": "example-emote",
+        "fromColumn": 22,
+        "toColumn": 35
+      }
+    },
+    {
+      "type": "exitAnimation",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character A",
+        "normalized": "example-character-a",
+        "fromColumn": 1,
+        "toColumn": 19
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 50,
+        "toColumn": 53
+      }
+    },
+    {
+      "type": "exitAnimation",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character B",
+        "normalized": "example-character-b",
+        "fromColumn": 25,
+        "toColumn": 43
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 50,
+        "toColumn": 53
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character A",
+        "normalized": "example-character-a",
+        "fromColumn": 1,
+        "toColumn": 19
+      },
+      "emote": {
+        "verbatim": "exAMple EMOte",
+        "normalized": "example-emote",
+        "fromColumn": 56,
+        "toColumn": 68
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character B",
+        "normalized": "example-character-b",
+        "fromColumn": 25,
+        "toColumn": 43
+      },
+      "emote": {
+        "verbatim": "exAMple EMOte",
+        "normalized": "example-emote",
+        "fromColumn": 56,
+        "toColumn": 68
+      }
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example  EmoTe",
+          "normalized": "example-emote",
+          "fromColumn": 22,
+          "toColumn": 35
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "exAMple EMOte",
+          "normalized": "example-emote",
+          "fromColumn": 56,
+          "toColumn": 68
+        }
+      }
+    }
+  ]
+}

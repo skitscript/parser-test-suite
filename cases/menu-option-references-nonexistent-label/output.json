@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "type": "undefinedLabel",
+      "line": 1,
+      "label": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 32,
+        "toColumn": 44
+      }
+    }
+  ]
+}

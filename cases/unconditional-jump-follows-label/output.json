@@ -1,0 +1,35 @@
+{
+  "events": [
+    {
+      "type": "label",
+      "line": 1,
+      "name": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      }
+    },
+    {
+      "type": "emptyLabel",
+      "line": 1,
+      "label": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      }
+    },
+    {
+      "type": "jump",
+      "line": 3,
+      "label": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 9,
+        "toColumn": 21
+      },
+      "condition": null
+    }
+  ]
+}

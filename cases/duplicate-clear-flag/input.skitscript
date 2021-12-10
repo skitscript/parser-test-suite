@@ -1,3 +1,7 @@
+~ Example Label ~
+
 Set Example Flag A, Example Flag B, Example Flag C and Example Flag D.
 
 Clear Example Flag A, Example Flag B, Example Flag C, example    flAG  b and Example Flag D.
+
+Jump to Example Label when Example Flag A, Example Flag B, Example Flag C or Example Flag D.

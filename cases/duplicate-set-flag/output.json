@@ -1,8 +1,18 @@
 {
   "events": [
     {
-      "type": "set",
+      "type": "label",
       "line": 1,
+      "name": {
+        "verbatim": "Example Label Name",
+        "normalized": "example-label-name",
+        "fromColumn": 3,
+        "toColumn": 20
+      }
+    },
+    {
+      "type": "set",
+      "line": 3,
       "flag": {
         "verbatim": "Example Flag A",
         "normalized": "example-flag-a",
@@ -12,7 +22,7 @@
     },
     {
       "type": "set",
-      "line": 1,
+      "line": 3,
       "flag": {
         "verbatim": "Example Flag B",
         "normalized": "example-flag-b",
@@ -22,7 +32,7 @@
     },
     {
       "type": "set",
-      "line": 1,
+      "line": 3,
       "flag": {
         "verbatim": "Example Flag C",
         "normalized": "example-flag-c",
@@ -32,7 +42,7 @@
     },
     {
       "type": "set",
-      "line": 1,
+      "line": 3,
       "flag": {
         "verbatim": "Example Flag D",
         "normalized": "example-flag-d",
@@ -42,7 +52,7 @@
     },
     {
       "type": "duplicateIdentifierInList",
-      "line": 1,
+      "line": 3,
       "first": {
         "verbatim": "Example Flag B",
         "normalized": "example-flag-b",
@@ -58,7 +68,7 @@
     },
     {
       "type": "jump",
-      "line": 3,
+      "line": 5,
       "label": {
         "verbatim": "Example Label Name",
         "normalized": "example-label-name",

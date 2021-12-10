@@ -24,30 +24,10 @@
       "type": "set",
       "line": 3,
       "flag": {
-        "verbatim": "Example Flag B",
-        "normalized": "example-flag-b",
-        "fromColumn": 21,
-        "toColumn": 34
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
         "verbatim": "Example Flag C",
         "normalized": "example-flag-c",
-        "fromColumn": 37,
-        "toColumn": 50
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
-        "verbatim": "Example Flag D",
-        "normalized": "example-flag-d",
-        "fromColumn": 56,
-        "toColumn": 69
+        "fromColumn": 24,
+        "toColumn": 37
       }
     },
     {
@@ -76,34 +56,8 @@
       "flag": {
         "verbatim": "Example Flag C",
         "normalized": "example-flag-c",
-        "fromColumn": 39,
-        "toColumn": 52
-      }
-    },
-    {
-      "type": "clear",
-      "line": 5,
-      "flag": {
-        "verbatim": "Example Flag D",
-        "normalized": "example-flag-d",
-        "fromColumn": 78,
-        "toColumn": 91
-      }
-    },
-    {
-      "type": "duplicateIdentifierInList",
-      "line": 5,
-      "first": {
-        "verbatim": "Example Flag B",
-        "normalized": "example-flag-b",
-        "fromColumn": 23,
-        "toColumn": 36
-      },
-      "second": {
-        "verbatim": "example    flAG  b",
-        "normalized": "example-flag-b",
-        "fromColumn": 55,
-        "toColumn": 72
+        "fromColumn": 42,
+        "toColumn": 55
       }
     },
     {
@@ -116,7 +70,7 @@
         "toColumn": 21
       },
       "condition": {
-        "type": "someFlagsSet",
+        "type": "everyFlagSet",
         "flags": [
           {
             "verbatim": "Example Flag A",
@@ -133,16 +87,20 @@
           {
             "verbatim": "Example Flag C",
             "normalized": "example-flag-c",
-            "fromColumn": 60,
-            "toColumn": 73
-          },
-          {
-            "verbatim": "Example Flag D",
-            "normalized": "example-flag-d",
-            "fromColumn": 78,
-            "toColumn": 91
+            "fromColumn": 63,
+            "toColumn": 76
           }
         ]
+      }
+    },
+    {
+      "type": "flagNeverSet",
+      "line": 5,
+      "name": {
+        "verbatim": "Example Flag B",
+        "normalized": "example-flag-b",
+        "fromColumn": 23,
+        "toColumn": 36
       }
     }
   ]
