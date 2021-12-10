@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "type": "emote",
+      "line": 1,
+      "character": {
+        "verbatim": "Example  CharActer B",
+        "normalized": "example-character-b",
+        "fromColumn": 1,
+        "toColumn": 20
+      },
+      "emote": {
+        "verbatim": "Example Emote",
+        "normalized": "example-emote",
+        "fromColumn": 25,
+        "toColumn": 37
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character A",
+        "normalized": "example-character-a",
+        "fromColumn": 1,
+        "toColumn": 19
+      },
+      "emote": {
+        "verbatim": "Example Emote",
+        "normalized": "example-emote",
+        "fromColumn": 70,
+        "toColumn": 82
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "exAMple CHARacter B",
+        "normalized": "example-character-b",
+        "fromColumn": 22,
+        "toColumn": 40
+      },
+      "emote": {
+        "verbatim": "Example Emote",
+        "normalized": "example-emote",
+        "fromColumn": 70,
+        "toColumn": 82
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character C",
+        "normalized": "example-character-c",
+        "fromColumn": 46,
+        "toColumn": 64
+      },
+      "emote": {
+        "verbatim": "Example Emote",
+        "normalized": "example-emote",
+        "fromColumn": 70,
+        "toColumn": 82
+      }
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example  CharActer B",
+          "normalized": "example-character-b",
+          "fromColumn": 1,
+          "toColumn": 20
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "exAMple CHARacter B",
+          "normalized": "example-character-b",
+          "fromColumn": 22,
+          "toColumn": 40
+        }
+      }
+    }
+  ]
+}

@@ -46,8 +46,18 @@
       "flag": {
         "verbatim": "Example Flag D",
         "normalized": "example-flag-d",
-        "fromColumn": 76,
-        "toColumn": 89
+        "fromColumn": 73,
+        "toColumn": 86
+      }
+    },
+    {
+      "type": "set",
+      "line": 3,
+      "flag": {
+        "verbatim": "Example Flag E",
+        "normalized": "example-flag-e",
+        "fromColumn": 108,
+        "toColumn": 121
       }
     },
     {
@@ -99,8 +109,14 @@
           {
             "verbatim": "Example Flag D",
             "normalized": "example-flag-d",
-            "fromColumn": 83,
-            "toColumn": 96
+            "fromColumn": 81,
+            "toColumn": 94
+          },
+          {
+            "verbatim": "Example Flag E",
+            "normalized": "example-flag-e",
+            "fromColumn": 99,
+            "toColumn": 112
           }
         ]
       }

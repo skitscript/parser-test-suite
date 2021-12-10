@@ -1,5 +1,5 @@
 ~ Example Label Name ~
 
-Set Example Flag A, Example Flag B, Example Flag C, example    flAG  b and Example Flag D.
+Set Example Flag A, Example Flag B, Example Flag C, example    flAG  b, Example Flag D, EXAMPLE FLAG B and Example Flag E.
 
-Jump to Example Label Name when Example Flag A, Example Flag B, Example Flag C or Example Flag D.
+Jump to Example Label Name when Example Flag A, Example Flag B, Example Flag C, Example Flag D or Example Flag E.
