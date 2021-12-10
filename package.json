@@ -1,0 +1,43 @@
+{
+  "name": "@skitscript/parser-test-suite",
+  "description": "A test suite for parsers of Skitscript documents.",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=16.11.1"
+  },
+  "engineStrict": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skitscript/parser-test-suite"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": false,
+  "license": "MIT",
+  "devDependencies": {
+    "@skitscript/parser-nodejs": "0.0.0",
+    "@skitscript/types-nodejs": "0.0.14",
+    "@types/jasmine": "3.10.2",
+    "@types/node": "16.11.7",
+    "@typescript-eslint/eslint-plugin": "5.3.1",
+    "@typescript-eslint/parser": "5.3.1",
+    "eslint": "8.2.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "jasmine": "3.10.0",
+    "npm-run-all": "4.1.5",
+    "nyc": "15.1.0",
+    "prettier": "2.4.1",
+    "typescript": "4.4.4"
+  },
+  "scripts": {
+    "buildLint": "eslint \"nodejs.ts\"",
+    "buildLintFix": "eslint --fix \"nodejs.ts\"",
+    "buildTypeScript": "tsc",
+    "buildJasmine": "jasmine --config=jasmine.json",
+    "buildNyc": "nyc --exclude-node-modules=false --check-coverage --all --include \"node_modules/@skitscript/parser-nodejs/**/*.js\" --lines 100 --functions 100 --branches 100 --statements 100 npm run-script buildJasmine",
+    "test": "npm-run-all buildLintFix buildTypeScript buildNyc"
+  },
+  "sideEffects": false
+}
