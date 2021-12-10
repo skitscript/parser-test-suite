@@ -34,7 +34,9 @@ contains a standard set of files:
 ### [input.skitscript](./cases/valid/input.skitscript)
 
 This is the Skitscript file which is to be fed into the parser during the test
-case.
+case.  Line endings here are LF (`0x0A`); for full specification coverage,
+re-run the test suite with line endings replaced with CR (`0x0D`) and
+CRLF (`0x0D0A`).
 
 ### [output.json](./cases/valid/output.json)
 
