@@ -1,0 +1,69 @@
+{
+  "events": [
+    {
+      "type": "speaker",
+      "line": 1,
+      "characters": [
+        {
+          "verbatim": "Example Character",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        }
+      ]
+    },
+    {
+      "type": "emote",
+      "line": 1,
+      "character": {
+        "verbatim": "Example Character",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 17
+      },
+      "emote": {
+        "verbatim": "Example  EmoTe",
+        "normalized": "example-emote",
+        "fromColumn": 20,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "Example Character",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 17
+      },
+      "emote": {
+        "verbatim": "exAMple EMOte",
+        "normalized": "example-emote",
+        "fromColumn": 22,
+        "toColumn": 34
+      }
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example  EmoTe",
+          "normalized": "example-emote",
+          "fromColumn": 20,
+          "toColumn": 33
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "exAMple EMOte",
+          "normalized": "example-emote",
+          "fromColumn": 22,
+          "toColumn": 34
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "events": [
+    {
+      "type": "emote",
+      "line": 1,
+      "character": {
+        "verbatim": "Example  CharActer",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 18
+      },
+      "emote": {
+        "verbatim": "Example Emote",
+        "normalized": "example-emote",
+        "fromColumn": 23,
+        "toColumn": 35
+      }
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "character": {
+        "verbatim": "exAMple CHARacter",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 17
+      },
+      "emote": {
+        "verbatim": "Example Emote",
+        "normalized": "example-emote",
+        "fromColumn": 22,
+        "toColumn": 34
+      }
+    },
+    {
+      "type": "inconsistentIdentifier",
+      "first": {
+        "line": 1,
+        "identifier": {
+          "verbatim": "Example  CharActer",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 18
+        }
+      },
+      "second": {
+        "line": 3,
+        "identifier": {
+          "verbatim": "exAMple CHARacter",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        }
+      }
+    }
+  ]
+}
