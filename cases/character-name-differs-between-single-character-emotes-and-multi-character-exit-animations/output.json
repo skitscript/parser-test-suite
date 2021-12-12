@@ -1,6 +1,6 @@
 {
   "type": "valid",
-  "statements": [
+  "instructions": [
     {
       "type": "emote",
       "line": 1,
