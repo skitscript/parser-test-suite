@@ -576,16 +576,6 @@
       }
     },
     {
-      "type": "label",
-      "line": 36,
-      "name": {
-        "verbatim": "Menu",
-        "normalized": "menu",
-        "fromColumn": 3,
-        "toColumn": 6
-      }
-    },
-    {
       "type": "speaker",
       "line": 38,
       "characters": [
@@ -632,6 +622,7 @@
         "fromColumn": 18,
         "toColumn": 22
       },
+      "statementIndex": 43,
       "condition": null
     },
     {
@@ -654,6 +645,7 @@
         "fromColumn": 23,
         "toColumn": 34
       },
+      "statementIndex": 48,
       "condition": null
     },
     {
@@ -685,6 +677,7 @@
         "fromColumn": 25,
         "toColumn": 37
       },
+      "statementIndex": 71,
       "condition": null
     },
     {
@@ -716,6 +709,7 @@
         "fromColumn": 27,
         "toColumn": 39
       },
+      "statementIndex": 74,
       "condition": null
     },
     {
@@ -747,6 +741,7 @@
         "fromColumn": 25,
         "toColumn": 37
       },
+      "statementIndex": 77,
       "condition": null
     },
     {
@@ -769,6 +764,7 @@
         "fromColumn": 57,
         "toColumn": 71
       },
+      "statementIndex": 80,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -813,6 +809,7 @@
         "fromColumn": 55,
         "toColumn": 78
       },
+      "statementIndex": 82,
       "condition": {
         "type": "someFlagsSet",
         "flags": [
@@ -857,6 +854,7 @@
         "fromColumn": 59,
         "toColumn": 92
       },
+      "statementIndex": 84,
       "condition": {
         "type": "someFlagsClear",
         "flags": [
@@ -901,6 +899,7 @@
         "fromColumn": 57,
         "toColumn": 72
       },
+      "statementIndex": 86,
       "condition": {
         "type": "everyFlagSet",
         "flags": [
@@ -923,16 +922,6 @@
             "toColumn": 103
           }
         ]
-      }
-    },
-    {
-      "type": "label",
-      "line": 51,
-      "name": {
-        "verbatim": "Reset",
-        "normalized": "reset",
-        "fromColumn": 3,
-        "toColumn": 7
       }
     },
     {
@@ -989,17 +978,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 59,
-      "name": {
-        "verbatim": "State Viewer",
-        "normalized": "state-viewer",
-        "fromColumn": 3,
-        "toColumn": 14
-      }
     },
     {
       "type": "jump",
@@ -1010,6 +990,7 @@
         "fromColumn": 9,
         "toColumn": 27
       },
+      "statementIndex": 57,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1043,6 +1024,7 @@
         "fromColumn": 9,
         "toColumn": 26
       },
+      "statementIndex": 59,
       "condition": {
         "type": "everyFlagSet",
         "flags": [
@@ -1076,6 +1058,7 @@
         "fromColumn": 9,
         "toColumn": 29
       },
+      "statementIndex": 61,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1103,6 +1086,7 @@
         "fromColumn": 9,
         "toColumn": 29
       },
+      "statementIndex": 63,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1130,6 +1114,7 @@
         "fromColumn": 9,
         "toColumn": 29
       },
+      "statementIndex": 65,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1157,6 +1142,7 @@
         "fromColumn": 9,
         "toColumn": 28
       },
+      "statementIndex": 67,
       "condition": {
         "type": "flagClear",
         "flag": {
@@ -1176,6 +1162,7 @@
         "fromColumn": 9,
         "toColumn": 28
       },
+      "statementIndex": 69,
       "condition": {
         "type": "flagClear",
         "flag": {
@@ -1210,17 +1197,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 75,
-      "name": {
-        "verbatim": "State Viewer - None",
-        "normalized": "state-viewer-none",
-        "fromColumn": 3,
-        "toColumn": 21
-      }
     },
     {
       "type": "line",
@@ -1246,17 +1224,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 81,
-      "name": {
-        "verbatim": "State Viewer - All",
-        "normalized": "state-viewer-all",
-        "fromColumn": 3,
-        "toColumn": 20
-      }
     },
     {
       "type": "line",
@@ -1282,17 +1251,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 87,
-      "name": {
-        "verbatim": "State Viewer - Only A",
-        "normalized": "state-viewer-only-a",
-        "fromColumn": 3,
-        "toColumn": 23
-      }
     },
     {
       "type": "line",
@@ -1318,17 +1278,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 93,
-      "name": {
-        "verbatim": "State Viewer - Only B",
-        "normalized": "state-viewer-only-b",
-        "fromColumn": 3,
-        "toColumn": 23
-      }
     },
     {
       "type": "line",
@@ -1354,17 +1305,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 99,
-      "name": {
-        "verbatim": "State Viewer - Only C",
-        "normalized": "state-viewer-only-c",
-        "fromColumn": 3,
-        "toColumn": 23
-      }
     },
     {
       "type": "line",
@@ -1390,17 +1332,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 105,
-      "name": {
-        "verbatim": "State Viewer - A + B",
-        "normalized": "state-viewer-a-b",
-        "fromColumn": 3,
-        "toColumn": 22
-      }
     },
     {
       "type": "line",
@@ -1426,17 +1359,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 111,
-      "name": {
-        "verbatim": "State Viewer - A + C",
-        "normalized": "state-viewer-a-c",
-        "fromColumn": 3,
-        "toColumn": 22
-      }
     },
     {
       "type": "line",
@@ -1462,17 +1386,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 117,
-      "name": {
-        "verbatim": "Flag Setter A",
-        "normalized": "flag-setter-a",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
     },
     {
       "type": "set",
@@ -1508,17 +1423,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 125,
-      "name": {
-        "verbatim": "Flag Setter B",
-        "normalized": "flag-setter-b",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
     },
     {
       "type": "set",
@@ -1554,17 +1460,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 133,
-      "name": {
-        "verbatim": "Flag Setter C",
-        "normalized": "flag-setter-c",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
     },
     {
       "type": "set",
@@ -1600,17 +1497,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 141,
-      "name": {
-        "verbatim": "Remark No Flags",
-        "normalized": "remark-no-flags",
-        "fromColumn": 3,
-        "toColumn": 17
-      }
     },
     {
       "type": "line",
@@ -1636,17 +1524,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 147,
-      "name": {
-        "verbatim": "Remark At Least One Flag",
-        "normalized": "remark-at-least-one-flag",
-        "fromColumn": 3,
-        "toColumn": 26
-      }
     },
     {
       "type": "line",
@@ -1672,17 +1551,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 153,
-      "name": {
-        "verbatim": "Remark At Least Some Flags Missing",
-        "normalized": "remark-at-least-some-flags-missing",
-        "fromColumn": 3,
-        "toColumn": 36
-      }
     },
     {
       "type": "line",
@@ -1708,17 +1578,8 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 159,
-      "name": {
-        "verbatim": "Remark All Flags",
-        "normalized": "remark-all-flags",
-        "fromColumn": 3,
-        "toColumn": 18
-      }
     },
     {
       "type": "line",
@@ -1744,6 +1605,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
+      "statementIndex": 32,
       "condition": null
     }
   ],
