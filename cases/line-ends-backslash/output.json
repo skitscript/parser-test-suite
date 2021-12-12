@@ -1,9 +1,8 @@
 {
-  "events": [
-    {
-      "type": "incompleteEscapeSequence",
-      "line": 1,
-      "column": 40
-    }
-  ]
+  "type": "invalid",
+  "error": {
+    "type": "incompleteEscapeSequence",
+    "line": 1,
+    "column": 40
+  }
 }

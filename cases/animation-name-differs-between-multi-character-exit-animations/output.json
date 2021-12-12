@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "exitAnimation",
       "line": 1,
@@ -63,7 +64,9 @@
         "fromColumn": 50,
         "toColumn": 66
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "inconsistentIdentifier",
       "first": {

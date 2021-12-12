@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "label",
       "line": 1,
@@ -101,7 +102,9 @@
           "toColumn": 62
         }
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "unreachable",
       "line": 9

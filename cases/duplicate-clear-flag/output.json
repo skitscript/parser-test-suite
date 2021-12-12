@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "label",
       "line": 1,
@@ -91,22 +92,6 @@
       }
     },
     {
-      "type": "duplicateIdentifierInList",
-      "line": 5,
-      "first": {
-        "verbatim": "Example Flag B",
-        "normalized": "example-flag-b",
-        "fromColumn": 23,
-        "toColumn": 36
-      },
-      "second": {
-        "verbatim": "example    flAG  b",
-        "normalized": "example-flag-b",
-        "fromColumn": 55,
-        "toColumn": 72
-      }
-    },
-    {
       "type": "jump",
       "line": 7,
       "label": {
@@ -143,6 +128,24 @@
             "toColumn": 91
           }
         ]
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "type": "duplicateIdentifierInList",
+      "line": 5,
+      "first": {
+        "verbatim": "Example Flag B",
+        "normalized": "example-flag-b",
+        "fromColumn": 23,
+        "toColumn": 36
+      },
+      "second": {
+        "verbatim": "example    flAG  b",
+        "normalized": "example-flag-b",
+        "fromColumn": 55,
+        "toColumn": 72
       }
     }
   ]

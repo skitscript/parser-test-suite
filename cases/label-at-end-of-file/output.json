@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "line",
       "line": 1,
@@ -35,7 +36,9 @@
         "fromColumn": 3,
         "toColumn": 15
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "emptyLabel",
       "line": 5,

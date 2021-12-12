@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "emote",
       "line": 1,
@@ -31,7 +32,9 @@
         "fromColumn": 26,
         "toColumn": 29
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "inconsistentIdentifier",
       "first": {

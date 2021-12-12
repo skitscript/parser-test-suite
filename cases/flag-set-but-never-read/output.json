@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "label",
       "line": 1,
@@ -66,7 +67,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "flagNeverReferenced",
       "line": 3,

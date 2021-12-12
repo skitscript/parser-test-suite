@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "location",
       "line": 1,
@@ -19,7 +20,9 @@
         "fromColumn": 11,
         "toColumn": 31
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "inconsistentIdentifier",
       "first": {

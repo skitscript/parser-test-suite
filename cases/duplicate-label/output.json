@@ -1,61 +1,24 @@
 {
-  "events": [
-    {
-      "type": "label",
+  "type": "invalid",
+  "error": {
+    "type": "duplicateLabel",
+    "first": {
       "line": 1,
-      "name": {
+      "identifier": {
         "verbatim": "Example Label",
         "normalized": "example-label",
         "fromColumn": 3,
         "toColumn": 15
       }
     },
-    {
-      "type": "duplicateLabel",
-      "first": {
-        "line": 1,
-        "identifier": {
-          "verbatim": "Example Label",
-          "normalized": "example-label",
-          "fromColumn": 3,
-          "toColumn": 15
-        }
-      },
-      "second": {
-        "line": 3,
-        "identifier": {
-          "verbatim": "Example Label",
-          "normalized": "example-label",
-          "fromColumn": 3,
-          "toColumn": 15
-        }
-      }
-    },
-    {
-      "type": "line",
-      "line": 5,
-      "content": [
-        {
-          "bold": false,
-          "italic": false,
-          "code": false,
-          "verbatim": "Example Line.",
-          "plainText": "Example Line.",
-          "fromColumn": 3,
-          "toColumn": 15
-        }
-      ]
-    },
-    {
-      "type": "jump",
-      "line": 7,
-      "label": {
+    "second": {
+      "line": 3,
+      "identifier": {
         "verbatim": "Example Label",
         "normalized": "example-label",
-        "fromColumn": 9,
-        "toColumn": 21
-      },
-      "condition": null
+        "fromColumn": 3,
+        "toColumn": 15
+      }
     }
-  ]
+  }
 }
