@@ -2,16 +2,6 @@
   "type": "valid",
   "instructions": [
     {
-      "type": "label",
-      "line": 1,
-      "name": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
-    },
-    {
       "type": "line",
       "line": 3,
       "content": [
@@ -35,6 +25,7 @@
         "fromColumn": 9,
         "toColumn": 21
       },
+      "statementIndex": 0,
       "condition": null
     }
   ],

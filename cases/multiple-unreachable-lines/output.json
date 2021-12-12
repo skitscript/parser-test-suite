@@ -10,17 +10,8 @@
         "fromColumn": 9,
         "toColumn": 21
       },
+      "statementIndex": 1,
       "condition": null
-    },
-    {
-      "type": "label",
-      "line": 8,
-      "name": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
     },
     {
       "type": "line",

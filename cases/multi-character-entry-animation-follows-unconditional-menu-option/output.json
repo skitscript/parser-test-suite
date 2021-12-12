@@ -2,16 +2,6 @@
   "type": "valid",
   "instructions": [
     {
-      "type": "label",
-      "line": 1,
-      "name": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
-    },
-    {
       "type": "set",
       "line": 3,
       "flag": {
@@ -41,6 +31,7 @@
         "fromColumn": 32,
         "toColumn": 44
       },
+      "statementIndex": 0,
       "condition": {
         "type": "flagSet",
         "flag": {
@@ -71,6 +62,7 @@
         "fromColumn": 32,
         "toColumn": 44
       },
+      "statementIndex": 0,
       "condition": null
     },
     {
@@ -93,6 +85,7 @@
         "fromColumn": 32,
         "toColumn": 44
       },
+      "statementIndex": 0,
       "condition": {
         "type": "flagSet",
         "flag": {
