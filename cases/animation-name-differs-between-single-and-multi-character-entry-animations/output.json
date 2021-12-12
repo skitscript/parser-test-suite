@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "entryAnimation",
       "line": 1,
@@ -47,7 +48,9 @@
         "fromColumn": 51,
         "toColumn": 67
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "inconsistentIdentifier",
       "first": {

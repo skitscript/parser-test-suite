@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "speaker",
       "line": 1,
@@ -59,7 +60,9 @@
         "fromColumn": 49,
         "toColumn": 61
       }
-    },
+    }
+  ],
+  "warnings": [
     {
       "type": "inconsistentIdentifier",
       "first": {

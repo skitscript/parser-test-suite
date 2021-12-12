@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "location",
       "line": 1,
@@ -1745,5 +1746,6 @@
       },
       "condition": null
     }
-  ]
+  ],
+  "warnings": []
 }

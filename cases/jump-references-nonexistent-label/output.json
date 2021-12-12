@@ -1,14 +1,13 @@
 {
-  "events": [
-    {
-      "type": "undefinedLabel",
-      "line": 1,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 9,
-        "toColumn": 21
-      }
+  "type": "invalid",
+  "error": {
+    "type": "undefinedLabel",
+    "line": 1,
+    "label": {
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 9,
+      "toColumn": 21
     }
-  ]
+  }
 }

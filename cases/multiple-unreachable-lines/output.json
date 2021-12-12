@@ -1,5 +1,6 @@
 {
-  "events": [
+  "type": "valid",
+  "statements": [
     {
       "type": "jump",
       "line": 1,
@@ -10,10 +11,6 @@
         "toColumn": 21
       },
       "condition": null
-    },
-    {
-      "type": "unreachable",
-      "line": 3
     },
     {
       "type": "label",
@@ -39,6 +36,12 @@
           "toColumn": 17
         }
       ]
+    }
+  ],
+  "warnings": [
+    {
+      "type": "unreachable",
+      "line": 3
     }
   ]
 }

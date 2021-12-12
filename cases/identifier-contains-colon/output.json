@@ -1,8 +1,7 @@
 {
-  "events": [
-    {
-      "type": "unparsable",
-      "line": 1
-    }
-  ]
+  "type": "invalid",
+  "error": {
+    "type": "unparsable",
+    "line": 1
+  }
 }
