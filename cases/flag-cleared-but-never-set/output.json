@@ -90,12 +90,94 @@
     {
       "type": "flagNeverSet",
       "line": 5,
-      "name": {
+      "flag": {
         "verbatim": "Example Flag B",
         "normalized": "example-flag-b",
         "fromColumn": 23,
         "toColumn": 36
       }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 3,
+      "type": "flag",
+      "verbatim": "Example Flag A",
+      "normalized": "example-flag-a",
+      "fromColumn": 5,
+      "toColumn": 18
+    },
+    {
+      "line": 3,
+      "type": "flag",
+      "verbatim": "Example Flag C",
+      "normalized": "example-flag-c",
+      "fromColumn": 24,
+      "toColumn": 37
+    },
+    {
+      "line": 5,
+      "type": "flag",
+      "verbatim": "Example Flag A",
+      "normalized": "example-flag-a",
+      "fromColumn": 7,
+      "toColumn": 20
+    },
+    {
+      "line": 5,
+      "type": "flag",
+      "verbatim": "Example Flag B",
+      "normalized": "example-flag-b",
+      "fromColumn": 23,
+      "toColumn": 36
+    },
+    {
+      "line": 5,
+      "type": "flag",
+      "verbatim": "Example Flag C",
+      "normalized": "example-flag-c",
+      "fromColumn": 42,
+      "toColumn": 55
+    },
+    {
+      "line": 7,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 9,
+      "toColumn": 21
+    },
+    {
+      "line": 7,
+      "type": "flag",
+      "verbatim": "Example Flag A",
+      "normalized": "example-flag-a",
+      "fromColumn": 28,
+      "toColumn": 41
+    },
+    {
+      "line": 7,
+      "type": "flag",
+      "verbatim": "Example Flag B",
+      "normalized": "example-flag-b",
+      "fromColumn": 44,
+      "toColumn": 57
+    },
+    {
+      "line": 7,
+      "type": "flag",
+      "verbatim": "Example Flag C",
+      "normalized": "example-flag-c",
+      "fromColumn": 63,
+      "toColumn": 76
     }
   ]
 }

@@ -35,22 +35,44 @@
       "type": "inconsistentIdentifier",
       "first": {
         "line": 1,
-        "identifier": {
-          "verbatim": "Example  CharActer",
-          "normalized": "example-character",
-          "fromColumn": 1,
-          "toColumn": 18
-        }
+        "verbatim": "Example  CharActer",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 18
       },
       "second": {
         "line": 3,
-        "identifier": {
-          "verbatim": "exAMple CHARacter",
-          "normalized": "example-character",
-          "fromColumn": 1,
-          "toColumn": 17
-        }
+        "verbatim": "exAMple CHARacter",
+        "normalized": "example-character",
+        "fromColumn": 1,
+        "toColumn": 17
       }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "character",
+      "verbatim": "Example  CharActer",
+      "normalized": "example-character",
+      "fromColumn": 1,
+      "toColumn": 18
+    },
+    {
+      "line": 1,
+      "type": "emote",
+      "verbatim": "Example Emote",
+      "normalized": "example-emote",
+      "fromColumn": 23,
+      "toColumn": 35
+    },
+    {
+      "line": 3,
+      "type": "character",
+      "verbatim": "exAMple CHARacter",
+      "normalized": "example-character",
+      "fromColumn": 1,
+      "toColumn": 17
     }
   ]
 }

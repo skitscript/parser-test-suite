@@ -4,21 +4,17 @@
     "type": "duplicateLabel",
     "first": {
       "line": 1,
-      "identifier": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
     },
     "second": {
       "line": 3,
-      "identifier": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
     }
   }
 }

@@ -103,22 +103,76 @@
       "type": "inconsistentIdentifier",
       "first": {
         "line": 1,
-        "identifier": {
-          "verbatim": "Example  EmoTe",
-          "normalized": "example-emote",
-          "fromColumn": 32,
-          "toColumn": 45
-        }
+        "verbatim": "Example  EmoTe",
+        "normalized": "example-emote",
+        "fromColumn": 32,
+        "toColumn": 45
       },
       "second": {
         "line": 3,
-        "identifier": {
-          "verbatim": "exAMple EMOte",
-          "normalized": "example-emote",
-          "fromColumn": 57,
-          "toColumn": 69
-        }
+        "verbatim": "exAMple EMOte",
+        "normalized": "example-emote",
+        "fromColumn": 57,
+        "toColumn": 69
       }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "type": "character",
+      "line": 1,
+      "verbatim": "Example Character",
+      "normalized": "example-character",
+      "fromColumn": 1,
+      "toColumn": 17
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "verbatim": "left",
+      "normalized": "left",
+      "fromColumn": 26,
+      "toColumn": 29
+    },
+    {
+      "type": "emote",
+      "line": 1,
+      "verbatim": "Example  EmoTe",
+      "normalized": "example-emote",
+      "fromColumn": 32,
+      "toColumn": 45
+    },
+    {
+      "type": "character",
+      "line": 3,
+      "verbatim": "Example Character A",
+      "normalized": "example-character-a",
+      "fromColumn": 1,
+      "toColumn": 19
+    },
+    {
+      "type": "character",
+      "line": 3,
+      "verbatim": "Example Character B",
+      "normalized": "example-character-b",
+      "fromColumn": 25,
+      "toColumn": 43
+    },
+    {
+      "type": "entryAnimation",
+      "line": 3,
+      "verbatim": "left",
+      "normalized": "left",
+      "fromColumn": 51,
+      "toColumn": 54
+    },
+    {
+      "type": "emote",
+      "line": 3,
+      "verbatim": "exAMple EMOte",
+      "normalized": "example-emote",
+      "fromColumn": 57,
+      "toColumn": 69
     }
   ]
 }

@@ -67,22 +67,60 @@
       "type": "inconsistentIdentifier",
       "first": {
         "line": 1,
-        "identifier": {
-          "verbatim": "Example  CharActer B",
-          "normalized": "example-character-b",
-          "fromColumn": 22,
-          "toColumn": 41
-        }
+        "verbatim": "Example  CharActer B",
+        "normalized": "example-character-b",
+        "fromColumn": 22,
+        "toColumn": 41
       },
       "second": {
         "line": 3,
-        "identifier": {
-          "verbatim": "exAMple CHARacter B",
-          "normalized": "example-character-b",
-          "fromColumn": 1,
-          "toColumn": 19
-        }
+        "verbatim": "exAMple CHARacter B",
+        "normalized": "example-character-b",
+        "fromColumn": 1,
+        "toColumn": 19
       }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "type": "character",
+      "line": 1,
+      "verbatim": "Example Character A",
+      "normalized": "example-character-a",
+      "fromColumn": 1,
+      "toColumn": 19
+    },
+    {
+      "type": "character",
+      "line": 1,
+      "verbatim": "Example  CharActer B",
+      "normalized": "example-character-b",
+      "fromColumn": 22,
+      "toColumn": 41
+    },
+    {
+      "type": "character",
+      "line": 1,
+      "verbatim": "Example Character C",
+      "normalized": "example-character-c",
+      "fromColumn": 47,
+      "toColumn": 65
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "verbatim": "from left",
+      "normalized": "from-left",
+      "fromColumn": 73,
+      "toColumn": 81
+    },
+    {
+      "type": "character",
+      "line": 3,
+      "verbatim": "exAMple CHARacter B",
+      "normalized": "example-character-b",
+      "fromColumn": 1,
+      "toColumn": 19
     }
   ]
 }

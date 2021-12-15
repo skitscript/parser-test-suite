@@ -103,22 +103,84 @@
       "type": "inconsistentIdentifier",
       "first": {
         "line": 1,
-        "identifier": {
-          "verbatim": "Example  CharActer B",
-          "normalized": "example-character-b",
-          "fromColumn": 22,
-          "toColumn": 41
-        }
+        "verbatim": "Example  CharActer B",
+        "normalized": "example-character-b",
+        "fromColumn": 22,
+        "toColumn": 41
       },
       "second": {
         "line": 3,
-        "identifier": {
-          "verbatim": "exAMple CHARacter B",
-          "normalized": "example-character-b",
-          "fromColumn": 22,
-          "toColumn": 40
-        }
+        "verbatim": "exAMple CHARacter B",
+        "normalized": "example-character-b",
+        "fromColumn": 22,
+        "toColumn": 40
       }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "character",
+      "verbatim": "Example Character A",
+      "normalized": "example-character-a",
+      "fromColumn": 1,
+      "toColumn": 19
+    },
+    {
+      "line": 1,
+      "type": "character",
+      "verbatim": "Example  CharActer B",
+      "normalized": "example-character-b",
+      "fromColumn": 22,
+      "toColumn": 41
+    },
+    {
+      "line": 1,
+      "type": "character",
+      "verbatim": "Example Character C",
+      "normalized": "example-character-c",
+      "fromColumn": 47,
+      "toColumn": 65
+    },
+    {
+      "line": 1,
+      "type": "exitAnimation",
+      "verbatim": "from left",
+      "normalized": "from-left",
+      "fromColumn": 72,
+      "toColumn": 80
+    },
+    {
+      "line": 3,
+      "type": "character",
+      "verbatim": "Example Character A",
+      "normalized": "example-character-a",
+      "fromColumn": 1,
+      "toColumn": 19
+    },
+    {
+      "line": 3,
+      "type": "character",
+      "verbatim": "exAMple CHARacter B",
+      "normalized": "example-character-b",
+      "fromColumn": 22,
+      "toColumn": 40
+    },
+    {
+      "line": 3,
+      "type": "character",
+      "verbatim": "Example Character C",
+      "normalized": "example-character-c",
+      "fromColumn": 46,
+      "toColumn": 64
+    },
+    {
+      "line": 3,
+      "type": "exitAnimation",
+      "verbatim": "from left",
+      "normalized": "from-left",
+      "fromColumn": 71,
+      "toColumn": 79
     }
   ]
 }
