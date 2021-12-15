@@ -30,6 +30,7 @@
     {
       "line": 1,
       "type": "label",
+      "context": "declaration",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,
@@ -38,6 +39,7 @@
     {
       "line": 3,
       "type": "label",
+      "context": "reference",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 9,

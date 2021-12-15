@@ -88,6 +88,7 @@
   "identifierInstances": [
     {
       "type": "character",
+      "context": "implicitDeclaration",
       "line": 1,
       "verbatim": "Example Character A",
       "normalized": "example-character-a",
@@ -96,6 +97,7 @@
     },
     {
       "type": "character",
+      "context": "implicitDeclaration",
       "line": 1,
       "verbatim": "Example Character B",
       "normalized": "example-character-b",
@@ -104,6 +106,7 @@
     },
     {
       "type": "entryAnimation",
+      "context": "implicitDeclaration",
       "line": 1,
       "verbatim": "Example AnimAtion",
       "normalized": "example-animation",
@@ -112,6 +115,7 @@
     },
     {
       "type": "character",
+      "context": "implicitDeclaration",
       "line": 3,
       "verbatim": "Example Character A",
       "normalized": "example-character-a",
@@ -120,6 +124,7 @@
     },
     {
       "type": "character",
+      "context": "implicitDeclaration",
       "line": 3,
       "verbatim": "Example Character B",
       "normalized": "example-character-b",
@@ -128,6 +133,7 @@
     },
     {
       "type": "entryAnimation",
+      "context": "implicitDeclaration",
       "line": 3,
       "verbatim": "exAMple ANIMation",
       "normalized": "example-animation",

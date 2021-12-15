@@ -121,6 +121,7 @@
     {
       "type": "character",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "Example Character A",
       "normalized": "example-character-a",
       "fromColumn": 1,
@@ -129,6 +130,7 @@
     {
       "type": "character",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "Example  CharActer B",
       "normalized": "example-character-b",
       "fromColumn": 22,
@@ -137,6 +139,7 @@
     {
       "type": "character",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "Example Character C",
       "normalized": "example-character-c",
       "fromColumn": 47,
@@ -145,6 +148,7 @@
     {
       "type": "entryAnimation",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "from left",
       "normalized": "from-left",
       "fromColumn": 73,
@@ -153,6 +157,7 @@
     {
       "type": "character",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "Example Character A",
       "normalized": "example-character-a",
       "fromColumn": 1,
@@ -161,6 +166,7 @@
     {
       "type": "character",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "exAMple CHARacter B",
       "normalized": "example-character-b",
       "fromColumn": 22,
@@ -169,6 +175,7 @@
     {
       "type": "character",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "Example Character C",
       "normalized": "example-character-c",
       "fromColumn": 46,
@@ -177,6 +184,7 @@
     {
       "type": "entryAnimation",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "from left",
       "normalized": "from-left",
       "fromColumn": 72,

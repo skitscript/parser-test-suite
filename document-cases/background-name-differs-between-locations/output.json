@@ -45,6 +45,7 @@
     {
       "line": 1,
       "type": "background",
+      "context": "implicitDeclaration",
       "verbatim": "Example Background",
       "normalized": "example-background",
       "fromColumn": 11,
@@ -53,6 +54,7 @@
     {
       "line": 3,
       "type": "background",
+      "context": "implicitDeclaration",
       "verbatim": "ExamPLE    Background",
       "normalized": "example-background",
       "fromColumn": 11,

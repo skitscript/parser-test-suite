@@ -107,6 +107,7 @@
     {
       "line": 1,
       "type": "label",
+      "context": "declaration",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,
@@ -115,6 +116,7 @@
     {
       "line": 3,
       "type": "flag",
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag",
       "normalized": "example-flag",
       "fromColumn": 5,
@@ -123,6 +125,7 @@
     {
       "line": 5,
       "type": "label",
+      "context": "reference",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 32,
@@ -131,6 +134,7 @@
     {
       "line": 5,
       "type": "flag",
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag",
       "normalized": "example-flag",
       "fromColumn": 51,
@@ -139,6 +143,7 @@
     {
       "line": 6,
       "type": "label",
+      "context": "reference",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 32,
@@ -147,6 +152,7 @@
     {
       "line": 7,
       "type": "label",
+      "context": "reference",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 32,
@@ -155,6 +161,7 @@
     {
       "line": 7,
       "type": "flag",
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag",
       "normalized": "example-flag",
       "fromColumn": 51,
@@ -163,6 +170,7 @@
     {
       "line": 9,
       "type": "character",
+      "context": "implicitDeclaration",
       "verbatim": "Example Character A",
       "normalized": "example-character-a",
       "fromColumn": 1,
@@ -171,6 +179,7 @@
     {
       "line": 9,
       "type": "character",
+      "context": "implicitDeclaration",
       "verbatim": "Example Character B",
       "normalized": "example-character-b",
       "fromColumn": 25,
@@ -179,6 +188,7 @@
     {
       "line": 9,
       "type": "exitAnimation",
+      "context": "implicitDeclaration",
       "verbatim": "left",
       "normalized": "left",
       "fromColumn": 50,
