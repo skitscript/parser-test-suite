@@ -175,6 +175,14 @@
       "normalized": "left",
       "fromColumn": 25,
       "toColumn": 28
+    },
+    {
+      "line": 9,
+      "type": "emote",
+      "verbatim": "Example Emote",
+      "normalized": "example-emote",
+      "fromColumn": 31,
+      "toColumn": 43
     }
   ]
 }

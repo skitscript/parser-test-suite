@@ -167,14 +167,6 @@
       "normalized": "example-character",
       "fromColumn": 1,
       "toColumn": 17
-    },
-    {
-      "line": 9,
-      "type": "exitAnimation",
-      "verbatim": "left",
-      "normalized": "left",
-      "fromColumn": 25,
-      "toColumn": 28
     }
   ]
 }
