@@ -57,6 +57,7 @@
     {
       "type": "character",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "Example  CharActer",
       "normalized": "example-character",
       "fromColumn": 1,
@@ -65,6 +66,7 @@
     {
       "type": "exitAnimation",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "left",
       "normalized": "left",
       "fromColumn": 26,
@@ -73,6 +75,7 @@
     {
       "type": "character",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "exAMple CHARacter",
       "normalized": "example-character",
       "fromColumn": 1,
@@ -81,6 +84,7 @@
     {
       "type": "exitAnimation",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "left",
       "normalized": "left",
       "fromColumn": 25,

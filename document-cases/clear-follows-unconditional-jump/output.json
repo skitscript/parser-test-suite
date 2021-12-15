@@ -39,6 +39,7 @@
     {
       "line": 1,
       "type": "label",
+      "context": "declaration",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,
@@ -47,6 +48,7 @@
     {
       "line": 5,
       "type": "label",
+      "context": "reference",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 9,
@@ -55,6 +57,7 @@
     {
       "line": 7,
       "type": "flag",
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag",
       "normalized": "example-flag",
       "fromColumn": 7,

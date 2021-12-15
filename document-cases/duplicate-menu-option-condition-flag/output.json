@@ -99,6 +99,7 @@
     {
       "type": "label",
       "line": 1,
+      "context": "declaration",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,
@@ -107,6 +108,7 @@
     {
       "type": "flag",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag A",
       "normalized": "example-flag-a",
       "fromColumn": 5,
@@ -115,6 +117,7 @@
     {
       "type": "flag",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag B",
       "normalized": "example-flag-b",
       "fromColumn": 21,
@@ -123,6 +126,7 @@
     {
       "type": "flag",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag C",
       "normalized": "example-flag-c",
       "fromColumn": 40,
@@ -131,6 +135,7 @@
     {
       "line": 5,
       "type": "label",
+      "context": "reference",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 27,
@@ -139,6 +144,7 @@
     {
       "type": "flag",
       "line": 5,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag A",
       "normalized": "example-flag-a",
       "fromColumn": 46,
@@ -147,6 +153,7 @@
     {
       "type": "flag",
       "line": 5,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag B",
       "normalized": "example-flag-b",
       "fromColumn": 62,
@@ -155,6 +162,7 @@
     {
       "type": "flag",
       "line": 5,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag A",
       "normalized": "example-flag-a",
       "fromColumn": 78,
@@ -163,6 +171,7 @@
     {
       "type": "flag",
       "line": 5,
+      "context": "implicitDeclaration",
       "verbatim": "Example Flag C",
       "normalized": "example-flag-c",
       "fromColumn": 97,

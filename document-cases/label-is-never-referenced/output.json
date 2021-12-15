@@ -17,6 +17,7 @@
     {
       "type": "label",
       "line": 1,
+      "context": "declaration",
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,

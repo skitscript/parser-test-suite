@@ -69,6 +69,7 @@
     {
       "type": "character",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "Example Character",
       "normalized": "example-character",
       "fromColumn": 1,
@@ -77,6 +78,7 @@
     {
       "type": "emote",
       "line": 1,
+      "context": "implicitDeclaration",
       "verbatim": "Example  EmoTe",
       "normalized": "example-emote",
       "fromColumn": 20,
@@ -85,6 +87,7 @@
     {
       "type": "character",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "Example Character",
       "normalized": "example-character",
       "fromColumn": 1,
@@ -93,6 +96,7 @@
     {
       "type": "emote",
       "line": 3,
+      "context": "implicitDeclaration",
       "verbatim": "exAMple EMOte",
       "normalized": "example-emote",
       "fromColumn": 22,
