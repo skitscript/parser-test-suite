@@ -4,9 +4,9 @@ import * as path from "path";
 import { parse } from "@skitscript/parser-nodejs";
 
 describe(`parse`, () => {
-  const casesPath = path.join(__dirname, `cases`);
+  const documentCasesPath = path.join(__dirname, `document-cases`);
 
-  const caseNames = fs.readdirSync(casesPath);
+  const caseNames = fs.readdirSync(documentCasesPath);
 
   for (const caseName of caseNames) {
     describe(caseName, () => {
@@ -16,7 +16,7 @@ describe(`parse`, () => {
 
           beforeAll(async () => {
             const source = await fs.promises.readFile(
-              path.join(casesPath, caseName, `input.skitscript`),
+              path.join(documentCasesPath, caseName, `input.skitscript`),
               `utf8`
             );
 
@@ -25,7 +25,7 @@ describe(`parse`, () => {
 
           it(`parses to the expected document`, async () => {
             const outputText = await fs.promises.readFile(
-              path.join(casesPath, caseName, `output.json`),
+              path.join(documentCasesPath, caseName, `output.json`),
               `utf8`
             );
             const output = JSON.parse(outputText);

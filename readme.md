@@ -28,17 +28,26 @@ repository:
 
 ## Usage
 
-The [cases](./cases) directory contains a large number of subdirectories.  Each
-contains a standard set of files:
+### Document cases
 
-### [input.skitscript](./cases/valid/input.skitscript)
+The [document-cases](./document-cases) directory contains a large number of
+subdirectories.  Each contains a standard set of files:
+
+### [input.skitscript](./document-cases/valid/input.skitscript)
 
 This is the Skitscript file which is to be fed into the parser during the test
 case.  Line endings here are LF (`0x0A`); for full specification coverage,
 re-run the test suite with line endings replaced with CR (`0x0D`) and
 CRLF (`0x0D0A`).
 
-### [output.json](./cases/valid/output.json)
+### [output.json](./document-cases/valid/output.json)
 
 This is a JSON representation of the events expected to be output by the parser
 in response.
+
+### Identifier cases
+
+The [identifier-cases](./identifier-cases) directory contains two files;
+[valid.txt](./identifier-cases/valid.txt) and
+[invalid.txt](./identifier-cases/invalid.txt).  Each is a UTF-8 encoded,
+LF-delimited list of valid and invalid identifies respectively.
