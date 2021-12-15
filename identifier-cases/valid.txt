@@ -1,0 +1,141 @@
+a
+A
+abc
+ABC
+123
+ExampleAnd Identifier
+ExampleAre Identifier
+ExampleClear Identifier
+ExampleEnter Identifier
+ExampleEnters Identifier
+ExampleExit Identifier
+ExampleExits Identifier
+ExampleIs Identifier
+ExampleJump Identifier
+ExampleLeads Identifier
+ExampleNot Identifier
+ExampleOr Identifier
+ExampleSet Identifier
+ExampleTo Identifier
+ExampleWhen Identifier
+Example AndIdentifier
+Example AreIdentifier
+Example ClearIdentifier
+Example EnterIdentifier
+Example EntersIdentifier
+Example ExitIdentifier
+Example ExitsIdentifier
+Example IsIdentifier
+Example JumpIdentifier
+Example LeadsIdentifier
+Example NotIdentifier
+Example OrIdentifier
+Example SetIdentifier
+Example ToIdentifier
+Example WhenIdentifier
+ExampleAndIdentifier
+ExampleAreIdentifier
+ExampleClearIdentifier
+ExampleEnterIdentifier
+ExampleEntersIdentifier
+ExampleExitIdentifier
+ExampleExitsIdentifier
+ExampleIsIdentifier
+ExampleJumpIdentifier
+ExampleLeadsIdentifier
+ExampleNotIdentifier
+ExampleOrIdentifier
+ExampleSetIdentifier
+ExampleToIdentifier
+ExampleWhenIdentifier
+EXAMPLEAND IDENTIFIER
+EXAMPLEARE IDENTIFIER
+EXAMPLECLEAR IDENTIFIER
+EXAMPLEENTER IDENTIFIER
+EXAMPLEENTERS IDENTIFIER
+EXAMPLEEXIT IDENTIFIER
+EXAMPLEEXITS IDENTIFIER
+EXAMPLEIS IDENTIFIER
+EXAMPLEJUMP IDENTIFIER
+EXAMPLELEADS IDENTIFIER
+EXAMPLENOT IDENTIFIER
+EXAMPLEOR IDENTIFIER
+EXAMPLESET IDENTIFIER
+EXAMPLETO IDENTIFIER
+EXAMPLEWHEN IDENTIFIER
+EXAMPLE ANDIDENTIFIER
+EXAMPLE AREIDENTIFIER
+EXAMPLE CLEARIDENTIFIER
+EXAMPLE ENTERIDENTIFIER
+EXAMPLE ENTERSIDENTIFIER
+EXAMPLE EXITIDENTIFIER
+EXAMPLE EXITSIDENTIFIER
+EXAMPLE ISIDENTIFIER
+EXAMPLE JUMPIDENTIFIER
+EXAMPLE LEADSIDENTIFIER
+EXAMPLE NOTIDENTIFIER
+EXAMPLE ORIDENTIFIER
+EXAMPLE SETIDENTIFIER
+EXAMPLE TOIDENTIFIER
+EXAMPLE WHENIDENTIFIER
+EXAMPLEANDIDENTIFIER
+EXAMPLEAREIDENTIFIER
+EXAMPLECLEARIDENTIFIER
+EXAMPLEENTERIDENTIFIER
+EXAMPLEENTERSIDENTIFIER
+EXAMPLEEXITIDENTIFIER
+EXAMPLEEXITSIDENTIFIER
+EXAMPLEISIDENTIFIER
+EXAMPLEJUMPIDENTIFIER
+EXAMPLELEADSIDENTIFIER
+EXAMPLENOTIDENTIFIER
+EXAMPLEORIDENTIFIER
+EXAMPLESETIDENTIFIER
+EXAMPLETOIDENTIFIER
+EXAMPLEWHENIDENTIFIER
+exampleand identifier
+exampleare identifier
+exampleclear identifier
+exampleenter identifier
+exampleenters identifier
+exampleexit identifier
+exampleexits identifier
+exampleis identifier
+examplejump identifier
+exampleleads identifier
+examplenot identifier
+exampleor identifier
+exampleset identifier
+exampleto identifier
+examplewhen identifier
+example andidentifier
+example areidentifier
+example clearidentifier
+example enteridentifier
+example entersidentifier
+example exitidentifier
+example exitsidentifier
+example isidentifier
+example jumpidentifier
+example leadsidentifier
+example notidentifier
+example oridentifier
+example setidentifier
+example toidentifier
+example whenidentifier
+exampleandidentifier
+exampleareidentifier
+exampleclearidentifier
+exampleenteridentifier
+exampleentersidentifier
+exampleexitidentifier
+exampleexitsidentifier
+exampleisidentifier
+examplejumpidentifier
+exampleleadsidentifier
+examplenotidentifier
+exampleoridentifier
+examplesetidentifier
+exampletoidentifier
+examplewhenidentifier
+!?'"{}@*/\&#%`   +<=>|$.-Example!?'"{}@*/\&#%`   +<=>|$.-Identifier!?'"{}@*/\&#%`   +<=>|$.-
