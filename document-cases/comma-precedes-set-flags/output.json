@@ -2,6 +2,8 @@
   "type": "invalid",
   "error": {
     "type": "unparsable",
-    "line": 1
+    "line": 1,
+    "fromColumn": 1,
+    "toColumn": 56
   }
 }

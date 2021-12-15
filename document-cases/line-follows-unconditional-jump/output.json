@@ -32,7 +32,9 @@
   "warnings": [
     {
       "type": "unreachable",
-      "line": 7
+      "line": 7,
+      "fromColumn": 3,
+      "toColumn": 15
     }
   ],
   "identifierInstances": [

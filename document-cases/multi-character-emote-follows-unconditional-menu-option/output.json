@@ -100,7 +100,9 @@
   "warnings": [
     {
       "type": "unreachable",
-      "line": 9
+      "line": 9,
+      "fromColumn": 1,
+      "toColumn": 62
     }
   ],
   "identifierInstances": [
