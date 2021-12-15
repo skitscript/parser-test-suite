@@ -30,22 +30,36 @@
       "type": "inconsistentIdentifier",
       "first": {
         "line": 1,
-        "identifier": {
-          "verbatim": "Example Label",
-          "normalized": "example-label",
-          "fromColumn": 3,
-          "toColumn": 15
-        }
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
       },
       "second": {
         "line": 3,
-        "identifier": {
-          "verbatim": "EXAmple     laBel",
-          "normalized": "example-label",
-          "fromColumn": 32,
-          "toColumn": 48
-        }
+        "verbatim": "EXAmple     laBel",
+        "normalized": "example-label",
+        "fromColumn": 32,
+        "toColumn": 48
       }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "type": "label",
+      "line": 1,
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "type": "label",
+      "line": 3,
+      "verbatim": "EXAmple     laBel",
+      "normalized": "example-label",
+      "fromColumn": 32,
+      "toColumn": 48
     }
   ]
 }

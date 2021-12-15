@@ -102,5 +102,63 @@
       "type": "unreachable",
       "line": 9
     }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 3,
+      "type": "flag",
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 5,
+      "toColumn": 16
+    },
+    {
+      "line": 5,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 32,
+      "toColumn": 44
+    },
+    {
+      "line": 5,
+      "type": "flag",
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 51,
+      "toColumn": 62
+    },
+    {
+      "line": 6,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 32,
+      "toColumn": 44
+    },
+    {
+      "line": 7,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 32,
+      "toColumn": 44
+    },
+    {
+      "line": 7,
+      "type": "flag",
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 51,
+      "toColumn": 62
+    }
   ]
 }

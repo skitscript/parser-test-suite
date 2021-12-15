@@ -34,5 +34,39 @@
       "type": "unreachable",
       "line": 7
     }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 5,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 9,
+      "toColumn": 21
+    },
+    {
+      "line": 7,
+      "type": "character",
+      "verbatim": "Example Character",
+      "normalized": "example-character",
+      "fromColumn": 1,
+      "toColumn": 17
+    },
+    {
+      "line": 7,
+      "type": "exitAnimation",
+      "verbatim": "left",
+      "normalized": "left",
+      "fromColumn": 25,
+      "toColumn": 28
+    }
   ]
 }

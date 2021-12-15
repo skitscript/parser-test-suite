@@ -1609,5 +1609,919 @@
       "condition": null
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "background",
+      "verbatim": "Podium",
+      "normalized": "podium",
+      "fromColumn": 11,
+      "toColumn": 16
+    },
+    {
+      "line": 3,
+      "type": "character",
+      "verbatim": "Mr. Explainer",
+      "normalized": "mr-explainer",
+      "fromColumn": 1,
+      "toColumn": 13
+    },
+    {
+      "line": 3,
+      "type": "entryAnimation",
+      "verbatim": "from the left",
+      "normalized": "from-the-left",
+      "fromColumn": 22,
+      "toColumn": 34
+    },
+    {
+      "line": 5,
+      "type": "character",
+      "verbatim": "Mr. Explainer",
+      "normalized": "mr-explainer",
+      "fromColumn": 1,
+      "toColumn": 13
+    },
+    {
+      "line": 12,
+      "type": "character",
+      "verbatim": "Mrs. Elucidator",
+      "normalized": "mrs-elucidator",
+      "fromColumn": 1,
+      "toColumn": 15
+    },
+    {
+      "line": 12,
+      "type": "entryAnimation",
+      "verbatim": "from the right",
+      "normalized": "from-the-right",
+      "fromColumn": 24,
+      "toColumn": 37
+    },
+    {
+      "line": 14,
+      "type": "character",
+      "verbatim": "Mrs. Elucidator",
+      "normalized": "mrs-elucidator",
+      "fromColumn": 1,
+      "toColumn": 15
+    },
+    {
+      "line": 14,
+      "type": "emote",
+      "verbatim": "proud",
+      "normalized": "proud",
+      "fromColumn": 18,
+      "toColumn": 22
+    },
+    {
+      "line": 17,
+      "type": "character",
+      "verbatim": "Mr. Explainer",
+      "normalized": "mr-explainer",
+      "fromColumn": 1,
+      "toColumn": 13
+    },
+    {
+      "line": 17,
+      "type": "emote",
+      "verbatim": "shocked",
+      "normalized": "shocked",
+      "fromColumn": 18,
+      "toColumn": 24
+    },
+    {
+      "line": 19,
+      "type": "character",
+      "verbatim": "Mr. Explainer",
+      "normalized": "mr-explainer",
+      "fromColumn": 1,
+      "toColumn": 13
+    },
+    {
+      "line": 22,
+      "type": "character",
+      "verbatim": "Mr. Company",
+      "normalized": "mr-company",
+      "fromColumn": 1,
+      "toColumn": 11
+    },
+    {
+      "line": 22,
+      "type": "entryAnimation",
+      "verbatim": "from the left",
+      "normalized": "from-the-left",
+      "fromColumn": 20,
+      "toColumn": 32
+    },
+    {
+      "line": 22,
+      "type": "emote",
+      "verbatim": "surprised",
+      "normalized": "surprised",
+      "fromColumn": 35,
+      "toColumn": 43
+    },
+    {
+      "line": 23,
+      "type": "character",
+      "verbatim": "Mrs. Crowd",
+      "normalized": "mrs-crowd",
+      "fromColumn": 1,
+      "toColumn": 10
+    },
+    {
+      "line": 23,
+      "type": "entryAnimation",
+      "verbatim": "from the right",
+      "normalized": "from-the-right",
+      "fromColumn": 19,
+      "toColumn": 32
+    },
+    {
+      "line": 25,
+      "type": "character",
+      "verbatim": "Mr. Explainer",
+      "normalized": "mr-explainer",
+      "fromColumn": 1,
+      "toColumn": 13
+    },
+    {
+      "line": 25,
+      "type": "character",
+      "verbatim": "Mrs. Elucidator",
+      "normalized": "mrs-elucidator",
+      "fromColumn": 16,
+      "toColumn": 30
+    },
+    {
+      "line": 25,
+      "type": "character",
+      "verbatim": "Mr. Company",
+      "normalized": "mr-company",
+      "fromColumn": 33,
+      "toColumn": 43
+    },
+    {
+      "line": 25,
+      "type": "character",
+      "verbatim": "Mrs. Crowd",
+      "normalized": "mrs-crowd",
+      "fromColumn": 49,
+      "toColumn": 58
+    },
+    {
+      "line": 29,
+      "type": "character",
+      "verbatim": "Mr. Explainer",
+      "normalized": "mr-explainer",
+      "fromColumn": 1,
+      "toColumn": 13
+    },
+    {
+      "line": 29,
+      "type": "character",
+      "verbatim": "Mr. Company",
+      "normalized": "mr-company",
+      "fromColumn": 19,
+      "toColumn": 29
+    },
+    {
+      "line": 29,
+      "type": "exitAnimation",
+      "verbatim": "left",
+      "normalized": "left",
+      "fromColumn": 36,
+      "toColumn": 39
+    },
+    {
+      "line": 29,
+      "type": "emote",
+      "verbatim": "waving",
+      "normalized": "waving",
+      "fromColumn": 42,
+      "toColumn": 47
+    },
+    {
+      "line": 30,
+      "type": "character",
+      "verbatim": "Mrs. Elucidator",
+      "normalized": "mrs-elucidator",
+      "fromColumn": 1,
+      "toColumn": 15
+    },
+    {
+      "line": 30,
+      "type": "character",
+      "verbatim": "Mrs. Crowd",
+      "normalized": "mrs-crowd",
+      "fromColumn": 21,
+      "toColumn": 30
+    },
+    {
+      "line": 30,
+      "type": "exitAnimation",
+      "verbatim": "right",
+      "normalized": "right",
+      "fromColumn": 37,
+      "toColumn": 41
+    },
+    {
+      "line": 30,
+      "type": "emote",
+      "verbatim": "waving",
+      "normalized": "waving",
+      "fromColumn": 44,
+      "toColumn": 49
+    },
+    {
+      "line": 32,
+      "type": "background",
+      "verbatim": "!?'\"{}@*/\\&#%`   +<=>|$.-Interview!?'\"{}@*/\\&#%`   +<=>|$.-Room!?'\"{}@*/\\&#%`   +<=>|$.-",
+      "normalized": "interview-room",
+      "fromColumn": 11,
+      "toColumn": 98
+    },
+    {
+      "line": 34,
+      "type": "character",
+      "verbatim": "The Questioner",
+      "normalized": "the-questioner",
+      "fromColumn": 1,
+      "toColumn": 14
+    },
+    {
+      "line": 34,
+      "type": "entryAnimation",
+      "verbatim": "from the bottom",
+      "normalized": "from-the-bottom",
+      "fromColumn": 23,
+      "toColumn": 37
+    },
+    {
+      "line": 34,
+      "type": "emote",
+      "verbatim": "eyebrow raised",
+      "normalized": "eyebrow-raised",
+      "fromColumn": 40,
+      "toColumn": 53
+    },
+    {
+      "line": 36,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 3,
+      "toColumn": 6
+    },
+    {
+      "line": 38,
+      "type": "character",
+      "verbatim": "The Questioner",
+      "normalized": "the-questioner",
+      "fromColumn": 1,
+      "toColumn": 14
+    },
+    {
+      "line": 41,
+      "type": "label",
+      "verbatim": "Reset",
+      "normalized": "reset",
+      "fromColumn": 18,
+      "toColumn": 22
+    },
+    {
+      "line": 42,
+      "type": "label",
+      "verbatim": "State Viewer",
+      "normalized": "state-viewer",
+      "fromColumn": 23,
+      "toColumn": 34
+    },
+    {
+      "line": 43,
+      "type": "label",
+      "verbatim": "Flag Setter A",
+      "normalized": "flag-setter-a",
+      "fromColumn": 25,
+      "toColumn": 37
+    },
+    {
+      "line": 44,
+      "type": "label",
+      "verbatim": "Flag Setter B",
+      "normalized": "flag-setter-b",
+      "fromColumn": 27,
+      "toColumn": 39
+    },
+    {
+      "line": 45,
+      "type": "label",
+      "verbatim": "Flag Setter C",
+      "normalized": "flag-setter-c",
+      "fromColumn": 25,
+      "toColumn": 37
+    },
+    {
+      "line": 46,
+      "type": "label",
+      "verbatim": "Remark No Flags",
+      "normalized": "remark-no-flags",
+      "fromColumn": 57,
+      "toColumn": 71
+    },
+    {
+      "line": 46,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 82,
+      "toColumn": 87
+    },
+    {
+      "line": 46,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 90,
+      "toColumn": 95
+    },
+    {
+      "line": 46,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 100,
+      "toColumn": 105
+    },
+    {
+      "line": 47,
+      "type": "label",
+      "verbatim": "Remark At Least One Flag",
+      "normalized": "remark-at-least-one-flag",
+      "fromColumn": 55,
+      "toColumn": 78
+    },
+    {
+      "line": 47,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 85,
+      "toColumn": 90
+    },
+    {
+      "line": 47,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 93,
+      "toColumn": 98
+    },
+    {
+      "line": 47,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 103,
+      "toColumn": 108
+    },
+    {
+      "line": 48,
+      "type": "label",
+      "verbatim": "Remark At Least Some Flags Missing",
+      "normalized": "remark-at-least-some-flags-missing",
+      "fromColumn": 59,
+      "toColumn": 92
+    },
+    {
+      "line": 48,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 103,
+      "toColumn": 108
+    },
+    {
+      "line": 48,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 111,
+      "toColumn": 116
+    },
+    {
+      "line": 48,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 122,
+      "toColumn": 127
+    },
+    {
+      "line": 49,
+      "type": "label",
+      "verbatim": "Remark All Flags",
+      "normalized": "remark-all-flags",
+      "fromColumn": 57,
+      "toColumn": 72
+    },
+    {
+      "line": 49,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 79,
+      "toColumn": 84
+    },
+    {
+      "line": 49,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 87,
+      "toColumn": 92
+    },
+    {
+      "line": 49,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 98,
+      "toColumn": 103
+    },
+    {
+      "line": 51,
+      "type": "label",
+      "verbatim": "Reset",
+      "normalized": "reset",
+      "fromColumn": 3,
+      "toColumn": 7
+    },
+    {
+      "line": 53,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 7,
+      "toColumn": 12
+    },
+    {
+      "line": 53,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 15,
+      "toColumn": 20
+    },
+    {
+      "line": 53,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 26,
+      "toColumn": 31
+    },
+    {
+      "line": 57,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 59,
+      "type": "label",
+      "verbatim": "State Viewer",
+      "normalized": "state-viewer",
+      "fromColumn": 3,
+      "toColumn": 14
+    },
+    {
+      "line": 61,
+      "type": "label",
+      "verbatim": "State Viewer - None",
+      "normalized": "state-viewer-none",
+      "fromColumn": 9,
+      "toColumn": 27
+    },
+    {
+      "line": 61,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 38,
+      "toColumn": 43
+    },
+    {
+      "line": 61,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 46,
+      "toColumn": 51
+    },
+    {
+      "line": 61,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 56,
+      "toColumn": 61
+    },
+    {
+      "line": 62,
+      "type": "label",
+      "verbatim": "State Viewer - All",
+      "normalized": "state-viewer-all",
+      "fromColumn": 9,
+      "toColumn": 26
+    },
+    {
+      "line": 62,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 33,
+      "toColumn": 38
+    },
+    {
+      "line": 62,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 41,
+      "toColumn": 46
+    },
+    {
+      "line": 62,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 52,
+      "toColumn": 57
+    },
+    {
+      "line": 64,
+      "type": "label",
+      "verbatim": "State Viewer - Only A",
+      "normalized": "state-viewer-only-a",
+      "fromColumn": 9,
+      "toColumn": 29
+    },
+    {
+      "line": 64,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 40,
+      "toColumn": 45
+    },
+    {
+      "line": 64,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 50,
+      "toColumn": 55
+    },
+    {
+      "line": 65,
+      "type": "label",
+      "verbatim": "State Viewer - Only B",
+      "normalized": "state-viewer-only-b",
+      "fromColumn": 9,
+      "toColumn": 29
+    },
+    {
+      "line": 65,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 40,
+      "toColumn": 45
+    },
+    {
+      "line": 65,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 50,
+      "toColumn": 55
+    },
+    {
+      "line": 66,
+      "type": "label",
+      "verbatim": "State Viewer - Only C",
+      "normalized": "state-viewer-only-c",
+      "fromColumn": 9,
+      "toColumn": 29
+    },
+    {
+      "line": 66,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 40,
+      "toColumn": 45
+    },
+    {
+      "line": 66,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 50,
+      "toColumn": 55
+    },
+    {
+      "line": 68,
+      "type": "label",
+      "verbatim": "State Viewer - A + B",
+      "normalized": "state-viewer-a-b",
+      "fromColumn": 9,
+      "toColumn": 28
+    },
+    {
+      "line": 68,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 39,
+      "toColumn": 44
+    },
+    {
+      "line": 69,
+      "type": "label",
+      "verbatim": "State Viewer - A + C",
+      "normalized": "state-viewer-a-c",
+      "fromColumn": 9,
+      "toColumn": 28
+    },
+    {
+      "line": 69,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 39,
+      "toColumn": 44
+    },
+    {
+      "line": 73,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 75,
+      "type": "label",
+      "verbatim": "State Viewer - None",
+      "normalized": "state-viewer-none",
+      "fromColumn": 3,
+      "toColumn": 21
+    },
+    {
+      "line": 79,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 81,
+      "type": "label",
+      "verbatim": "State Viewer - All",
+      "normalized": "state-viewer-all",
+      "fromColumn": 3,
+      "toColumn": 20
+    },
+    {
+      "line": 85,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 87,
+      "type": "label",
+      "verbatim": "State Viewer - Only A",
+      "normalized": "state-viewer-only-a",
+      "fromColumn": 3,
+      "toColumn": 23
+    },
+    {
+      "line": 91,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 93,
+      "type": "label",
+      "verbatim": "State Viewer - Only B",
+      "normalized": "state-viewer-only-b",
+      "fromColumn": 3,
+      "toColumn": 23
+    },
+    {
+      "line": 97,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 99,
+      "type": "label",
+      "verbatim": "State Viewer - Only C",
+      "normalized": "state-viewer-only-c",
+      "fromColumn": 3,
+      "toColumn": 23
+    },
+    {
+      "line": 103,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 105,
+      "type": "label",
+      "verbatim": "State Viewer - A + B",
+      "normalized": "state-viewer-a-b",
+      "fromColumn": 3,
+      "toColumn": 22
+    },
+    {
+      "line": 109,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 111,
+      "type": "label",
+      "verbatim": "State Viewer - A + C",
+      "normalized": "state-viewer-a-c",
+      "fromColumn": 3,
+      "toColumn": 22
+    },
+    {
+      "line": 115,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 117,
+      "type": "label",
+      "verbatim": "Flag Setter A",
+      "normalized": "flag-setter-a",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 119,
+      "type": "flag",
+      "verbatim": "flag A",
+      "normalized": "flag-a",
+      "fromColumn": 5,
+      "toColumn": 10
+    },
+    {
+      "line": 123,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 125,
+      "type": "label",
+      "verbatim": "Flag Setter B",
+      "normalized": "flag-setter-b",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 127,
+      "type": "flag",
+      "verbatim": "flag B",
+      "normalized": "flag-b",
+      "fromColumn": 5,
+      "toColumn": 10
+    },
+    {
+      "line": 131,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 133,
+      "type": "label",
+      "verbatim": "Flag Setter C",
+      "normalized": "flag-setter-c",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 135,
+      "type": "flag",
+      "verbatim": "flag C",
+      "normalized": "flag-c",
+      "fromColumn": 5,
+      "toColumn": 10
+    },
+    {
+      "line": 139,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 141,
+      "type": "label",
+      "verbatim": "Remark No Flags",
+      "normalized": "remark-no-flags",
+      "fromColumn": 3,
+      "toColumn": 17
+    },
+    {
+      "line": 145,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 147,
+      "type": "label",
+      "verbatim": "Remark At Least One Flag",
+      "normalized": "remark-at-least-one-flag",
+      "fromColumn": 3,
+      "toColumn": 26
+    },
+    {
+      "line": 151,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 153,
+      "type": "label",
+      "verbatim": "Remark At Least Some Flags Missing",
+      "normalized": "remark-at-least-some-flags-missing",
+      "fromColumn": 3,
+      "toColumn": 36
+    },
+    {
+      "line": 157,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    },
+    {
+      "line": 159,
+      "type": "label",
+      "verbatim": "Remark All Flags",
+      "normalized": "remark-all-flags",
+      "fromColumn": 3,
+      "toColumn": 18
+    },
+    {
+      "line": 163,
+      "type": "label",
+      "verbatim": "Menu",
+      "normalized": "menu",
+      "fromColumn": 9,
+      "toColumn": 12
+    }
+  ]
 }

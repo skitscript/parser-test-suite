@@ -40,5 +40,23 @@
         "toColumn": 15
       }
     }
+  ],
+  "identifierInstances": [
+    {
+      "type": "label",
+      "line": 3,
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 9,
+      "toColumn": 21
+    },
+    {
+      "type": "label",
+      "line": 5,
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    }
   ]
 }

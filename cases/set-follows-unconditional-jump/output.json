@@ -34,5 +34,31 @@
       "type": "unreachable",
       "line": 7
     }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    },
+    {
+      "line": 5,
+      "type": "label",
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 9,
+      "toColumn": 21
+    },
+    {
+      "line": 7,
+      "type": "flag",
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 5,
+      "toColumn": 16
+    }
   ]
 }

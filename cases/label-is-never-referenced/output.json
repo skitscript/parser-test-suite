@@ -12,5 +12,15 @@
         "toColumn": 15
       }
     }
+  ],
+  "identifierInstances": [
+    {
+      "type": "label",
+      "line": 1,
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 3,
+      "toColumn": 15
+    }
   ]
 }
