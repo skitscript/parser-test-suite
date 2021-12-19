@@ -1,4 +1,4 @@
-# Skitscript Parser Test Suite [![Continuous Integration](https://github.com/skitscript/parser-test-suite/workflows/Continuous%20Integration/badge.svg)](https://github.com/skitscript/parser-test-suite/actions) [![License](https://img.shields.io/github/license/skitscript/parser-test-suite.svg)](https://github.com/skitscript/parser-test-suite/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+# Skitscript Parser Test Suite [![License](https://img.shields.io/github/license/skitscript/parser-test-suite.svg)](https://github.com/skitscript/parser-test-suite/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 A test suite for parsers of Skitscript documents.
 
