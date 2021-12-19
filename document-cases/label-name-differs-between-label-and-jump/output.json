@@ -25,7 +25,7 @@
         "fromColumn": 9,
         "toColumn": 25
       },
-      "statementIndex": 0,
+      "instructionIndex": 0,
       "condition": null
     }
   ],

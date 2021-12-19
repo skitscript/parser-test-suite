@@ -622,7 +622,7 @@
         "fromColumn": 18,
         "toColumn": 22
       },
-      "statementIndex": 43,
+      "instructionIndex": 43,
       "condition": null
     },
     {
@@ -645,7 +645,7 @@
         "fromColumn": 23,
         "toColumn": 34
       },
-      "statementIndex": 48,
+      "instructionIndex": 48,
       "condition": null
     },
     {
@@ -677,7 +677,7 @@
         "fromColumn": 25,
         "toColumn": 37
       },
-      "statementIndex": 71,
+      "instructionIndex": 71,
       "condition": null
     },
     {
@@ -709,7 +709,7 @@
         "fromColumn": 27,
         "toColumn": 39
       },
-      "statementIndex": 74,
+      "instructionIndex": 74,
       "condition": null
     },
     {
@@ -741,7 +741,7 @@
         "fromColumn": 25,
         "toColumn": 37
       },
-      "statementIndex": 77,
+      "instructionIndex": 77,
       "condition": null
     },
     {
@@ -764,7 +764,7 @@
         "fromColumn": 57,
         "toColumn": 71
       },
-      "statementIndex": 80,
+      "instructionIndex": 80,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -809,7 +809,7 @@
         "fromColumn": 55,
         "toColumn": 78
       },
-      "statementIndex": 82,
+      "instructionIndex": 82,
       "condition": {
         "type": "someFlagsSet",
         "flags": [
@@ -854,7 +854,7 @@
         "fromColumn": 59,
         "toColumn": 92
       },
-      "statementIndex": 84,
+      "instructionIndex": 84,
       "condition": {
         "type": "someFlagsClear",
         "flags": [
@@ -899,7 +899,7 @@
         "fromColumn": 57,
         "toColumn": 72
       },
-      "statementIndex": 86,
+      "instructionIndex": 86,
       "condition": {
         "type": "everyFlagSet",
         "flags": [
@@ -978,7 +978,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -990,7 +990,7 @@
         "fromColumn": 9,
         "toColumn": 27
       },
-      "statementIndex": 57,
+      "instructionIndex": 57,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1024,7 +1024,7 @@
         "fromColumn": 9,
         "toColumn": 26
       },
-      "statementIndex": 59,
+      "instructionIndex": 59,
       "condition": {
         "type": "everyFlagSet",
         "flags": [
@@ -1058,7 +1058,7 @@
         "fromColumn": 9,
         "toColumn": 29
       },
-      "statementIndex": 61,
+      "instructionIndex": 61,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1086,7 +1086,7 @@
         "fromColumn": 9,
         "toColumn": 29
       },
-      "statementIndex": 63,
+      "instructionIndex": 63,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1114,7 +1114,7 @@
         "fromColumn": 9,
         "toColumn": 29
       },
-      "statementIndex": 65,
+      "instructionIndex": 65,
       "condition": {
         "type": "everyFlagClear",
         "flags": [
@@ -1142,7 +1142,7 @@
         "fromColumn": 9,
         "toColumn": 28
       },
-      "statementIndex": 67,
+      "instructionIndex": 67,
       "condition": {
         "type": "flagClear",
         "flag": {
@@ -1162,7 +1162,7 @@
         "fromColumn": 9,
         "toColumn": 28
       },
-      "statementIndex": 69,
+      "instructionIndex": 69,
       "condition": {
         "type": "flagClear",
         "flag": {
@@ -1197,7 +1197,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1224,7 +1224,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1251,7 +1251,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1278,7 +1278,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1305,7 +1305,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1332,7 +1332,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1359,7 +1359,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1386,7 +1386,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1423,7 +1423,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1460,7 +1460,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1497,7 +1497,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1524,7 +1524,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1551,7 +1551,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1578,7 +1578,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     },
     {
@@ -1605,7 +1605,7 @@
         "fromColumn": 9,
         "toColumn": 12
       },
-      "statementIndex": 32,
+      "instructionIndex": 32,
       "condition": null
     }
   ],
