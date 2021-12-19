@@ -134,13 +134,22 @@
       "line": 9,
       "content": [
         {
+          "bold": true,
+          "italic": true,
+          "code": true,
+          "verbatim": "***`This`***",
+          "plainText": "This",
+          "fromColumn": 3,
+          "toColumn": 14
+        },
+        {
           "bold": false,
           "italic": false,
           "code": false,
-          "verbatim": "This includes `",
-          "plainText": "This includes ",
-          "fromColumn": 3,
-          "toColumn": 17
+          "verbatim": " includes `",
+          "plainText": " includes ",
+          "fromColumn": 15,
+          "toColumn": 25
         },
         {
           "bold": false,
@@ -148,8 +157,8 @@
           "code": true,
           "verbatim": "inline \\`code\\\\ segments`",
           "plainText": "inline `code\\ segments",
-          "fromColumn": 18,
-          "toColumn": 42
+          "fromColumn": 26,
+          "toColumn": 50
         },
         {
           "bold": false,
@@ -157,8 +166,8 @@
           "code": false,
           "verbatim": " which can be inside ***`",
           "plainText": " which can be inside ",
-          "fromColumn": 43,
-          "toColumn": 67
+          "fromColumn": 51,
+          "toColumn": 75
         },
         {
           "bold": true,
@@ -166,8 +175,8 @@
           "code": true,
           "verbatim": "other-*sections* **formatted in other ways**`***",
           "plainText": "other-*sections* **formatted in other ways**",
-          "fromColumn": 68,
-          "toColumn": 115
+          "fromColumn": 76,
+          "toColumn": 123
         },
         {
           "bold": false,
@@ -175,8 +184,8 @@
           "code": false,
           "verbatim": ".",
           "plainText": ".",
-          "fromColumn": 116,
-          "toColumn": 116
+          "fromColumn": 124,
+          "toColumn": 124
         }
       ]
     },
