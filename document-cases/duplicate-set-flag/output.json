@@ -60,7 +60,7 @@
         "fromColumn": 9,
         "toColumn": 26
       },
-      "statementIndex": 0,
+      "instructionIndex": 0,
       "condition": {
         "type": "someFlagsSet",
         "flags": [

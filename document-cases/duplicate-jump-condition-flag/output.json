@@ -40,7 +40,7 @@
         "fromColumn": 9,
         "toColumn": 21
       },
-      "statementIndex": 0,
+      "instructionIndex": 0,
       "condition": {
         "type": "everyFlagSet",
         "flags": [
