@@ -6,7 +6,7 @@ Mr. Explainer:
   By default, characters display the "neutral" emote.
   Any number of lines of dialog can be given following the name of a character (the speaker).
   Syntax *similar **to** markdown* can be *\\used.*
-  This includes `inline \`code\\ segments` which can be inside ***`other-*sections* **formatted in other ways**`***.
+  ***`This`*** includes `inline \`code\\ segments` which can be inside ***`other-*sections* **formatted in other ways**`***.
   All \*such\* \`syntax\` \*\*can\*\* be \\es\\\\caped.
 
 Mrs. Elucidator enters from the right.
