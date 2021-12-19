@@ -10,7 +10,7 @@
         "fromColumn": 9,
         "toColumn": 21
       },
-      "statementIndex": 1,
+      "instructionIndex": 1,
       "condition": null
     },
     {

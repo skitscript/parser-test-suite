@@ -31,7 +31,7 @@
         "fromColumn": 32,
         "toColumn": 44
       },
-      "statementIndex": 0,
+      "instructionIndex": 0,
       "condition": {
         "type": "flagSet",
         "flag": {
@@ -62,7 +62,7 @@
         "fromColumn": 32,
         "toColumn": 44
       },
-      "statementIndex": 0,
+      "instructionIndex": 0,
       "condition": null
     },
     {
@@ -85,7 +85,7 @@
         "fromColumn": 32,
         "toColumn": 44
       },
-      "statementIndex": 0,
+      "instructionIndex": 0,
       "condition": {
         "type": "flagSet",
         "flag": {
