@@ -9,10 +9,6 @@
   "files.eol": "\n",
   "files.exclude": {
     "**/.git": true,
-    "**/.DS_Store": true,
-    "node_modules": true,
-    "**/*.js": true,
-    "**/*.d.ts": true,
-    ".nyc_output": true
+    "**/.DS_Store": true
   }
 }
