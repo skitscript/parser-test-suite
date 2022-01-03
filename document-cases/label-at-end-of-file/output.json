@@ -25,8 +25,18 @@
         "fromColumn": 9,
         "toColumn": 21
       },
-      "instructionIndex": 0,
+      "instructionIndex": 2,
       "condition": null
+    },
+    {
+      "type": "label",
+      "line": 5,
+      "label": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      }
     }
   ],
   "warnings": [

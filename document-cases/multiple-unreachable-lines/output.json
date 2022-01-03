@@ -14,6 +14,16 @@
       "condition": null
     },
     {
+      "type": "label",
+      "line": 8,
+      "label": {
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      }
+    },
+    {
       "type": "line",
       "line": 10,
       "content": [
