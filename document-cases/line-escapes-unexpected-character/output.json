@@ -1,10 +1,14 @@
 {
   "type": "invalid",
-  "error": {
-    "type": "invalidEscapeSequence",
-    "line": 1,
-    "fromColumn": 16,
-    "toColumn": 17,
-    "verbatim": "\\Q"
-  }
+  "errors": [
+    {
+      "type": "invalidEscapeSequence",
+      "line": 1,
+      "fromColumn": 16,
+      "toColumn": 17,
+      "verbatim": "\\Q"
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": []
 }
