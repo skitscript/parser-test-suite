@@ -1,20 +1,52 @@
 {
   "type": "invalid",
-  "error": {
-    "type": "duplicateLabel",
-    "first": {
+  "errors": [
+    {
+      "type": "duplicateLabel",
+      "first": {
+        "line": 1,
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      },
+      "second": {
+        "line": 3,
+        "verbatim": "Example Label",
+        "normalized": "example-label",
+        "fromColumn": 3,
+        "toColumn": 15
+      }
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": [
+    {
+      "type": "label",
+      "context": "declaration",
       "line": 1,
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,
       "toColumn": 15
     },
-    "second": {
+    {
+      "type": "label",
+      "context": "declaration",
       "line": 3,
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 3,
       "toColumn": 15
+    },
+    {
+      "type": "label",
+      "context": "reference",
+      "line": 7,
+      "verbatim": "Example Label",
+      "normalized": "example-label",
+      "fromColumn": 9,
+      "toColumn": 21
     }
-  }
+  ]
 }

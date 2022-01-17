@@ -1,8 +1,12 @@
 {
   "type": "invalid",
-  "error": {
-    "type": "incompleteEscapeSequence",
-    "line": 1,
-    "column": 40
-  }
+  "errors": [
+    {
+      "type": "incompleteEscapeSequence",
+      "line": 1,
+      "column": 40
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": []
 }
