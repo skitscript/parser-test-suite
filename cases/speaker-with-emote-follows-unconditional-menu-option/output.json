@@ -170,11 +170,11 @@
     },
     {
       "line": 9,
-      "type": "exitAnimation",
-      "verbatim": "left",
-      "normalized": "left",
-      "fromColumn": 25,
-      "toColumn": 28
+      "type": "emote",
+      "verbatim": "Example Emote",
+      "normalized": "example-emote",
+      "fromColumn": 20,
+      "toColumn": 32
     }
   ]
 }

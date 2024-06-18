@@ -163,18 +163,34 @@
     {
       "line": 9,
       "type": "character",
-      "verbatim": "Example Character",
-      "normalized": "example-character",
+      "verbatim": "Example Character A",
+      "normalized": "example-character-a",
       "fromColumn": 1,
-      "toColumn": 17
+      "toColumn": 19
     },
     {
       "line": 9,
-      "type": "exitAnimation",
+      "type": "character",
+      "verbatim": "Example Character B",
+      "normalized": "example-character-b",
+      "fromColumn": 25,
+      "toColumn": 43
+    },
+    {
+      "line": 9,
+      "type": "entryAnimation",
       "verbatim": "left",
       "normalized": "left",
-      "fromColumn": 25,
-      "toColumn": 28
+      "fromColumn": 51,
+      "toColumn": 54
+    },
+    {
+      "line": 9,
+      "type": "emote",
+      "verbatim": "Example Emote",
+      "normalized": "example-emote",
+      "fromColumn": 57,
+      "toColumn": 69
     }
   ]
 }

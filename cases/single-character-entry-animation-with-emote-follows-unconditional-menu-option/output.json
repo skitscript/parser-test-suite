@@ -170,11 +170,19 @@
     },
     {
       "line": 9,
-      "type": "exitAnimation",
-      "verbatim": "left",
-      "normalized": "left",
-      "fromColumn": 25,
-      "toColumn": 28
+      "type": "entryAnimation",
+      "verbatim": "from the left",
+      "normalized": "from-the-left",
+      "fromColumn": 26,
+      "toColumn": 38
+    },
+    {
+      "line": 9,
+      "type": "emote",
+      "verbatim": "Example Emote",
+      "normalized": "example-emote",
+      "fromColumn": 41,
+      "toColumn": 53
     }
   ]
 }
