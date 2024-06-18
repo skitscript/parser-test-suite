@@ -10,5 +10,9 @@
   "files.exclude": {
     "**/.git": true,
     "**/.DS_Store": true
-  }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.rulers": [
+    80
+  ]
 }
