@@ -1,0 +1,27 @@
+{
+  "type": "valid",
+  "instructions": [
+    {
+      "type": "location",
+      "line": 1,
+      "background": {
+        "verbatim": "Example Background",
+        "normalized": "example-background",
+        "fromColumn": 16,
+        "toColumn": 33
+      }
+    }
+  ],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "background",
+      "context": "implicitDeclaration",
+      "verbatim": "Example Background",
+      "normalized": "example-background",
+      "fromColumn": 16,
+      "toColumn": 33
+    }
+  ],
+  "warnings": []
+}
