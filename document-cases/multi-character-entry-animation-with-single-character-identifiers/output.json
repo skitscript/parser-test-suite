@@ -1,0 +1,92 @@
+{
+  "type": "valid",
+  "instructions": [
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "A",
+        "normalized": "a",
+        "fromColumn": 1,
+        "toColumn": 1
+      },
+      "animation": {
+        "verbatim": "D",
+        "normalized": "d",
+        "fromColumn": 18,
+        "toColumn": 18
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "B",
+        "normalized": "b",
+        "fromColumn": 4,
+        "toColumn": 4
+      },
+      "animation": {
+        "verbatim": "D",
+        "normalized": "d",
+        "fromColumn": 18,
+        "toColumn": 18
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "C",
+        "normalized": "c",
+        "fromColumn": 10,
+        "toColumn": 10
+      },
+      "animation": {
+        "verbatim": "D",
+        "normalized": "d",
+        "fromColumn": 18,
+        "toColumn": 18
+      }
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": [
+    {
+      "line": 1,
+      "type": "character",
+      "context": "implicitDeclaration",
+      "verbatim": "A",
+      "normalized": "a",
+      "fromColumn": 1,
+      "toColumn": 1
+    },
+    {
+      "line": 1,
+      "type": "character",
+      "context": "implicitDeclaration",
+      "verbatim": "B",
+      "normalized": "b",
+      "fromColumn": 4,
+      "toColumn": 4
+    },
+    {
+      "line": 1,
+      "type": "character",
+      "context": "implicitDeclaration",
+      "verbatim": "C",
+      "normalized": "c",
+      "fromColumn": 10,
+      "toColumn": 10
+    },
+    {
+      "line": 1,
+      "type": "entryAnimation",
+      "context": "implicitDeclaration",
+      "verbatim": "D",
+      "normalized": "d",
+      "fromColumn": 18,
+      "toColumn": 18
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "type": "valid",
+  "instructions": [
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Jeff",
+        "normalized": "jeff",
+        "fromColumn": 1,
+        "toColumn": 4
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Enyer",
+        "normalized": "enyer",
+        "fromColumn": 7,
+        "toColumn": 11
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Entyr",
+        "normalized": "entyr",
+        "fromColumn": 14,
+        "toColumn": 18
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Entey",
+        "normalized": "entey",
+        "fromColumn": 21,
+        "toColumn": 25
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Entery",
+        "normalized": "entery",
+        "fromColumn": 28,
+        "toColumn": 33
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Entersy",
+        "normalized": "entersy",
+        "fromColumn": 36,
+        "toColumn": 42
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    },
+    {
+      "type": "entryAnimation",
+      "line": 1,
+      "character": {
+        "verbatim": "Andy",
+        "normalized": "andy",
+        "fromColumn": 48,
+        "toColumn": 51
+      },
+      "animation": {
+        "verbatim": "left",
+        "normalized": "left",
+        "fromColumn": 59,
+        "toColumn": 62
+      }
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": [
+    {
+      "verbatim": "Jeff",
+      "normalized": "jeff",
+      "fromColumn": 1,
+      "toColumn": 4,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "Enyer",
+      "normalized": "enyer",
+      "fromColumn": 7,
+      "toColumn": 11,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "Entyr",
+      "normalized": "entyr",
+      "fromColumn": 14,
+      "toColumn": 18,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "Entey",
+      "normalized": "entey",
+      "fromColumn": 21,
+      "toColumn": 25,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "Entery",
+      "normalized": "entery",
+      "fromColumn": 28,
+      "toColumn": 33,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "Entersy",
+      "normalized": "entersy",
+      "fromColumn": 36,
+      "toColumn": 42,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "Andy",
+      "normalized": "andy",
+      "fromColumn": 48,
+      "toColumn": 51,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "left",
+      "normalized": "left",
+      "fromColumn": 59,
+      "toColumn": 62,
+      "type": "entryAnimation",
+      "line": 1,
+      "context": "implicitDeclaration"
+    }
+  ]
+}

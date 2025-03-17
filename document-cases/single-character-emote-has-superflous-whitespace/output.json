@@ -1,0 +1,42 @@
+{
+  "type": "valid",
+  "instructions": [
+    {
+      "type": "emote",
+      "line": 1,
+      "character": {
+        "verbatim": "Andy",
+        "normalized": "andy",
+        "fromColumn": 1,
+        "toColumn": 4
+      },
+      "emote": {
+        "verbatim": "blue",
+        "normalized": "blue",
+        "fromColumn": 10,
+        "toColumn": 13
+      }
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": [
+    {
+      "verbatim": "Andy",
+      "normalized": "andy",
+      "fromColumn": 1,
+      "toColumn": 4,
+      "type": "character",
+      "line": 1,
+      "context": "implicitDeclaration"
+    },
+    {
+      "verbatim": "blue",
+      "normalized": "blue",
+      "fromColumn": 10,
+      "toColumn": 13,
+      "type": "emote",
+      "line": 1,
+      "context": "implicitDeclaration"
+    }
+  ]
+}
