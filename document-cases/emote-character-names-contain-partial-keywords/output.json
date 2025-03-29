@@ -1,217 +1,217 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Joe",
-        "normalized": "joe",
-        "fromColumn": 1,
-        "toColumn": 3
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Andy",
-        "normalized": "andy",
-        "fromColumn": 6,
-        "toColumn": 9
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Ave",
-        "normalized": "ave",
-        "fromColumn": 12,
-        "toColumn": 14
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Ari",
-        "normalized": "ari",
-        "fromColumn": 17,
-        "toColumn": 19
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Ane",
-        "normalized": "ane",
-        "fromColumn": 22,
-        "toColumn": 24
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Aren",
-        "normalized": "aren",
-        "fromColumn": 27,
-        "toColumn": 30
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Isa",
-        "normalized": "isa",
-        "fromColumn": 33,
-        "toColumn": 35
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Ix",
-        "normalized": "ix",
-        "fromColumn": 41,
-        "toColumn": 42
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 48,
-        "toColumn": 51
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "verbatim": "Joe",
-      "normalized": "joe",
+      "context": "implicitDeclaration",
       "fromColumn": 1,
+      "line": 1,
+      "normalized": "joe",
       "toColumn": 3,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Joe"
     },
     {
-      "verbatim": "Andy",
-      "normalized": "andy",
+      "context": "implicitDeclaration",
       "fromColumn": 6,
+      "line": 1,
+      "normalized": "andy",
       "toColumn": 9,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Andy"
     },
     {
-      "verbatim": "Ave",
-      "normalized": "ave",
+      "context": "implicitDeclaration",
       "fromColumn": 12,
+      "line": 1,
+      "normalized": "ave",
       "toColumn": 14,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Ave"
     },
     {
-      "verbatim": "Ari",
-      "normalized": "ari",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 1,
+      "normalized": "ari",
       "toColumn": 19,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Ari"
     },
     {
-      "verbatim": "Ane",
-      "normalized": "ane",
+      "context": "implicitDeclaration",
       "fromColumn": 22,
+      "line": 1,
+      "normalized": "ane",
       "toColumn": 24,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Ane"
     },
     {
-      "verbatim": "Aren",
-      "normalized": "aren",
+      "context": "implicitDeclaration",
       "fromColumn": 27,
+      "line": 1,
+      "normalized": "aren",
       "toColumn": 30,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Aren"
     },
     {
-      "verbatim": "Isa",
-      "normalized": "isa",
+      "context": "implicitDeclaration",
       "fromColumn": 33,
+      "line": 1,
+      "normalized": "isa",
       "toColumn": 35,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Isa"
     },
     {
-      "verbatim": "Ix",
-      "normalized": "ix",
+      "context": "implicitDeclaration",
       "fromColumn": 41,
+      "line": 1,
+      "normalized": "ix",
       "toColumn": 42,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Ix"
     },
     {
-      "verbatim": "blue",
-      "normalized": "blue",
+      "context": "implicitDeclaration",
       "fromColumn": 48,
+      "line": 1,
+      "normalized": "blue",
       "toColumn": 51,
       "type": "emote",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "blue"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "character": {
+        "fromColumn": 1,
+        "normalized": "joe",
+        "toColumn": 3,
+        "verbatim": "Joe"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 6,
+        "normalized": "andy",
+        "toColumn": 9,
+        "verbatim": "Andy"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 12,
+        "normalized": "ave",
+        "toColumn": 14,
+        "verbatim": "Ave"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 17,
+        "normalized": "ari",
+        "toColumn": 19,
+        "verbatim": "Ari"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 22,
+        "normalized": "ane",
+        "toColumn": 24,
+        "verbatim": "Ane"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 27,
+        "normalized": "aren",
+        "toColumn": 30,
+        "verbatim": "Aren"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 33,
+        "normalized": "isa",
+        "toColumn": 35,
+        "verbatim": "Isa"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 41,
+        "normalized": "ix",
+        "toColumn": 42,
+        "verbatim": "Ix"
+      },
+      "emote": {
+        "fromColumn": 48,
+        "normalized": "blue",
+        "toColumn": 51,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }

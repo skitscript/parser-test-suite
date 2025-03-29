@@ -1,94 +1,94 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Example  CharActer",
-        "normalized": "example-character",
-        "fromColumn": 1,
-        "toColumn": 18
-      },
-      "emote": {
-        "verbatim": "Example Emote",
-        "normalized": "example-emote",
-        "fromColumn": 23,
-        "toColumn": 35
-      }
-    },
-    {
-      "type": "emote",
-      "line": 3,
-      "character": {
-        "verbatim": "exAMple CHARacter",
-        "normalized": "example-character",
-        "fromColumn": 1,
-        "toColumn": 17
-      },
-      "emote": {
-        "verbatim": "Example Emote",
-        "normalized": "example-emote",
-        "fromColumn": 22,
-        "toColumn": 34
-      }
-    }
-  ],
-  "warnings": [
-    {
-      "type": "inconsistentIdentifier",
-      "first": {
-        "line": 1,
-        "verbatim": "Example  CharActer",
-        "normalized": "example-character",
-        "fromColumn": 1,
-        "toColumn": 18
-      },
-      "second": {
-        "line": 3,
-        "verbatim": "exAMple CHARacter",
-        "normalized": "example-character",
-        "fromColumn": 1,
-        "toColumn": 17
-      }
-    }
-  ],
   "identifierInstances": [
     {
-      "type": "character",
-      "line": 1,
       "context": "implicitDeclaration",
-      "verbatim": "Example  CharActer",
-      "normalized": "example-character",
       "fromColumn": 1,
-      "toColumn": 18
+      "line": 1,
+      "normalized": "example-character",
+      "toColumn": 18,
+      "type": "character",
+      "verbatim": "Example  CharActer"
     },
     {
-      "type": "emote",
-      "line": 1,
       "context": "implicitDeclaration",
-      "verbatim": "Example Emote",
-      "normalized": "example-emote",
       "fromColumn": 23,
-      "toColumn": 35
-    },
-    {
-      "type": "character",
-      "line": 3,
-      "context": "implicitDeclaration",
-      "verbatim": "exAMple CHARacter",
-      "normalized": "example-character",
-      "fromColumn": 1,
-      "toColumn": 17
-    },
-    {
-      "type": "emote",
-      "line": 3,
-      "context": "implicitDeclaration",
-      "verbatim": "Example Emote",
+      "line": 1,
       "normalized": "example-emote",
+      "toColumn": 35,
+      "type": "emote",
+      "verbatim": "Example Emote"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 3,
+      "normalized": "example-character",
+      "toColumn": 17,
+      "type": "character",
+      "verbatim": "exAMple CHARacter"
+    },
+    {
+      "context": "implicitDeclaration",
       "fromColumn": 22,
-      "toColumn": 34
+      "line": 3,
+      "normalized": "example-emote",
+      "toColumn": 34,
+      "type": "emote",
+      "verbatim": "Example Emote"
+    }
+  ],
+  "instructions": [
+    {
+      "character": {
+        "fromColumn": 1,
+        "normalized": "example-character",
+        "toColumn": 18,
+        "verbatim": "Example  CharActer"
+      },
+      "emote": {
+        "fromColumn": 23,
+        "normalized": "example-emote",
+        "toColumn": 35,
+        "verbatim": "Example Emote"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "character": {
+        "fromColumn": 1,
+        "normalized": "example-character",
+        "toColumn": 17,
+        "verbatim": "exAMple CHARacter"
+      },
+      "emote": {
+        "fromColumn": 22,
+        "normalized": "example-emote",
+        "toColumn": 34,
+        "verbatim": "Example Emote"
+      },
+      "line": 3,
+      "type": "emote"
+    }
+  ],
+  "type": "valid",
+  "warnings": [
+    {
+      "first": {
+        "fromColumn": 1,
+        "line": 1,
+        "normalized": "example-character",
+        "toColumn": 18,
+        "verbatim": "Example  CharActer"
+      },
+      "second": {
+        "fromColumn": 1,
+        "line": 3,
+        "normalized": "example-character",
+        "toColumn": 17,
+        "verbatim": "exAMple CHARacter"
+      },
+      "type": "inconsistentIdentifier"
     }
   ]
 }

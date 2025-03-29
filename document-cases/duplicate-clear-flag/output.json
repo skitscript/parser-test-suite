@@ -1,290 +1,290 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "label",
-      "line": 1,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
-        "verbatim": "Example Flag A",
-        "normalized": "example-flag-a",
-        "fromColumn": 5,
-        "toColumn": 18
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
-        "verbatim": "Example Flag B",
-        "normalized": "example-flag-b",
-        "fromColumn": 21,
-        "toColumn": 34
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
-        "verbatim": "Example Flag C",
-        "normalized": "example-flag-c",
-        "fromColumn": 37,
-        "toColumn": 50
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
-        "verbatim": "Example Flag D",
-        "normalized": "example-flag-d",
-        "fromColumn": 56,
-        "toColumn": 69
-      }
-    },
-    {
-      "type": "clear",
-      "line": 5,
-      "flag": {
-        "verbatim": "Example Flag A",
-        "normalized": "example-flag-a",
-        "fromColumn": 7,
-        "toColumn": 20
-      }
-    },
-    {
-      "type": "clear",
-      "line": 5,
-      "flag": {
-        "verbatim": "Example Flag B",
-        "normalized": "example-flag-b",
-        "fromColumn": 23,
-        "toColumn": 36
-      }
-    },
-    {
-      "type": "clear",
-      "line": 5,
-      "flag": {
-        "verbatim": "Example Flag C",
-        "normalized": "example-flag-c",
-        "fromColumn": 39,
-        "toColumn": 52
-      }
-    },
-    {
-      "type": "clear",
-      "line": 5,
-      "flag": {
-        "verbatim": "Example Flag D",
-        "normalized": "example-flag-d",
-        "fromColumn": 78,
-        "toColumn": 91
-      }
-    },
-    {
-      "type": "jump",
-      "line": 7,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 9,
-        "toColumn": 21
-      },
-      "instructionIndex": 0,
-      "condition": {
-        "type": "someFlagsSet",
-        "flags": [
-          {
-            "verbatim": "Example Flag A",
-            "normalized": "example-flag-a",
-            "fromColumn": 28,
-            "toColumn": 41
-          },
-          {
-            "verbatim": "Example Flag B",
-            "normalized": "example-flag-b",
-            "fromColumn": 44,
-            "toColumn": 57
-          },
-          {
-            "verbatim": "Example Flag C",
-            "normalized": "example-flag-c",
-            "fromColumn": 60,
-            "toColumn": 73
-          },
-          {
-            "verbatim": "Example Flag D",
-            "normalized": "example-flag-d",
-            "fromColumn": 78,
-            "toColumn": 91
-          }
-        ]
-      }
-    }
-  ],
-  "warnings": [
-    {
-      "type": "duplicateIdentifierInList",
-      "line": 5,
-      "first": {
-        "verbatim": "Example Flag B",
-        "normalized": "example-flag-b",
-        "fromColumn": 23,
-        "toColumn": 36
-      },
-      "second": {
-        "verbatim": "example    flAG  b",
-        "normalized": "example-flag-b",
-        "fromColumn": 55,
-        "toColumn": 72
-      }
-    }
-  ],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "label",
       "context": "declaration",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
       "fromColumn": 3,
-      "toColumn": 15
-    },
-    {
-      "line": 3,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag A",
-      "normalized": "example-flag-a",
-      "fromColumn": 5,
-      "toColumn": 18
-    },
-    {
-      "line": 3,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag B",
-      "normalized": "example-flag-b",
-      "fromColumn": 21,
-      "toColumn": 34
-    },
-    {
-      "line": 3,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag C",
-      "normalized": "example-flag-c",
-      "fromColumn": 37,
-      "toColumn": 50
-    },
-    {
-      "line": 3,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag D",
-      "normalized": "example-flag-d",
-      "fromColumn": 56,
-      "toColumn": 69
-    },
-    {
-      "line": 5,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag A",
-      "normalized": "example-flag-a",
-      "fromColumn": 7,
-      "toColumn": 20
-    },
-    {
-      "line": 5,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag B",
-      "normalized": "example-flag-b",
-      "fromColumn": 23,
-      "toColumn": 36
-    },
-    {
-      "line": 5,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag C",
-      "normalized": "example-flag-c",
-      "fromColumn": 39,
-      "toColumn": 52
-    },
-    {
-      "line": 5,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "example    flAG  b",
-      "normalized": "example-flag-b",
-      "fromColumn": 55,
-      "toColumn": 72
-    },
-    {
-      "line": 5,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag D",
-      "normalized": "example-flag-d",
-      "fromColumn": 78,
-      "toColumn": 91
-    },
-    {
-      "line": 7,
-      "type": "label",
-      "context": "reference",
-      "verbatim": "Example Label",
+      "line": 1,
       "normalized": "example-label",
-      "fromColumn": 9,
-      "toColumn": 21
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
     },
     {
-      "line": 7,
-      "type": "flag",
       "context": "implicitDeclaration",
-      "verbatim": "Example Flag A",
+      "fromColumn": 5,
+      "line": 3,
       "normalized": "example-flag-a",
-      "fromColumn": 28,
-      "toColumn": 41
+      "toColumn": 18,
+      "type": "flag",
+      "verbatim": "Example Flag A"
     },
     {
-      "line": 7,
-      "type": "flag",
       "context": "implicitDeclaration",
-      "verbatim": "Example Flag B",
+      "fromColumn": 21,
+      "line": 3,
       "normalized": "example-flag-b",
-      "fromColumn": 44,
-      "toColumn": 57
+      "toColumn": 34,
+      "type": "flag",
+      "verbatim": "Example Flag B"
     },
     {
-      "line": 7,
-      "type": "flag",
       "context": "implicitDeclaration",
-      "verbatim": "Example Flag C",
+      "fromColumn": 37,
+      "line": 3,
       "normalized": "example-flag-c",
-      "fromColumn": 60,
-      "toColumn": 73
+      "toColumn": 50,
+      "type": "flag",
+      "verbatim": "Example Flag C"
     },
     {
-      "line": 7,
-      "type": "flag",
       "context": "implicitDeclaration",
-      "verbatim": "Example Flag D",
+      "fromColumn": 56,
+      "line": 3,
       "normalized": "example-flag-d",
+      "toColumn": 69,
+      "type": "flag",
+      "verbatim": "Example Flag D"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 7,
+      "line": 5,
+      "normalized": "example-flag-a",
+      "toColumn": 20,
+      "type": "flag",
+      "verbatim": "Example Flag A"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 23,
+      "line": 5,
+      "normalized": "example-flag-b",
+      "toColumn": 36,
+      "type": "flag",
+      "verbatim": "Example Flag B"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 39,
+      "line": 5,
+      "normalized": "example-flag-c",
+      "toColumn": 52,
+      "type": "flag",
+      "verbatim": "Example Flag C"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 55,
+      "line": 5,
+      "normalized": "example-flag-b",
+      "toColumn": 72,
+      "type": "flag",
+      "verbatim": "example    flAG  b"
+    },
+    {
+      "context": "implicitDeclaration",
       "fromColumn": 78,
-      "toColumn": 91
+      "line": 5,
+      "normalized": "example-flag-d",
+      "toColumn": 91,
+      "type": "flag",
+      "verbatim": "Example Flag D"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 9,
+      "line": 7,
+      "normalized": "example-label",
+      "toColumn": 21,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 28,
+      "line": 7,
+      "normalized": "example-flag-a",
+      "toColumn": 41,
+      "type": "flag",
+      "verbatim": "Example Flag A"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 44,
+      "line": 7,
+      "normalized": "example-flag-b",
+      "toColumn": 57,
+      "type": "flag",
+      "verbatim": "Example Flag B"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 60,
+      "line": 7,
+      "normalized": "example-flag-c",
+      "toColumn": 73,
+      "type": "flag",
+      "verbatim": "Example Flag C"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 78,
+      "line": 7,
+      "normalized": "example-flag-d",
+      "toColumn": 91,
+      "type": "flag",
+      "verbatim": "Example Flag D"
+    }
+  ],
+  "instructions": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "label"
+    },
+    {
+      "flag": {
+        "fromColumn": 5,
+        "normalized": "example-flag-a",
+        "toColumn": 18,
+        "verbatim": "Example Flag A"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 21,
+        "normalized": "example-flag-b",
+        "toColumn": 34,
+        "verbatim": "Example Flag B"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 37,
+        "normalized": "example-flag-c",
+        "toColumn": 50,
+        "verbatim": "Example Flag C"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 56,
+        "normalized": "example-flag-d",
+        "toColumn": 69,
+        "verbatim": "Example Flag D"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 7,
+        "normalized": "example-flag-a",
+        "toColumn": 20,
+        "verbatim": "Example Flag A"
+      },
+      "line": 5,
+      "type": "clear"
+    },
+    {
+      "flag": {
+        "fromColumn": 23,
+        "normalized": "example-flag-b",
+        "toColumn": 36,
+        "verbatim": "Example Flag B"
+      },
+      "line": 5,
+      "type": "clear"
+    },
+    {
+      "flag": {
+        "fromColumn": 39,
+        "normalized": "example-flag-c",
+        "toColumn": 52,
+        "verbatim": "Example Flag C"
+      },
+      "line": 5,
+      "type": "clear"
+    },
+    {
+      "flag": {
+        "fromColumn": 78,
+        "normalized": "example-flag-d",
+        "toColumn": 91,
+        "verbatim": "Example Flag D"
+      },
+      "line": 5,
+      "type": "clear"
+    },
+    {
+      "condition": {
+        "flags": [
+          {
+            "fromColumn": 28,
+            "normalized": "example-flag-a",
+            "toColumn": 41,
+            "verbatim": "Example Flag A"
+          },
+          {
+            "fromColumn": 44,
+            "normalized": "example-flag-b",
+            "toColumn": 57,
+            "verbatim": "Example Flag B"
+          },
+          {
+            "fromColumn": 60,
+            "normalized": "example-flag-c",
+            "toColumn": 73,
+            "verbatim": "Example Flag C"
+          },
+          {
+            "fromColumn": 78,
+            "normalized": "example-flag-d",
+            "toColumn": 91,
+            "verbatim": "Example Flag D"
+          }
+        ],
+        "type": "someFlagsSet"
+      },
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 9,
+        "normalized": "example-label",
+        "toColumn": 21,
+        "verbatim": "Example Label"
+      },
+      "line": 7,
+      "type": "jump"
+    }
+  ],
+  "type": "valid",
+  "warnings": [
+    {
+      "first": {
+        "fromColumn": 23,
+        "normalized": "example-flag-b",
+        "toColumn": 36,
+        "verbatim": "Example Flag B"
+      },
+      "line": 5,
+      "second": {
+        "fromColumn": 55,
+        "normalized": "example-flag-b",
+        "toColumn": 72,
+        "verbatim": "example    flAG  b"
+      },
+      "type": "duplicateIdentifierInList"
     }
   ]
 }

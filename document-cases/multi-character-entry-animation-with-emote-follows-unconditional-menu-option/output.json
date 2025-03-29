@@ -1,219 +1,219 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "label",
-      "line": 1,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
-    },
-    {
-      "type": "set",
-      "line": 3,
-      "flag": {
-        "verbatim": "Example Flag",
-        "normalized": "example-flag",
-        "fromColumn": 5,
-        "toColumn": 16
-      }
-    },
-    {
-      "type": "menuOption",
-      "line": 5,
-      "content": [
-        {
-          "bold": false,
-          "italic": false,
-          "code": false,
-          "verbatim": "Example Menu Option",
-          "plainText": "Example Menu Option",
-          "fromColumn": 3,
-          "toColumn": 21
-        }
-      ],
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 32,
-        "toColumn": 44
-      },
-      "instructionIndex": 0,
-      "condition": {
-        "type": "flagSet",
-        "flag": {
-          "verbatim": "Example Flag",
-          "normalized": "example-flag",
-          "fromColumn": 51,
-          "toColumn": 62
-        }
-      }
-    },
-    {
-      "type": "menuOption",
-      "line": 6,
-      "content": [
-        {
-          "bold": false,
-          "italic": false,
-          "code": false,
-          "verbatim": "Example Menu Option",
-          "plainText": "Example Menu Option",
-          "fromColumn": 3,
-          "toColumn": 21
-        }
-      ],
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 32,
-        "toColumn": 44
-      },
-      "instructionIndex": 0,
-      "condition": null
-    },
-    {
-      "type": "menuOption",
-      "line": 7,
-      "content": [
-        {
-          "bold": false,
-          "italic": false,
-          "code": false,
-          "verbatim": "Example Menu Option",
-          "plainText": "Example Menu Option",
-          "fromColumn": 3,
-          "toColumn": 21
-        }
-      ],
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 32,
-        "toColumn": 44
-      },
-      "instructionIndex": 0,
-      "condition": {
-        "type": "flagSet",
-        "flag": {
-          "verbatim": "Example Flag",
-          "normalized": "example-flag",
-          "fromColumn": 51,
-          "toColumn": 62
-        }
-      }
-    }
-  ],
-  "warnings": [
-    {
-      "type": "unreachable",
-      "line": 9,
-      "fromColumn": 1,
-      "toColumn": 70
-    }
-  ],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "label",
       "context": "declaration",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
       "fromColumn": 3,
-      "toColumn": 15
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
     },
     {
-      "line": 3,
-      "type": "flag",
       "context": "implicitDeclaration",
-      "verbatim": "Example Flag",
-      "normalized": "example-flag",
       "fromColumn": 5,
-      "toColumn": 16
-    },
-    {
-      "line": 5,
-      "type": "label",
-      "context": "reference",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
-      "fromColumn": 32,
-      "toColumn": 44
-    },
-    {
-      "line": 5,
-      "type": "flag",
-      "context": "implicitDeclaration",
-      "verbatim": "Example Flag",
+      "line": 3,
       "normalized": "example-flag",
-      "fromColumn": 51,
-      "toColumn": 62
+      "toColumn": 16,
+      "type": "flag",
+      "verbatim": "Example Flag"
     },
     {
+      "context": "reference",
+      "fromColumn": 32,
+      "line": 5,
+      "normalized": "example-label",
+      "toColumn": 44,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 51,
+      "line": 5,
+      "normalized": "example-flag",
+      "toColumn": 62,
+      "type": "flag",
+      "verbatim": "Example Flag"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 32,
       "line": 6,
-      "type": "label",
-      "context": "reference",
-      "verbatim": "Example Label",
       "normalized": "example-label",
-      "fromColumn": 32,
-      "toColumn": 44
+      "toColumn": 44,
+      "type": "label",
+      "verbatim": "Example Label"
     },
     {
-      "line": 7,
-      "type": "label",
       "context": "reference",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
       "fromColumn": 32,
-      "toColumn": 44
+      "line": 7,
+      "normalized": "example-label",
+      "toColumn": 44,
+      "type": "label",
+      "verbatim": "Example Label"
     },
     {
-      "line": 7,
-      "type": "flag",
       "context": "implicitDeclaration",
-      "verbatim": "Example Flag",
+      "fromColumn": 51,
+      "line": 7,
       "normalized": "example-flag",
-      "fromColumn": 51,
-      "toColumn": 62
+      "toColumn": 62,
+      "type": "flag",
+      "verbatim": "Example Flag"
     },
     {
-      "line": 9,
-      "type": "character",
       "context": "implicitDeclaration",
-      "verbatim": "Example Character A",
-      "normalized": "example-character-a",
       "fromColumn": 1,
-      "toColumn": 19
-    },
-    {
       "line": 9,
+      "normalized": "example-character-a",
+      "toColumn": 19,
       "type": "character",
+      "verbatim": "Example Character A"
+    },
+    {
       "context": "implicitDeclaration",
-      "verbatim": "Example Character B",
-      "normalized": "example-character-b",
       "fromColumn": 25,
-      "toColumn": 43
+      "line": 9,
+      "normalized": "example-character-b",
+      "toColumn": 43,
+      "type": "character",
+      "verbatim": "Example Character B"
     },
     {
-      "line": 9,
-      "type": "entryAnimation",
       "context": "implicitDeclaration",
-      "verbatim": "left",
-      "normalized": "left",
       "fromColumn": 51,
-      "toColumn": 54
+      "line": 9,
+      "normalized": "left",
+      "toColumn": 54,
+      "type": "entryAnimation",
+      "verbatim": "left"
     },
     {
-      "line": 9,
-      "type": "emote",
       "context": "implicitDeclaration",
-      "verbatim": "Example Emote",
-      "normalized": "example-emote",
       "fromColumn": 57,
-      "toColumn": 69
+      "line": 9,
+      "normalized": "example-emote",
+      "toColumn": 69,
+      "type": "emote",
+      "verbatim": "Example Emote"
+    }
+  ],
+  "instructions": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "label"
+    },
+    {
+      "flag": {
+        "fromColumn": 5,
+        "normalized": "example-flag",
+        "toColumn": 16,
+        "verbatim": "Example Flag"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "condition": {
+        "flag": {
+          "fromColumn": 51,
+          "normalized": "example-flag",
+          "toColumn": 62,
+          "verbatim": "Example Flag"
+        },
+        "type": "flagSet"
+      },
+      "content": [
+        {
+          "bold": false,
+          "code": false,
+          "fromColumn": 3,
+          "italic": false,
+          "plainText": "Example Menu Option",
+          "toColumn": 21,
+          "verbatim": "Example Menu Option"
+        }
+      ],
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 32,
+        "normalized": "example-label",
+        "toColumn": 44,
+        "verbatim": "Example Label"
+      },
+      "line": 5,
+      "type": "menuOption"
+    },
+    {
+      "condition": null,
+      "content": [
+        {
+          "bold": false,
+          "code": false,
+          "fromColumn": 3,
+          "italic": false,
+          "plainText": "Example Menu Option",
+          "toColumn": 21,
+          "verbatim": "Example Menu Option"
+        }
+      ],
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 32,
+        "normalized": "example-label",
+        "toColumn": 44,
+        "verbatim": "Example Label"
+      },
+      "line": 6,
+      "type": "menuOption"
+    },
+    {
+      "condition": {
+        "flag": {
+          "fromColumn": 51,
+          "normalized": "example-flag",
+          "toColumn": 62,
+          "verbatim": "Example Flag"
+        },
+        "type": "flagSet"
+      },
+      "content": [
+        {
+          "bold": false,
+          "code": false,
+          "fromColumn": 3,
+          "italic": false,
+          "plainText": "Example Menu Option",
+          "toColumn": 21,
+          "verbatim": "Example Menu Option"
+        }
+      ],
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 32,
+        "normalized": "example-label",
+        "toColumn": 44,
+        "verbatim": "Example Label"
+      },
+      "line": 7,
+      "type": "menuOption"
+    }
+  ],
+  "type": "valid",
+  "warnings": [
+    {
+      "fromColumn": 1,
+      "line": 9,
+      "toColumn": 70,
+      "type": "unreachable"
     }
   ]
 }

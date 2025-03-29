@@ -1,27 +1,27 @@
 {
-  "type": "invalid",
   "errors": [
     {
-      "type": "undefinedLabel",
-      "line": 1,
       "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
         "fromColumn": 32,
-        "toColumn": 44
-      }
+        "normalized": "example-label",
+        "toColumn": 44,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "undefinedLabel"
     }
   ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "type": "label",
       "context": "reference",
-      "line": 1,
-      "verbatim": "Example Label",
-      "normalized": "example-label",
       "fromColumn": 32,
-      "toColumn": 44
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 44,
+      "type": "label",
+      "verbatim": "Example Label"
     }
-  ]
+  ],
+  "type": "invalid",
+  "warnings": []
 }

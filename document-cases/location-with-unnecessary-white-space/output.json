@@ -1,27 +1,27 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "location",
-      "line": 1,
-      "background": {
-        "verbatim": "Example Background",
-        "normalized": "example-background",
-        "fromColumn": 16,
-        "toColumn": 33
-      }
-    }
-  ],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "background",
       "context": "implicitDeclaration",
-      "verbatim": "Example Background",
-      "normalized": "example-background",
       "fromColumn": 16,
-      "toColumn": 33
+      "line": 1,
+      "normalized": "example-background",
+      "toColumn": 33,
+      "type": "background",
+      "verbatim": "Example Background"
     }
   ],
+  "instructions": [
+    {
+      "background": {
+        "fromColumn": 16,
+        "normalized": "example-background",
+        "toColumn": 33,
+        "verbatim": "Example Background"
+      },
+      "line": 1,
+      "type": "location"
+    }
+  ],
+  "type": "valid",
   "warnings": []
 }

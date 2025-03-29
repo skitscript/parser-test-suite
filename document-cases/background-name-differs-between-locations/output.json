@@ -1,64 +1,64 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "location",
-      "line": 1,
-      "background": {
-        "verbatim": "Example Background",
-        "normalized": "example-background",
-        "fromColumn": 11,
-        "toColumn": 28
-      }
-    },
-    {
-      "type": "location",
-      "line": 3,
-      "background": {
-        "verbatim": "ExamPLE    Background",
-        "normalized": "example-background",
-        "fromColumn": 11,
-        "toColumn": 31
-      }
-    }
-  ],
-  "warnings": [
-    {
-      "type": "inconsistentIdentifier",
-      "first": {
-        "line": 1,
-        "verbatim": "Example Background",
-        "normalized": "example-background",
-        "fromColumn": 11,
-        "toColumn": 28
-      },
-      "second": {
-        "line": 3,
-        "verbatim": "ExamPLE    Background",
-        "normalized": "example-background",
-        "fromColumn": 11,
-        "toColumn": 31
-      }
-    }
-  ],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "background",
       "context": "implicitDeclaration",
-      "verbatim": "Example Background",
-      "normalized": "example-background",
       "fromColumn": 11,
-      "toColumn": 28
+      "line": 1,
+      "normalized": "example-background",
+      "toColumn": 28,
+      "type": "background",
+      "verbatim": "Example Background"
     },
     {
-      "line": 3,
-      "type": "background",
       "context": "implicitDeclaration",
-      "verbatim": "ExamPLE    Background",
-      "normalized": "example-background",
       "fromColumn": 11,
-      "toColumn": 31
+      "line": 3,
+      "normalized": "example-background",
+      "toColumn": 31,
+      "type": "background",
+      "verbatim": "ExamPLE    Background"
+    }
+  ],
+  "instructions": [
+    {
+      "background": {
+        "fromColumn": 11,
+        "normalized": "example-background",
+        "toColumn": 28,
+        "verbatim": "Example Background"
+      },
+      "line": 1,
+      "type": "location"
+    },
+    {
+      "background": {
+        "fromColumn": 11,
+        "normalized": "example-background",
+        "toColumn": 31,
+        "verbatim": "ExamPLE    Background"
+      },
+      "line": 3,
+      "type": "location"
+    }
+  ],
+  "type": "valid",
+  "warnings": [
+    {
+      "first": {
+        "fromColumn": 11,
+        "line": 1,
+        "normalized": "example-background",
+        "toColumn": 28,
+        "verbatim": "Example Background"
+      },
+      "second": {
+        "fromColumn": 11,
+        "line": 3,
+        "normalized": "example-background",
+        "toColumn": 31,
+        "verbatim": "ExamPLE    Background"
+      },
+      "type": "inconsistentIdentifier"
     }
   ]
 }

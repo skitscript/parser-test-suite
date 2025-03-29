@@ -1,118 +1,118 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "speaker",
-      "line": 1,
-      "characters": [
-        {
-          "verbatim": "Example Character",
-          "normalized": "example-character",
-          "fromColumn": 1,
-          "toColumn": 17
-        }
-      ]
-    },
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Example Character",
-        "normalized": "example-character",
-        "fromColumn": 1,
-        "toColumn": 17
-      },
-      "emote": {
-        "verbatim": "Example  EmoTe",
-        "normalized": "example-emote",
-        "fromColumn": 20,
-        "toColumn": 33
-      }
-    },
-    {
-      "type": "speaker",
-      "line": 3,
-      "characters": [
-        {
-          "verbatim": "Example Character",
-          "normalized": "example-character",
-          "fromColumn": 1,
-          "toColumn": 17
-        }
-      ]
-    },
-    {
-      "type": "emote",
-      "line": 3,
-      "character": {
-        "verbatim": "Example Character",
-        "normalized": "example-character",
-        "fromColumn": 1,
-        "toColumn": 17
-      },
-      "emote": {
-        "verbatim": "exAMple EMOte",
-        "normalized": "example-emote",
-        "fromColumn": 20,
-        "toColumn": 32
-      }
-    }
-  ],
-  "warnings": [
-    {
-      "type": "inconsistentIdentifier",
-      "first": {
-        "line": 1,
-        "verbatim": "Example  EmoTe",
-        "normalized": "example-emote",
-        "fromColumn": 20,
-        "toColumn": 33
-      },
-      "second": {
-        "line": 3,
-        "verbatim": "exAMple EMOte",
-        "normalized": "example-emote",
-        "fromColumn": 20,
-        "toColumn": 32
-      }
-    }
-  ],
   "identifierInstances": [
     {
-      "type": "character",
-      "line": 1,
       "context": "implicitDeclaration",
-      "verbatim": "Example Character",
-      "normalized": "example-character",
       "fromColumn": 1,
-      "toColumn": 17
-    },
-    {
-      "type": "emote",
       "line": 1,
-      "context": "implicitDeclaration",
-      "verbatim": "Example  EmoTe",
-      "normalized": "example-emote",
-      "fromColumn": 20,
-      "toColumn": 33
-    },
-    {
-      "type": "character",
-      "line": 3,
-      "context": "implicitDeclaration",
-      "verbatim": "Example Character",
       "normalized": "example-character",
-      "fromColumn": 1,
-      "toColumn": 17
+      "toColumn": 17,
+      "type": "character",
+      "verbatim": "Example Character"
     },
     {
-      "type": "emote",
-      "line": 3,
       "context": "implicitDeclaration",
-      "verbatim": "exAMple EMOte",
-      "normalized": "example-emote",
       "fromColumn": 20,
-      "toColumn": 32
+      "line": 1,
+      "normalized": "example-emote",
+      "toColumn": 33,
+      "type": "emote",
+      "verbatim": "Example  EmoTe"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 3,
+      "normalized": "example-character",
+      "toColumn": 17,
+      "type": "character",
+      "verbatim": "Example Character"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 20,
+      "line": 3,
+      "normalized": "example-emote",
+      "toColumn": 32,
+      "type": "emote",
+      "verbatim": "exAMple EMOte"
+    }
+  ],
+  "instructions": [
+    {
+      "characters": [
+        {
+          "fromColumn": 1,
+          "normalized": "example-character",
+          "toColumn": 17,
+          "verbatim": "Example Character"
+        }
+      ],
+      "line": 1,
+      "type": "speaker"
+    },
+    {
+      "character": {
+        "fromColumn": 1,
+        "normalized": "example-character",
+        "toColumn": 17,
+        "verbatim": "Example Character"
+      },
+      "emote": {
+        "fromColumn": 20,
+        "normalized": "example-emote",
+        "toColumn": 33,
+        "verbatim": "Example  EmoTe"
+      },
+      "line": 1,
+      "type": "emote"
+    },
+    {
+      "characters": [
+        {
+          "fromColumn": 1,
+          "normalized": "example-character",
+          "toColumn": 17,
+          "verbatim": "Example Character"
+        }
+      ],
+      "line": 3,
+      "type": "speaker"
+    },
+    {
+      "character": {
+        "fromColumn": 1,
+        "normalized": "example-character",
+        "toColumn": 17,
+        "verbatim": "Example Character"
+      },
+      "emote": {
+        "fromColumn": 20,
+        "normalized": "example-emote",
+        "toColumn": 32,
+        "verbatim": "exAMple EMOte"
+      },
+      "line": 3,
+      "type": "emote"
+    }
+  ],
+  "type": "valid",
+  "warnings": [
+    {
+      "first": {
+        "fromColumn": 20,
+        "line": 1,
+        "normalized": "example-emote",
+        "toColumn": 33,
+        "verbatim": "Example  EmoTe"
+      },
+      "second": {
+        "fromColumn": 20,
+        "line": 3,
+        "normalized": "example-emote",
+        "toColumn": 32,
+        "verbatim": "exAMple EMOte"
+      },
+      "type": "inconsistentIdentifier"
     }
   ]
 }

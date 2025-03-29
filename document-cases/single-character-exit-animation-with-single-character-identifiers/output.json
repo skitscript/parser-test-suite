@@ -1,42 +1,42 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "A",
-        "normalized": "a",
-        "fromColumn": 1,
-        "toColumn": 1
-      },
-      "animation": {
-        "verbatim": "B",
-        "normalized": "b",
-        "fromColumn": 9,
-        "toColumn": 9
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "character",
       "context": "implicitDeclaration",
-      "verbatim": "A",
-      "normalized": "a",
       "fromColumn": 1,
-      "toColumn": 1
+      "line": 1,
+      "normalized": "a",
+      "toColumn": 1,
+      "type": "character",
+      "verbatim": "A"
     },
     {
-      "line": 1,
-      "type": "exitAnimation",
       "context": "implicitDeclaration",
-      "verbatim": "B",
-      "normalized": "b",
       "fromColumn": 9,
-      "toColumn": 9
+      "line": 1,
+      "normalized": "b",
+      "toColumn": 9,
+      "type": "exitAnimation",
+      "verbatim": "B"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "animation": {
+        "fromColumn": 9,
+        "normalized": "b",
+        "toColumn": 9,
+        "verbatim": "B"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "a",
+        "toColumn": 1,
+        "verbatim": "A"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }

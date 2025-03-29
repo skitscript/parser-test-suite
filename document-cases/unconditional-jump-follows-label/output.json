@@ -1,59 +1,59 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "label",
-      "line": 1,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
-    },
-    {
-      "type": "jump",
-      "line": 3,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 9,
-        "toColumn": 21
-      },
-      "instructionIndex": 0,
-      "condition": null
-    }
-  ],
-  "warnings": [
-    {
-      "type": "emptyLabel",
-      "line": 1,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
-    }
-  ],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "label",
       "context": "declaration",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
       "fromColumn": 3,
-      "toColumn": 15
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
     },
     {
-      "line": 3,
-      "type": "label",
       "context": "reference",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
       "fromColumn": 9,
-      "toColumn": 21
+      "line": 3,
+      "normalized": "example-label",
+      "toColumn": 21,
+      "type": "label",
+      "verbatim": "Example Label"
+    }
+  ],
+  "instructions": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "label"
+    },
+    {
+      "condition": null,
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 9,
+        "normalized": "example-label",
+        "toColumn": 21,
+        "verbatim": "Example Label"
+      },
+      "line": 3,
+      "type": "jump"
+    }
+  ],
+  "type": "valid",
+  "warnings": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "emptyLabel"
     }
   ]
 }

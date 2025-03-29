@@ -1,42 +1,42 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "emote",
-      "line": 1,
-      "character": {
-        "verbatim": "Andy",
-        "normalized": "andy",
-        "fromColumn": 1,
-        "toColumn": 4
-      },
-      "emote": {
-        "verbatim": "blue",
-        "normalized": "blue",
-        "fromColumn": 10,
-        "toColumn": 13
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "verbatim": "Andy",
-      "normalized": "andy",
+      "context": "implicitDeclaration",
       "fromColumn": 1,
+      "line": 1,
+      "normalized": "andy",
       "toColumn": 4,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Andy"
     },
     {
-      "verbatim": "blue",
-      "normalized": "blue",
+      "context": "implicitDeclaration",
       "fromColumn": 10,
+      "line": 1,
+      "normalized": "blue",
       "toColumn": 13,
       "type": "emote",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "blue"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "character": {
+        "fromColumn": 1,
+        "normalized": "andy",
+        "toColumn": 4,
+        "verbatim": "Andy"
+      },
+      "emote": {
+        "fromColumn": 10,
+        "normalized": "blue",
+        "toColumn": 13,
+        "verbatim": "blue"
+      },
+      "line": 1,
+      "type": "emote"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }

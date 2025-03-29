@@ -1,79 +1,79 @@
 {
-  "type": "valid",
+  "identifierInstances": [
+    {
+      "context": "reference",
+      "fromColumn": 9,
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 21,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 32,
+      "line": 6,
+      "normalized": "example-label",
+      "toColumn": 44,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "declaration",
+      "fromColumn": 3,
+      "line": 8,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
+    }
+  ],
   "instructions": [
     {
-      "type": "jump",
-      "line": 1,
-      "label": {
-        "verbatim": "Example Label",
-        "normalized": "example-label",
-        "fromColumn": 9,
-        "toColumn": 21
-      },
+      "condition": null,
       "instructionIndex": 1,
-      "condition": null
-    },
-    {
-      "type": "label",
-      "line": 8,
       "label": {
-        "verbatim": "Example Label",
+        "fromColumn": 9,
         "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
-      }
+        "toColumn": 21,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "jump"
     },
     {
-      "type": "line",
-      "line": 10,
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 8,
+      "type": "label"
+    },
+    {
       "content": [
         {
           "bold": false,
-          "italic": false,
           "code": false,
-          "verbatim": "Example line C.",
-          "plainText": "Example line C.",
           "fromColumn": 3,
-          "toColumn": 17
+          "italic": false,
+          "plainText": "Example line C.",
+          "toColumn": 17,
+          "verbatim": "Example line C."
         }
-      ]
+      ],
+      "line": 10,
+      "type": "line"
     }
   ],
+  "type": "valid",
   "warnings": [
     {
-      "type": "unreachable",
+      "fromColumn": 3,
       "line": 3,
-      "fromColumn": 3,
-      "toColumn": 17
-    }
-  ],
-  "identifierInstances": [
-    {
-      "line": 1,
-      "type": "label",
-      "context": "reference",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
-      "fromColumn": 9,
-      "toColumn": 21
-    },
-    {
-      "line": 6,
-      "type": "label",
-      "context": "reference",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
-      "fromColumn": 32,
-      "toColumn": 44
-    },
-    {
-      "line": 8,
-      "type": "label",
-      "context": "declaration",
-      "verbatim": "Example Label",
-      "normalized": "example-label",
-      "fromColumn": 3,
-      "toColumn": 15
+      "toColumn": 17,
+      "type": "unreachable"
     }
   ]
 }

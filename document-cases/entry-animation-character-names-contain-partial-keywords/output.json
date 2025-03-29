@@ -1,192 +1,192 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Jeff",
-        "normalized": "jeff",
-        "fromColumn": 1,
-        "toColumn": 4
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Enyer",
-        "normalized": "enyer",
-        "fromColumn": 7,
-        "toColumn": 11
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Entyr",
-        "normalized": "entyr",
-        "fromColumn": 14,
-        "toColumn": 18
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Entey",
-        "normalized": "entey",
-        "fromColumn": 21,
-        "toColumn": 25
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Entery",
-        "normalized": "entery",
-        "fromColumn": 28,
-        "toColumn": 33
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Entersy",
-        "normalized": "entersy",
-        "fromColumn": 36,
-        "toColumn": 42
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Andy",
-        "normalized": "andy",
-        "fromColumn": 48,
-        "toColumn": 51
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 59,
-        "toColumn": 62
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "verbatim": "Jeff",
-      "normalized": "jeff",
+      "context": "implicitDeclaration",
       "fromColumn": 1,
+      "line": 1,
+      "normalized": "jeff",
       "toColumn": 4,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Jeff"
     },
     {
-      "verbatim": "Enyer",
-      "normalized": "enyer",
+      "context": "implicitDeclaration",
       "fromColumn": 7,
+      "line": 1,
+      "normalized": "enyer",
       "toColumn": 11,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Enyer"
     },
     {
-      "verbatim": "Entyr",
-      "normalized": "entyr",
+      "context": "implicitDeclaration",
       "fromColumn": 14,
+      "line": 1,
+      "normalized": "entyr",
       "toColumn": 18,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Entyr"
     },
     {
-      "verbatim": "Entey",
-      "normalized": "entey",
+      "context": "implicitDeclaration",
       "fromColumn": 21,
+      "line": 1,
+      "normalized": "entey",
       "toColumn": 25,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Entey"
     },
     {
-      "verbatim": "Entery",
-      "normalized": "entery",
+      "context": "implicitDeclaration",
       "fromColumn": 28,
+      "line": 1,
+      "normalized": "entery",
       "toColumn": 33,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Entery"
     },
     {
-      "verbatim": "Entersy",
-      "normalized": "entersy",
+      "context": "implicitDeclaration",
       "fromColumn": 36,
+      "line": 1,
+      "normalized": "entersy",
       "toColumn": 42,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Entersy"
     },
     {
-      "verbatim": "Andy",
-      "normalized": "andy",
+      "context": "implicitDeclaration",
       "fromColumn": 48,
+      "line": 1,
+      "normalized": "andy",
       "toColumn": 51,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Andy"
     },
     {
-      "verbatim": "left",
-      "normalized": "left",
+      "context": "implicitDeclaration",
       "fromColumn": 59,
+      "line": 1,
+      "normalized": "left",
       "toColumn": 62,
       "type": "entryAnimation",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "left"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "jeff",
+        "toColumn": 4,
+        "verbatim": "Jeff"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 7,
+        "normalized": "enyer",
+        "toColumn": 11,
+        "verbatim": "Enyer"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 14,
+        "normalized": "entyr",
+        "toColumn": 18,
+        "verbatim": "Entyr"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 21,
+        "normalized": "entey",
+        "toColumn": 25,
+        "verbatim": "Entey"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 28,
+        "normalized": "entery",
+        "toColumn": 33,
+        "verbatim": "Entery"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 36,
+        "normalized": "entersy",
+        "toColumn": 42,
+        "verbatim": "Entersy"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 59,
+        "normalized": "left",
+        "toColumn": 62,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 48,
+        "normalized": "andy",
+        "toColumn": 51,
+        "verbatim": "Andy"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }

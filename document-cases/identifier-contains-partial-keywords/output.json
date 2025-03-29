@@ -1,27 +1,27 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "location",
-      "line": 1,
-      "background": {
-        "verbatim": "Nrt Srt Eyit Exyt Jymp Juyp Wyen Whyn Clyar Cleyr Enyer Entyr Exyts Exiys Leyds Eyters Enyers Entyrs Enteys It Ot Te Ani Arn Nor See Exir Juma Wher Clean Entes Existz Leadz Enterz Exitz",
-        "normalized": "nrt-srt-eyit-exyt-jymp-juyp-wyen-whyn-clyar-cleyr-enyer-entyr-exyts-exiys-leyds-eyters-enyers-entyrs-enteys-it-ot-te-ani-arn-nor-see-exir-juma-wher-clean-entes-existz-leadz-enterz-exitz",
-        "fromColumn": 11,
-        "toColumn": 195
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "line": 1,
-      "type": "background",
       "context": "implicitDeclaration",
-      "verbatim": "Nrt Srt Eyit Exyt Jymp Juyp Wyen Whyn Clyar Cleyr Enyer Entyr Exyts Exiys Leyds Eyters Enyers Entyrs Enteys It Ot Te Ani Arn Nor See Exir Juma Wher Clean Entes Existz Leadz Enterz Exitz",
-      "normalized": "nrt-srt-eyit-exyt-jymp-juyp-wyen-whyn-clyar-cleyr-enyer-entyr-exyts-exiys-leyds-eyters-enyers-entyrs-enteys-it-ot-te-ani-arn-nor-see-exir-juma-wher-clean-entes-existz-leadz-enterz-exitz",
       "fromColumn": 11,
-      "toColumn": 195
+      "line": 1,
+      "normalized": "nrt-srt-eyit-exyt-jymp-juyp-wyen-whyn-clyar-cleyr-enyer-entyr-exyts-exiys-leyds-eyters-enyers-entyrs-enteys-it-ot-te-ani-arn-nor-see-exir-juma-wher-clean-entes-existz-leadz-enterz-exitz",
+      "toColumn": 195,
+      "type": "background",
+      "verbatim": "Nrt Srt Eyit Exyt Jymp Juyp Wyen Whyn Clyar Cleyr Enyer Entyr Exyts Exiys Leyds Eyters Enyers Entyrs Enteys It Ot Te Ani Arn Nor See Exir Juma Wher Clean Entes Existz Leadz Enterz Exitz"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "background": {
+        "fromColumn": 11,
+        "normalized": "nrt-srt-eyit-exyt-jymp-juyp-wyen-whyn-clyar-cleyr-enyer-entyr-exyts-exiys-leyds-eyters-enyers-entyrs-enteys-it-ot-te-ani-arn-nor-see-exir-juma-wher-clean-entes-existz-leadz-enterz-exitz",
+        "toColumn": 195,
+        "verbatim": "Nrt Srt Eyit Exyt Jymp Juyp Wyen Whyn Clyar Cleyr Enyer Entyr Exyts Exiys Leyds Eyters Enyers Entyrs Enteys It Ot Te Ani Arn Nor See Exir Juma Wher Clean Entes Existz Leadz Enterz Exitz"
+      },
+      "line": 1,
+      "type": "location"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }

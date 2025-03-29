@@ -1,267 +1,267 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Jeff",
-        "normalized": "jeff",
-        "fromColumn": 1,
-        "toColumn": 4
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Eyit",
-        "normalized": "eyit",
-        "fromColumn": 7,
-        "toColumn": 10
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Exyt",
-        "normalized": "exyt",
-        "fromColumn": 13,
-        "toColumn": 16
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Exiy",
-        "normalized": "exiy",
-        "fromColumn": 19,
-        "toColumn": 22
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Eyits",
-        "normalized": "eyits",
-        "fromColumn": 25,
-        "toColumn": 29
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Exyts",
-        "normalized": "exyts",
-        "fromColumn": 32,
-        "toColumn": 36
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Exiys",
-        "normalized": "exiys",
-        "fromColumn": 39,
-        "toColumn": 43
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Exity",
-        "normalized": "exity",
-        "fromColumn": 46,
-        "toColumn": 50
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Exitsy",
-        "normalized": "exitsy",
-        "fromColumn": 53,
-        "toColumn": 58
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    },
-    {
-      "type": "exitAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Andy",
-        "normalized": "andy",
-        "fromColumn": 64,
-        "toColumn": 67
-      },
-      "animation": {
-        "verbatim": "left",
-        "normalized": "left",
-        "fromColumn": 74,
-        "toColumn": 77
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "verbatim": "Jeff",
-      "normalized": "jeff",
+      "context": "implicitDeclaration",
       "fromColumn": 1,
+      "line": 1,
+      "normalized": "jeff",
       "toColumn": 4,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Jeff"
     },
     {
-      "verbatim": "Eyit",
-      "normalized": "eyit",
+      "context": "implicitDeclaration",
       "fromColumn": 7,
+      "line": 1,
+      "normalized": "eyit",
       "toColumn": 10,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Eyit"
     },
     {
-      "verbatim": "Exyt",
-      "normalized": "exyt",
+      "context": "implicitDeclaration",
       "fromColumn": 13,
+      "line": 1,
+      "normalized": "exyt",
       "toColumn": 16,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Exyt"
     },
     {
-      "verbatim": "Exiy",
-      "normalized": "exiy",
+      "context": "implicitDeclaration",
       "fromColumn": 19,
+      "line": 1,
+      "normalized": "exiy",
       "toColumn": 22,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Exiy"
     },
     {
-      "verbatim": "Eyits",
-      "normalized": "eyits",
+      "context": "implicitDeclaration",
       "fromColumn": 25,
+      "line": 1,
+      "normalized": "eyits",
       "toColumn": 29,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Eyits"
     },
     {
-      "verbatim": "Exyts",
-      "normalized": "exyts",
+      "context": "implicitDeclaration",
       "fromColumn": 32,
+      "line": 1,
+      "normalized": "exyts",
       "toColumn": 36,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Exyts"
     },
     {
-      "verbatim": "Exiys",
-      "normalized": "exiys",
+      "context": "implicitDeclaration",
       "fromColumn": 39,
+      "line": 1,
+      "normalized": "exiys",
       "toColumn": 43,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Exiys"
     },
     {
-      "verbatim": "Exity",
-      "normalized": "exity",
+      "context": "implicitDeclaration",
       "fromColumn": 46,
+      "line": 1,
+      "normalized": "exity",
       "toColumn": 50,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Exity"
     },
     {
-      "verbatim": "Exitsy",
-      "normalized": "exitsy",
+      "context": "implicitDeclaration",
       "fromColumn": 53,
+      "line": 1,
+      "normalized": "exitsy",
       "toColumn": 58,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Exitsy"
     },
     {
-      "verbatim": "Andy",
-      "normalized": "andy",
+      "context": "implicitDeclaration",
       "fromColumn": 64,
+      "line": 1,
+      "normalized": "andy",
       "toColumn": 67,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Andy"
     },
     {
-      "verbatim": "left",
-      "normalized": "left",
+      "context": "implicitDeclaration",
       "fromColumn": 74,
+      "line": 1,
+      "normalized": "left",
       "toColumn": 77,
       "type": "exitAnimation",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "left"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "jeff",
+        "toColumn": 4,
+        "verbatim": "Jeff"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 7,
+        "normalized": "eyit",
+        "toColumn": 10,
+        "verbatim": "Eyit"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 13,
+        "normalized": "exyt",
+        "toColumn": 16,
+        "verbatim": "Exyt"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 19,
+        "normalized": "exiy",
+        "toColumn": 22,
+        "verbatim": "Exiy"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 25,
+        "normalized": "eyits",
+        "toColumn": 29,
+        "verbatim": "Eyits"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 32,
+        "normalized": "exyts",
+        "toColumn": 36,
+        "verbatim": "Exyts"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 39,
+        "normalized": "exiys",
+        "toColumn": 43,
+        "verbatim": "Exiys"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 46,
+        "normalized": "exity",
+        "toColumn": 50,
+        "verbatim": "Exity"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 53,
+        "normalized": "exitsy",
+        "toColumn": 58,
+        "verbatim": "Exitsy"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 74,
+        "normalized": "left",
+        "toColumn": 77,
+        "verbatim": "left"
+      },
+      "character": {
+        "fromColumn": 64,
+        "normalized": "andy",
+        "toColumn": 67,
+        "verbatim": "Andy"
+      },
+      "line": 1,
+      "type": "exitAnimation"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }

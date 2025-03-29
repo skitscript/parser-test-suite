@@ -1,14 +1,14 @@
 {
-  "type": "invalid",
   "errors": [
     {
-      "type": "unterminatedItalic",
-      "line": 1,
       "fromColumn": 11,
+      "line": 1,
       "toColumn": 34,
+      "type": "unterminatedItalic",
       "verbatim": "*line which ends italic."
     }
   ],
-  "warnings": [],
-  "identifierInstances": []
+  "identifierInstances": [],
+  "type": "invalid",
+  "warnings": []
 }

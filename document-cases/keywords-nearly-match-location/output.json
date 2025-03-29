@@ -1,246 +1,246 @@
 {
-  "type": "valid",
-  "instructions": [
-    {
-      "type": "entryAnimation",
-      "line": 1,
-      "character": {
-        "verbatim": "Lycation",
-        "normalized": "lycation",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 2,
-      "character": {
-        "verbatim": "Loyation",
-        "normalized": "loyation",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 3,
-      "character": {
-        "verbatim": "Locytion",
-        "normalized": "locytion",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 4,
-      "character": {
-        "verbatim": "Locayion",
-        "normalized": "locayion",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 5,
-      "character": {
-        "verbatim": "Locatyon",
-        "normalized": "locatyon",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 6,
-      "character": {
-        "verbatim": "Locatiyn",
-        "normalized": "locatiyn",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    },
-    {
-      "type": "entryAnimation",
-      "line": 7,
-      "character": {
-        "verbatim": "Locatioy",
-        "normalized": "locatioy",
-        "fromColumn": 1,
-        "toColumn": 8
-      },
-      "animation": {
-        "verbatim": "from left",
-        "normalized": "from-left",
-        "fromColumn": 17,
-        "toColumn": 25
-      }
-    }
-  ],
-  "warnings": [],
   "identifierInstances": [
     {
-      "verbatim": "Lycation",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 1,
       "normalized": "lycation",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "Lycation"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 1,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 1,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     },
     {
-      "verbatim": "Loyation",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 2,
       "normalized": "loyation",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 2,
-      "context": "implicitDeclaration"
+      "verbatim": "Loyation"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 2,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 2,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     },
     {
-      "verbatim": "Locytion",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 3,
       "normalized": "locytion",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 3,
-      "context": "implicitDeclaration"
+      "verbatim": "Locytion"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 3,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 3,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     },
     {
-      "verbatim": "Locayion",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 4,
       "normalized": "locayion",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 4,
-      "context": "implicitDeclaration"
+      "verbatim": "Locayion"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 4,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 4,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     },
     {
-      "verbatim": "Locatyon",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 5,
       "normalized": "locatyon",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 5,
-      "context": "implicitDeclaration"
+      "verbatim": "Locatyon"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 5,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 5,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     },
     {
-      "verbatim": "Locatiyn",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 6,
       "normalized": "locatiyn",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 6,
-      "context": "implicitDeclaration"
+      "verbatim": "Locatiyn"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 6,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 6,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     },
     {
-      "verbatim": "Locatioy",
+      "context": "implicitDeclaration",
+      "fromColumn": 1,
+      "line": 7,
       "normalized": "locatioy",
-      "fromColumn": 1,
       "toColumn": 8,
       "type": "character",
-      "line": 7,
-      "context": "implicitDeclaration"
+      "verbatim": "Locatioy"
     },
     {
-      "verbatim": "from left",
-      "normalized": "from-left",
+      "context": "implicitDeclaration",
       "fromColumn": 17,
+      "line": 7,
+      "normalized": "from-left",
       "toColumn": 25,
       "type": "entryAnimation",
-      "line": 7,
-      "context": "implicitDeclaration"
+      "verbatim": "from left"
     }
-  ]
+  ],
+  "instructions": [
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "lycation",
+        "toColumn": 8,
+        "verbatim": "Lycation"
+      },
+      "line": 1,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "loyation",
+        "toColumn": 8,
+        "verbatim": "Loyation"
+      },
+      "line": 2,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "locytion",
+        "toColumn": 8,
+        "verbatim": "Locytion"
+      },
+      "line": 3,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "locayion",
+        "toColumn": 8,
+        "verbatim": "Locayion"
+      },
+      "line": 4,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "locatyon",
+        "toColumn": 8,
+        "verbatim": "Locatyon"
+      },
+      "line": 5,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "locatiyn",
+        "toColumn": 8,
+        "verbatim": "Locatiyn"
+      },
+      "line": 6,
+      "type": "entryAnimation"
+    },
+    {
+      "animation": {
+        "fromColumn": 17,
+        "normalized": "from-left",
+        "toColumn": 25,
+        "verbatim": "from left"
+      },
+      "character": {
+        "fromColumn": 1,
+        "normalized": "locatioy",
+        "toColumn": 8,
+        "verbatim": "Locatioy"
+      },
+      "line": 7,
+      "type": "entryAnimation"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
 }
