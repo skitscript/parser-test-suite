@@ -1,0 +1,518 @@
+{
+  "identifierInstances": [
+    {
+      "context": "declaration",
+      "fromColumn": 3,
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 5,
+      "line": 3,
+      "normalized": "nrt",
+      "toColumn": 7,
+      "type": "flag",
+      "verbatim": "Nrt"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 10,
+      "line": 3,
+      "normalized": "noe",
+      "toColumn": 12,
+      "type": "flag",
+      "verbatim": "Noe"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 15,
+      "line": 3,
+      "normalized": "nota",
+      "toColumn": 18,
+      "type": "flag",
+      "verbatim": "Nota"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 21,
+      "line": 3,
+      "normalized": "ot",
+      "toColumn": 22,
+      "type": "flag",
+      "verbatim": "Ot"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 25,
+      "line": 3,
+      "normalized": "orange",
+      "toColumn": 30,
+      "type": "flag",
+      "verbatim": "Orange"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 33,
+      "line": 3,
+      "normalized": "ard",
+      "toColumn": 35,
+      "type": "flag",
+      "verbatim": "Ard"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 38,
+      "line": 3,
+      "normalized": "ane",
+      "toColumn": 40,
+      "type": "flag",
+      "verbatim": "Ane"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 43,
+      "line": 3,
+      "normalized": "anda",
+      "toColumn": 46,
+      "type": "flag",
+      "verbatim": "Anda"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 52,
+      "line": 3,
+      "normalized": "end",
+      "toColumn": 54,
+      "type": "flag",
+      "verbatim": "End"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 9,
+      "line": 5,
+      "normalized": "example-label",
+      "toColumn": 21,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 28,
+      "line": 5,
+      "normalized": "nrt",
+      "toColumn": 30,
+      "type": "flag",
+      "verbatim": "Nrt"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 33,
+      "line": 5,
+      "normalized": "noe",
+      "toColumn": 35,
+      "type": "flag",
+      "verbatim": "Noe"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 38,
+      "line": 5,
+      "normalized": "nota",
+      "toColumn": 41,
+      "type": "flag",
+      "verbatim": "Nota"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 44,
+      "line": 5,
+      "normalized": "ot",
+      "toColumn": 45,
+      "type": "flag",
+      "verbatim": "Ot"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 48,
+      "line": 5,
+      "normalized": "orange",
+      "toColumn": 53,
+      "type": "flag",
+      "verbatim": "Orange"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 56,
+      "line": 5,
+      "normalized": "ard",
+      "toColumn": 58,
+      "type": "flag",
+      "verbatim": "Ard"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 61,
+      "line": 5,
+      "normalized": "ane",
+      "toColumn": 63,
+      "type": "flag",
+      "verbatim": "Ane"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 66,
+      "line": 5,
+      "normalized": "anda",
+      "toColumn": 69,
+      "type": "flag",
+      "verbatim": "Anda"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 75,
+      "line": 5,
+      "normalized": "end",
+      "toColumn": 77,
+      "type": "flag",
+      "verbatim": "End"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 9,
+      "line": 6,
+      "normalized": "example-label",
+      "toColumn": 21,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 28,
+      "line": 6,
+      "normalized": "nrt",
+      "toColumn": 30,
+      "type": "flag",
+      "verbatim": "Nrt"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 33,
+      "line": 6,
+      "normalized": "noe",
+      "toColumn": 35,
+      "type": "flag",
+      "verbatim": "Noe"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 38,
+      "line": 6,
+      "normalized": "nota",
+      "toColumn": 41,
+      "type": "flag",
+      "verbatim": "Nota"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 44,
+      "line": 6,
+      "normalized": "ot",
+      "toColumn": 45,
+      "type": "flag",
+      "verbatim": "Ot"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 48,
+      "line": 6,
+      "normalized": "orange",
+      "toColumn": 53,
+      "type": "flag",
+      "verbatim": "Orange"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 56,
+      "line": 6,
+      "normalized": "ard",
+      "toColumn": 58,
+      "type": "flag",
+      "verbatim": "Ard"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 61,
+      "line": 6,
+      "normalized": "ane",
+      "toColumn": 63,
+      "type": "flag",
+      "verbatim": "Ane"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 66,
+      "line": 6,
+      "normalized": "anda",
+      "toColumn": 69,
+      "type": "flag",
+      "verbatim": "Anda"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 74,
+      "line": 6,
+      "normalized": "end",
+      "toColumn": 76,
+      "type": "flag",
+      "verbatim": "End"
+    }
+  ],
+  "instructions": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "label"
+    },
+    {
+      "flag": {
+        "fromColumn": 5,
+        "normalized": "nrt",
+        "toColumn": 7,
+        "verbatim": "Nrt"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 10,
+        "normalized": "noe",
+        "toColumn": 12,
+        "verbatim": "Noe"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 15,
+        "normalized": "nota",
+        "toColumn": 18,
+        "verbatim": "Nota"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 21,
+        "normalized": "ot",
+        "toColumn": 22,
+        "verbatim": "Ot"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 25,
+        "normalized": "orange",
+        "toColumn": 30,
+        "verbatim": "Orange"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 33,
+        "normalized": "ard",
+        "toColumn": 35,
+        "verbatim": "Ard"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 38,
+        "normalized": "ane",
+        "toColumn": 40,
+        "verbatim": "Ane"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 43,
+        "normalized": "anda",
+        "toColumn": 46,
+        "verbatim": "Anda"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "flag": {
+        "fromColumn": 52,
+        "normalized": "end",
+        "toColumn": 54,
+        "verbatim": "End"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "condition": {
+        "flags": [
+          {
+            "fromColumn": 28,
+            "normalized": "nrt",
+            "toColumn": 30,
+            "verbatim": "Nrt"
+          },
+          {
+            "fromColumn": 33,
+            "normalized": "noe",
+            "toColumn": 35,
+            "verbatim": "Noe"
+          },
+          {
+            "fromColumn": 38,
+            "normalized": "nota",
+            "toColumn": 41,
+            "verbatim": "Nota"
+          },
+          {
+            "fromColumn": 44,
+            "normalized": "ot",
+            "toColumn": 45,
+            "verbatim": "Ot"
+          },
+          {
+            "fromColumn": 48,
+            "normalized": "orange",
+            "toColumn": 53,
+            "verbatim": "Orange"
+          },
+          {
+            "fromColumn": 56,
+            "normalized": "ard",
+            "toColumn": 58,
+            "verbatim": "Ard"
+          },
+          {
+            "fromColumn": 61,
+            "normalized": "ane",
+            "toColumn": 63,
+            "verbatim": "Ane"
+          },
+          {
+            "fromColumn": 66,
+            "normalized": "anda",
+            "toColumn": 69,
+            "verbatim": "Anda"
+          },
+          {
+            "fromColumn": 75,
+            "normalized": "end",
+            "toColumn": 77,
+            "verbatim": "End"
+          }
+        ],
+        "type": "everyFlagSet"
+      },
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 9,
+        "normalized": "example-label",
+        "toColumn": 21,
+        "verbatim": "Example Label"
+      },
+      "line": 5,
+      "type": "jump"
+    },
+    {
+      "condition": {
+        "flags": [
+          {
+            "fromColumn": 28,
+            "normalized": "nrt",
+            "toColumn": 30,
+            "verbatim": "Nrt"
+          },
+          {
+            "fromColumn": 33,
+            "normalized": "noe",
+            "toColumn": 35,
+            "verbatim": "Noe"
+          },
+          {
+            "fromColumn": 38,
+            "normalized": "nota",
+            "toColumn": 41,
+            "verbatim": "Nota"
+          },
+          {
+            "fromColumn": 44,
+            "normalized": "ot",
+            "toColumn": 45,
+            "verbatim": "Ot"
+          },
+          {
+            "fromColumn": 48,
+            "normalized": "orange",
+            "toColumn": 53,
+            "verbatim": "Orange"
+          },
+          {
+            "fromColumn": 56,
+            "normalized": "ard",
+            "toColumn": 58,
+            "verbatim": "Ard"
+          },
+          {
+            "fromColumn": 61,
+            "normalized": "ane",
+            "toColumn": 63,
+            "verbatim": "Ane"
+          },
+          {
+            "fromColumn": 66,
+            "normalized": "anda",
+            "toColumn": 69,
+            "verbatim": "Anda"
+          },
+          {
+            "fromColumn": 74,
+            "normalized": "end",
+            "toColumn": 76,
+            "verbatim": "End"
+          }
+        ],
+        "type": "someFlagsSet"
+      },
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 9,
+        "normalized": "example-label",
+        "toColumn": 21,
+        "verbatim": "Example Label"
+      },
+      "line": 6,
+      "type": "jump"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
+}
