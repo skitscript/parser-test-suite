@@ -6,13 +6,13 @@
       "line": 1,
       "normalized": "nrt-srt-eyit-exyt-jymp-juyp-wyen-whyn-clyar-cleyr-enyer-entyr-exyts-exiys-leyds-eyters-enyers-entyrs-enteys-it-ot-te-ani-arn-nor-see-exir-juma-wher-clean-entes-existz-leadz-enterz-exitz",
       "toColumn": 195,
-      "type": "background",
+      "type": "location",
       "verbatim": "Nrt Srt Eyit Exyt Jymp Juyp Wyen Whyn Clyar Cleyr Enyer Entyr Exyts Exiys Leyds Eyters Enyers Entyrs Enteys It Ot Te Ani Arn Nor See Exir Juma Wher Clean Entes Existz Leadz Enterz Exitz"
     }
   ],
   "instructions": [
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
         "normalized": "nrt-srt-eyit-exyt-jymp-juyp-wyen-whyn-clyar-cleyr-enyer-entyr-exyts-exiys-leyds-eyters-enyers-entyrs-enteys-it-ot-te-ani-arn-nor-see-exir-juma-wher-clean-entes-existz-leadz-enterz-exitz",
         "toColumn": 195,

@@ -6,7 +6,7 @@
       "line": 1,
       "normalized": "a",
       "toColumn": 11,
-      "type": "background",
+      "type": "location",
       "verbatim": "A"
     },
     {
@@ -258,7 +258,7 @@
       "line": 32,
       "normalized": "n",
       "toColumn": 11,
-      "type": "background",
+      "type": "location",
       "verbatim": "N"
     },
     {
@@ -1029,7 +1029,7 @@
   ],
   "instructions": [
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
         "normalized": "a",
         "toColumn": 11,
@@ -1570,7 +1570,7 @@
       "type": "emote"
     },
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
         "normalized": "n",
         "toColumn": 11,

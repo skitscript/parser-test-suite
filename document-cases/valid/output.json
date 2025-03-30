@@ -6,7 +6,7 @@
       "line": 1,
       "normalized": "podium",
       "toColumn": 16,
-      "type": "background",
+      "type": "location",
       "verbatim": "Podium"
     },
     {
@@ -258,7 +258,7 @@
       "line": 32,
       "normalized": "interview-room",
       "toColumn": 98,
-      "type": "background",
+      "type": "location",
       "verbatim": "!?'\"{}@*/\\&#%`   +<=>|$.-Interview!?'\"{}@*/\\&#%`   +<=>|$.-Room!?'\"{}@*/\\&#%`   +<=>|$.-"
     },
     {
@@ -1029,7 +1029,7 @@
   ],
   "instructions": [
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
         "normalized": "podium",
         "toColumn": 16,
@@ -1570,7 +1570,7 @@
       "type": "emote"
     },
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
         "normalized": "interview-room",
         "toColumn": 98,

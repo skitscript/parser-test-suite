@@ -67,10 +67,10 @@
       "context": "implicitDeclaration",
       "fromColumn": 11,
       "line": 9,
-      "normalized": "example-background",
+      "normalized": "example-a_location",
       "toColumn": 28,
-      "type": "background",
-      "verbatim": "Example Background"
+      "type": "location",
+      "verbatim": "Example A_Location"
     }
   ],
   "instructions": [

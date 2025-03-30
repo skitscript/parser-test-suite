@@ -4,19 +4,19 @@
       "context": "implicitDeclaration",
       "fromColumn": 16,
       "line": 1,
-      "normalized": "example-background",
+      "normalized": "example-a_location",
       "toColumn": 33,
-      "type": "background",
-      "verbatim": "Example Background"
+      "type": "location",
+      "verbatim": "Example A_Location"
     }
   ],
   "instructions": [
     {
-      "background": {
+      "location": {
         "fromColumn": 16,
-        "normalized": "example-background",
+        "normalized": "example-a_location",
         "toColumn": 33,
-        "verbatim": "Example Background"
+        "verbatim": "Example A_Location"
       },
       "line": 1,
       "type": "location"

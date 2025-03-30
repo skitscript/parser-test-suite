@@ -4,38 +4,38 @@
       "context": "implicitDeclaration",
       "fromColumn": 11,
       "line": 1,
-      "normalized": "example-background",
+      "normalized": "example-a_location",
       "toColumn": 28,
-      "type": "background",
-      "verbatim": "Example Background"
+      "type": "location",
+      "verbatim": "Example A_Location"
     },
     {
       "context": "implicitDeclaration",
       "fromColumn": 11,
       "line": 3,
-      "normalized": "example-background",
+      "normalized": "example-a_location",
       "toColumn": 31,
-      "type": "background",
-      "verbatim": "ExamPLE    Background"
+      "type": "location",
+      "verbatim": "ExamPLE    A_Location"
     }
   ],
   "instructions": [
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
-        "normalized": "example-background",
+        "normalized": "example-a_location",
         "toColumn": 28,
-        "verbatim": "Example Background"
+        "verbatim": "Example A_Location"
       },
       "line": 1,
       "type": "location"
     },
     {
-      "background": {
+      "location": {
         "fromColumn": 11,
-        "normalized": "example-background",
+        "normalized": "example-a_location",
         "toColumn": 31,
-        "verbatim": "ExamPLE    Background"
+        "verbatim": "ExamPLE    A_Location"
       },
       "line": 3,
       "type": "location"
@@ -47,16 +47,16 @@
       "first": {
         "fromColumn": 11,
         "line": 1,
-        "normalized": "example-background",
+        "normalized": "example-a_location",
         "toColumn": 28,
-        "verbatim": "Example Background"
+        "verbatim": "Example A_Location"
       },
       "second": {
         "fromColumn": 11,
         "line": 3,
-        "normalized": "example-background",
+        "normalized": "example-a_location",
         "toColumn": 31,
-        "verbatim": "ExamPLE    Background"
+        "verbatim": "ExamPLE    A_Location"
       },
       "type": "inconsistentIdentifier"
     }
