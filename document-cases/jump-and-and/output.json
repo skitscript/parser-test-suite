@@ -1,0 +1,72 @@
+{
+  "errors": [
+    {
+      "fromColumn": 1,
+      "line": 5,
+      "toColumn": 65,
+      "type": "unparsable"
+    }
+  ],
+  "identifierInstances": [
+    {
+      "context": "declaration",
+      "fromColumn": 3,
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 5,
+      "line": 3,
+      "normalized": "example-flag-a",
+      "toColumn": 18,
+      "type": "flag",
+      "verbatim": "Example Flag A"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 24,
+      "line": 3,
+      "normalized": "example-flag-b",
+      "toColumn": 37,
+      "type": "flag",
+      "verbatim": "Example Flag B"
+    }
+  ],
+  "type": "invalid",
+  "warnings": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "unreferencedLabel"
+    },
+    {
+      "flag": {
+        "fromColumn": 5,
+        "normalized": "example-flag-a",
+        "toColumn": 18,
+        "verbatim": "Example Flag A"
+      },
+      "line": 3,
+      "type": "flagNeverReferenced"
+    },
+    {
+      "flag": {
+        "fromColumn": 24,
+        "normalized": "example-flag-b",
+        "toColumn": 37,
+        "verbatim": "Example Flag B"
+      },
+      "line": 3,
+      "type": "flagNeverReferenced"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "errors": [
+    {
+      "fromColumn": 1,
+      "line": 5,
+      "toColumn": 44,
+      "type": "unparsable"
+    }
+  ],
+  "identifierInstances": [
+    {
+      "context": "declaration",
+      "fromColumn": 3,
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 5,
+      "line": 3,
+      "normalized": "example-flag",
+      "toColumn": 16,
+      "type": "flag",
+      "verbatim": "Example Flag"
+    }
+  ],
+  "type": "invalid",
+  "warnings": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "unreferencedLabel"
+    },
+    {
+      "flag": {
+        "fromColumn": 5,
+        "normalized": "example-flag",
+        "toColumn": 16,
+        "verbatim": "Example Flag"
+      },
+      "line": 3,
+      "type": "flagNeverReferenced"
+    }
+  ]
+}
