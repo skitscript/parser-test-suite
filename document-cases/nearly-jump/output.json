@@ -1,0 +1,49 @@
+{
+  "errors": [
+    {
+      "fromColumn": 1,
+      "line": 1,
+      "toColumn": 18,
+      "type": "unparsable"
+    },
+    {
+      "fromColumn": 1,
+      "line": 2,
+      "toColumn": 18,
+      "type": "unparsable"
+    },
+    {
+      "fromColumn": 1,
+      "line": 3,
+      "toColumn": 18,
+      "type": "unparsable"
+    },
+    {
+      "fromColumn": 1,
+      "line": 4,
+      "toColumn": 17,
+      "type": "unparsable"
+    },
+    {
+      "fromColumn": 1,
+      "line": 5,
+      "toColumn": 18,
+      "type": "unparsable"
+    },
+    {
+      "fromColumn": 1,
+      "line": 6,
+      "toColumn": 18,
+      "type": "unparsable"
+    },
+    {
+      "fromColumn": 1,
+      "line": 7,
+      "toColumn": 22,
+      "type": "unparsable"
+    }
+  ],
+  "identifierInstances": [],
+  "type": "invalid",
+  "warnings": []
+}

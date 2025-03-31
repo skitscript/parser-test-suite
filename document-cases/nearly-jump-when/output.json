@@ -1,0 +1,369 @@
+{
+  "type": "valid",
+  "instructions": [
+    {
+      "type": "label",
+      "line": 1,
+      "label": {
+        "verbatim": "Example LabelAWhen Example Flag",
+        "normalized": "example-labelawhen-example-flag",
+        "fromColumn": 3,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "label",
+      "line": 2,
+      "label": {
+        "verbatim": "Example Label Jhen Example Flag",
+        "normalized": "example-label-jhen-example-flag",
+        "fromColumn": 3,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "label",
+      "line": 3,
+      "label": {
+        "verbatim": "Example Label Wjen Example Flag",
+        "normalized": "example-label-wjen-example-flag",
+        "fromColumn": 3,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "label",
+      "line": 4,
+      "label": {
+        "verbatim": "Example Label Whyn Example Flag",
+        "normalized": "example-label-whyn-example-flag",
+        "fromColumn": 3,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "label",
+      "line": 5,
+      "label": {
+        "verbatim": "Example Label Whea Example Flag",
+        "normalized": "example-label-whea-example-flag",
+        "fromColumn": 3,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "label",
+      "line": 6,
+      "label": {
+        "verbatim": "Example Label WhenyExample Flag",
+        "normalized": "example-label-whenyexample-flag",
+        "fromColumn": 3,
+        "toColumn": 33
+      }
+    },
+    {
+      "type": "set",
+      "line": 7,
+      "flag": {
+        "verbatim": "Example Flag",
+        "normalized": "example-flag",
+        "fromColumn": 5,
+        "toColumn": 16
+      }
+    },
+    {
+      "type": "jump",
+      "line": 8,
+      "label": {
+        "verbatim": "Example LabelAWhen Example Flag",
+        "normalized": "example-labelawhen-example-flag",
+        "fromColumn": 9,
+        "toColumn": 39
+      },
+      "instructionIndex": 0,
+      "condition": {
+        "type": "flagSet",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 46,
+          "toColumn": 57
+        }
+      }
+    },
+    {
+      "type": "jump",
+      "line": 9,
+      "label": {
+        "verbatim": "Example Label Jhen Example Flag",
+        "normalized": "example-label-jhen-example-flag",
+        "fromColumn": 9,
+        "toColumn": 39
+      },
+      "instructionIndex": 1,
+      "condition": {
+        "type": "flagSet",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 46,
+          "toColumn": 57
+        }
+      }
+    },
+    {
+      "type": "jump",
+      "line": 10,
+      "label": {
+        "verbatim": "Example Label Wjen Example Flag",
+        "normalized": "example-label-wjen-example-flag",
+        "fromColumn": 9,
+        "toColumn": 39
+      },
+      "instructionIndex": 2,
+      "condition": {
+        "type": "flagSet",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 46,
+          "toColumn": 57
+        }
+      }
+    },
+    {
+      "type": "jump",
+      "line": 11,
+      "label": {
+        "verbatim": "Example Label Whyn Example Flag",
+        "normalized": "example-label-whyn-example-flag",
+        "fromColumn": 9,
+        "toColumn": 39
+      },
+      "instructionIndex": 3,
+      "condition": {
+        "type": "flagSet",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 46,
+          "toColumn": 57
+        }
+      }
+    },
+    {
+      "type": "jump",
+      "line": 12,
+      "label": {
+        "verbatim": "Example Label Whea Example Flag",
+        "normalized": "example-label-whea-example-flag",
+        "fromColumn": 9,
+        "toColumn": 39
+      },
+      "instructionIndex": 4,
+      "condition": {
+        "type": "flagSet",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 46,
+          "toColumn": 57
+        }
+      }
+    },
+    {
+      "type": "jump",
+      "line": 13,
+      "label": {
+        "verbatim": "Example Label WhenyExample Flag",
+        "normalized": "example-label-whenyexample-flag",
+        "fromColumn": 9,
+        "toColumn": 39
+      },
+      "instructionIndex": 5,
+      "condition": {
+        "type": "flagSet",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 46,
+          "toColumn": 57
+        }
+      }
+    }
+  ],
+  "warnings": [],
+  "identifierInstances": [
+    {
+      "verbatim": "Example LabelAWhen Example Flag",
+      "normalized": "example-labelawhen-example-flag",
+      "fromColumn": 3,
+      "toColumn": 33,
+      "type": "label",
+      "context": "declaration",
+      "line": 1
+    },
+    {
+      "verbatim": "Example Label Jhen Example Flag",
+      "normalized": "example-label-jhen-example-flag",
+      "fromColumn": 3,
+      "toColumn": 33,
+      "type": "label",
+      "context": "declaration",
+      "line": 2
+    },
+    {
+      "verbatim": "Example Label Wjen Example Flag",
+      "normalized": "example-label-wjen-example-flag",
+      "fromColumn": 3,
+      "toColumn": 33,
+      "type": "label",
+      "context": "declaration",
+      "line": 3
+    },
+    {
+      "verbatim": "Example Label Whyn Example Flag",
+      "normalized": "example-label-whyn-example-flag",
+      "fromColumn": 3,
+      "toColumn": 33,
+      "type": "label",
+      "context": "declaration",
+      "line": 4
+    },
+    {
+      "verbatim": "Example Label Whea Example Flag",
+      "normalized": "example-label-whea-example-flag",
+      "fromColumn": 3,
+      "toColumn": 33,
+      "type": "label",
+      "context": "declaration",
+      "line": 5
+    },
+    {
+      "verbatim": "Example Label WhenyExample Flag",
+      "normalized": "example-label-whenyexample-flag",
+      "fromColumn": 3,
+      "toColumn": 33,
+      "type": "label",
+      "context": "declaration",
+      "line": 6
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 5,
+      "toColumn": 16,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 7
+    },
+    {
+      "verbatim": "Example LabelAWhen Example Flag",
+      "normalized": "example-labelawhen-example-flag",
+      "fromColumn": 9,
+      "toColumn": 39,
+      "type": "label",
+      "context": "reference",
+      "line": 8
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 46,
+      "toColumn": 57,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 8
+    },
+    {
+      "verbatim": "Example Label Jhen Example Flag",
+      "normalized": "example-label-jhen-example-flag",
+      "fromColumn": 9,
+      "toColumn": 39,
+      "type": "label",
+      "context": "reference",
+      "line": 9
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 46,
+      "toColumn": 57,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 9
+    },
+    {
+      "verbatim": "Example Label Wjen Example Flag",
+      "normalized": "example-label-wjen-example-flag",
+      "fromColumn": 9,
+      "toColumn": 39,
+      "type": "label",
+      "context": "reference",
+      "line": 10
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 46,
+      "toColumn": 57,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 10
+    },
+    {
+      "verbatim": "Example Label Whyn Example Flag",
+      "normalized": "example-label-whyn-example-flag",
+      "fromColumn": 9,
+      "toColumn": 39,
+      "type": "label",
+      "context": "reference",
+      "line": 11
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 46,
+      "toColumn": 57,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 11
+    },
+    {
+      "verbatim": "Example Label Whea Example Flag",
+      "normalized": "example-label-whea-example-flag",
+      "fromColumn": 9,
+      "toColumn": 39,
+      "type": "label",
+      "context": "reference",
+      "line": 12
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 46,
+      "toColumn": 57,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 12
+    },
+    {
+      "verbatim": "Example Label WhenyExample Flag",
+      "normalized": "example-label-whenyexample-flag",
+      "fromColumn": 9,
+      "toColumn": 39,
+      "type": "label",
+      "context": "reference",
+      "line": 13
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 46,
+      "toColumn": 57,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 13
+    }
+  ]
+}
