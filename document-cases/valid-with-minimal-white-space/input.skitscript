@@ -1,0 +1,163 @@
+Location:A.
+
+B enters C.
+
+B:
+  By default, characters display the "neutral" emote.
+  Any number of lines of dialog can be given following the name of a character (the speaker).
+  Syntax *similar **to** markdown* can be *\\used.*
+  ***`This`*** includes `inline \`code\\ segments` which can be inside ***`other-*sections* **formatted in other ways**`***.
+  All \*such\* \`syntax\` \*\*can\*\* be \\es\\\\caped.
+
+D enters E.
+
+D(F):
+  The name of an emote can be specified alongside the name of the speaking character.
+
+B is G.
+
+B:
+  You can?  I've always used a stage direction!
+
+H enters C,I.
+J enters E.
+
+B,D,H and J:
+  Multiple people can speak simultaneously.
+  Now to hand over to our assistant for a R demo...
+
+B and H exit K,L.
+D and J exit M,L.
+
+Location:N.
+
+O enters P,Q.
+
+~R~
+
+O:
+  A list of options can be given, which can also be conditional:
+
+>Reset leads to S.
+>View state leads to T.
+>Set *flag A* leads to U.
+>Set **flag B** leads to V.
+>Set `flag C` leads to W.
+>Option which is removed when any flag is set leads to X when not Y,Z or Á.
+>Option which is added when any flag is set leads to É when Y,Z or Á.
+>Option which is removed when every flag is set leads to Í when not Y,Z and Á.
+>Option which is added when every flag is set leads to Ó when Y,Z and Á.
+
+~S~
+
+Clear Y,Z and Á.
+
+  All flags have been cleared.
+
+Jump to R.
+
+~T~
+
+Jump to 0 when not Y,Z or Á.
+Jump to 1 when Y,Z and Á.
+
+Jump to 2 when not Z or Á.
+Jump to 3 when not Y or Á.
+Jump to 4 when not Y or Z.
+
+Jump to 5 when not Á.
+Jump to 6 when not Z.
+
+  Flags B and C have been set.
+
+Jump to R.
+
+~0~
+
+  All of the flags (A, B and C) are clear.
+
+Jump to R.
+
+~1~
+
+  All of the flags (A, B and C) are set.
+
+Jump to R.
+
+~2~
+
+  Flag A is set; flags B and C are clear.
+
+Jump to R.
+
+~3~
+
+  Flag B is set; flags A and C are clear.
+
+Jump to R.
+
+~4~
+
+  Flag C is set; flags A and B are clear.
+
+Jump to R.
+
+~5~
+
+  Flags A and B are set; flag C is clear.
+
+Jump to R.
+
+~6~
+
+  Flags A and C are set; flag B is clear.
+
+Jump to R.
+
+~U~
+
+Set Y.
+
+  Flag A has been set.
+
+Jump to R.
+
+~V~
+
+Set Z.
+
+  Flag B has been set.
+
+Jump to R.
+
+~W~
+
+Set Á.
+
+  Flag C has been set.
+
+Jump to R.
+
+~X~
+
+  No flags are set.
+
+Jump to R.
+
+~É~
+
+  At least one flag is set.
+
+Jump to R.
+
+~Í~
+
+  At least some flags are not set.
+
+Jump to R.
+
+~Ó~
+
+  All flags are set.
+
+Jump to R.
