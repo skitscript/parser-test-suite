@@ -12,8 +12,18 @@
       }
     },
     {
-      "type": "menuOption",
+      "type": "set",
       "line": 2,
+      "flag": {
+        "verbatim": "Example Flag",
+        "normalized": "example-flag",
+        "fromColumn": 5,
+        "toColumn": 16
+      }
+    },
+    {
+      "type": "menuOption",
+      "line": 3,
       "content": [
         {
           "bold": false,
@@ -32,7 +42,15 @@
         "toColumn": 87
       },
       "instructionIndex": 0,
-      "condition": null
+      "condition": {
+        "type": "flagClear",
+        "flag": {
+          "verbatim": "Example Flag",
+          "normalized": "example-flag",
+          "fromColumn": 98,
+          "toColumn": 109
+        }
+      }
     }
   ],
   "warnings": [],
@@ -47,13 +65,31 @@
       "line": 1
     },
     {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 5,
+      "toColumn": 16,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 2
+    },
+    {
       "verbatim": "Example Label",
       "normalized": "example-label",
       "fromColumn": 75,
       "toColumn": 87,
       "type": "label",
       "context": "reference",
-      "line": 2
+      "line": 3
+    },
+    {
+      "verbatim": "Example Flag",
+      "normalized": "example-flag",
+      "fromColumn": 98,
+      "toColumn": 109,
+      "type": "flag",
+      "context": "implicitDeclaration",
+      "line": 3
     }
   ]
 }
