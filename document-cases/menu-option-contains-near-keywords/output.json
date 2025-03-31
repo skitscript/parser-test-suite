@@ -1,0 +1,59 @@
+{
+  "identifierInstances": [
+    {
+      "context": "declaration",
+      "fromColumn": 3,
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 122,
+      "line": 3,
+      "normalized": "example-label",
+      "toColumn": 134,
+      "type": "label",
+      "verbatim": "Example Label"
+    }
+  ],
+  "instructions": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "label"
+    },
+    {
+      "condition": null,
+      "content": [
+        {
+          "bold": false,
+          "code": false,
+          "fromColumn": 3,
+          "italic": false,
+          "plainText": "Example Menu Option yleads yto yeads lyads leyds leays leady leadsy ty yo toy ywhen yhen wyen whyn whey wheny",
+          "toColumn": 111,
+          "verbatim": "Example Menu Option yleads yto yeads lyads leyds leays leady leadsy ty yo toy ywhen yhen wyen whyn whey wheny"
+        }
+      ],
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 122,
+        "normalized": "example-label",
+        "toColumn": 134,
+        "verbatim": "Example Label"
+      },
+      "line": 3,
+      "type": "menuOption"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
+}
