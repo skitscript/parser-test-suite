@@ -1,0 +1,84 @@
+{
+  "identifierInstances": [
+    {
+      "context": "declaration",
+      "fromColumn": 3,
+      "line": 1,
+      "normalized": "example-label",
+      "toColumn": 15,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 5,
+      "line": 3,
+      "normalized": "notxexample-flag",
+      "toColumn": 20,
+      "type": "flag",
+      "verbatim": "NotxExample Flag"
+    },
+    {
+      "context": "reference",
+      "fromColumn": 9,
+      "line": 5,
+      "normalized": "example-label",
+      "toColumn": 21,
+      "type": "label",
+      "verbatim": "Example Label"
+    },
+    {
+      "context": "implicitDeclaration",
+      "fromColumn": 28,
+      "line": 5,
+      "normalized": "notxexample-flag",
+      "toColumn": 43,
+      "type": "flag",
+      "verbatim": "NotxExample Flag"
+    }
+  ],
+  "instructions": [
+    {
+      "label": {
+        "fromColumn": 3,
+        "normalized": "example-label",
+        "toColumn": 15,
+        "verbatim": "Example Label"
+      },
+      "line": 1,
+      "type": "label"
+    },
+    {
+      "flag": {
+        "fromColumn": 5,
+        "normalized": "notxexample-flag",
+        "toColumn": 20,
+        "verbatim": "NotxExample Flag"
+      },
+      "line": 3,
+      "type": "set"
+    },
+    {
+      "condition": {
+        "flag": {
+          "fromColumn": 28,
+          "normalized": "notxexample-flag",
+          "toColumn": 43,
+          "verbatim": "NotxExample Flag"
+        },
+        "type": "flagSet"
+      },
+      "instructionIndex": 0,
+      "label": {
+        "fromColumn": 9,
+        "normalized": "example-label",
+        "toColumn": 21,
+        "verbatim": "Example Label"
+      },
+      "line": 5,
+      "type": "jump"
+    }
+  ],
+  "type": "valid",
+  "warnings": []
+}
