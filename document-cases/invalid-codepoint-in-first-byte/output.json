@@ -1,0 +1,12 @@
+{
+  "errors": [
+    {
+      "line": 1,
+      "column": 5,
+      "type": "invalid_codepoint"
+    }
+  ],
+  "identifier_instances": [],
+  "type": "invalid",
+  "warnings": []
+}
