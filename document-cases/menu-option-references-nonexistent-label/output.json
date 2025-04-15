@@ -2,22 +2,22 @@
   "errors": [
     {
       "label": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "example-label",
-        "toColumn": 44,
+        "to_column": 44,
         "verbatim": "Example Label"
       },
       "line": 1,
       "type": "undefined_label"
     }
   ],
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "reference",
-      "fromColumn": 32,
+      "from_column": 32,
       "line": 1,
       "normalized": "example-label",
-      "toColumn": 44,
+      "to_column": 44,
       "type": "label",
       "verbatim": "Example Label"
     }

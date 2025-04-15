@@ -1,101 +1,101 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "jeff",
-      "toColumn": 4,
+      "to_column": 4,
       "type": "character",
       "verbatim": "Jeff"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 1,
       "normalized": "eyit",
-      "toColumn": 10,
+      "to_column": 10,
       "type": "character",
       "verbatim": "Eyit"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 13,
+      "from_column": 13,
       "line": 1,
       "normalized": "exyt",
-      "toColumn": 16,
+      "to_column": 16,
       "type": "character",
       "verbatim": "Exyt"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 19,
+      "from_column": 19,
       "line": 1,
       "normalized": "exiy",
-      "toColumn": 22,
+      "to_column": 22,
       "type": "character",
       "verbatim": "Exiy"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 25,
+      "from_column": 25,
       "line": 1,
       "normalized": "eyits",
-      "toColumn": 29,
+      "to_column": 29,
       "type": "character",
       "verbatim": "Eyits"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 32,
+      "from_column": 32,
       "line": 1,
       "normalized": "exyts",
-      "toColumn": 36,
+      "to_column": 36,
       "type": "character",
       "verbatim": "Exyts"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 39,
+      "from_column": 39,
       "line": 1,
       "normalized": "exiys",
-      "toColumn": 43,
+      "to_column": 43,
       "type": "character",
       "verbatim": "Exiys"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 46,
+      "from_column": 46,
       "line": 1,
       "normalized": "exity",
-      "toColumn": 50,
+      "to_column": 50,
       "type": "character",
       "verbatim": "Exity"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 53,
+      "from_column": 53,
       "line": 1,
       "normalized": "exitsy",
-      "toColumn": 58,
+      "to_column": 58,
       "type": "character",
       "verbatim": "Exitsy"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 64,
+      "from_column": 64,
       "line": 1,
       "normalized": "andy",
-      "toColumn": 67,
+      "to_column": 67,
       "type": "character",
       "verbatim": "Andy"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 74,
+      "from_column": 74,
       "line": 1,
       "normalized": "left",
-      "toColumn": 77,
+      "to_column": 77,
       "type": "exit_animation",
       "verbatim": "left"
     }
@@ -103,15 +103,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "jeff",
-        "toColumn": 4,
+        "to_column": 4,
         "verbatim": "Jeff"
       },
       "line": 1,
@@ -119,15 +119,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "eyit",
-        "toColumn": 10,
+        "to_column": 10,
         "verbatim": "Eyit"
       },
       "line": 1,
@@ -135,15 +135,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 13,
+        "from_column": 13,
         "normalized": "exyt",
-        "toColumn": 16,
+        "to_column": 16,
         "verbatim": "Exyt"
       },
       "line": 1,
@@ -151,15 +151,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 19,
+        "from_column": 19,
         "normalized": "exiy",
-        "toColumn": 22,
+        "to_column": 22,
         "verbatim": "Exiy"
       },
       "line": 1,
@@ -167,15 +167,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 25,
+        "from_column": 25,
         "normalized": "eyits",
-        "toColumn": 29,
+        "to_column": 29,
         "verbatim": "Eyits"
       },
       "line": 1,
@@ -183,15 +183,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "exyts",
-        "toColumn": 36,
+        "to_column": 36,
         "verbatim": "Exyts"
       },
       "line": 1,
@@ -199,15 +199,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 39,
+        "from_column": 39,
         "normalized": "exiys",
-        "toColumn": 43,
+        "to_column": 43,
         "verbatim": "Exiys"
       },
       "line": 1,
@@ -215,15 +215,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 46,
+        "from_column": 46,
         "normalized": "exity",
-        "toColumn": 50,
+        "to_column": 50,
         "verbatim": "Exity"
       },
       "line": 1,
@@ -231,15 +231,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 53,
+        "from_column": 53,
         "normalized": "exitsy",
-        "toColumn": 58,
+        "to_column": 58,
         "verbatim": "Exitsy"
       },
       "line": 1,
@@ -247,15 +247,15 @@
     },
     {
       "animation": {
-        "fromColumn": 74,
+        "from_column": 74,
         "normalized": "left",
-        "toColumn": 77,
+        "to_column": 77,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 64,
+        "from_column": 64,
         "normalized": "andy",
-        "toColumn": 67,
+        "to_column": 67,
         "verbatim": "Andy"
       },
       "line": 1,

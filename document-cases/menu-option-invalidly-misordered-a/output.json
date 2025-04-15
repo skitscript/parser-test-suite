@@ -4,10 +4,10 @@
     {
       "type": "unparsable",
       "line": 1,
-      "fromColumn": 1,
-      "toColumn": 64
+      "from_column": 1,
+      "to_column": 64
     }
   ],
   "warnings": [],
-  "identifierInstances": []
+  "identifier_instances": []
 }

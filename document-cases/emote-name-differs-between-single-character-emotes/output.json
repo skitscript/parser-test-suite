@@ -1,38 +1,38 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "example-character",
-      "toColumn": 17,
+      "to_column": 17,
       "type": "character",
       "verbatim": "Example Character"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 22,
+      "from_column": 22,
       "line": 1,
       "normalized": "example-emote",
-      "toColumn": 35,
+      "to_column": 35,
       "type": "emote",
       "verbatim": "Example  EmoTe"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "example-character",
-      "toColumn": 17,
+      "to_column": 17,
       "type": "character",
       "verbatim": "Example Character"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 22,
+      "from_column": 22,
       "line": 3,
       "normalized": "example-emote",
-      "toColumn": 34,
+      "to_column": 34,
       "type": "emote",
       "verbatim": "exAMple EMOte"
     }
@@ -40,15 +40,15 @@
   "instructions": [
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character",
-        "toColumn": 17,
+        "to_column": 17,
         "verbatim": "Example Character"
       },
       "emote": {
-        "fromColumn": 22,
+        "from_column": 22,
         "normalized": "example-emote",
-        "toColumn": 35,
+        "to_column": 35,
         "verbatim": "Example  EmoTe"
       },
       "line": 1,
@@ -56,15 +56,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character",
-        "toColumn": 17,
+        "to_column": 17,
         "verbatim": "Example Character"
       },
       "emote": {
-        "fromColumn": 22,
+        "from_column": 22,
         "normalized": "example-emote",
-        "toColumn": 34,
+        "to_column": 34,
         "verbatim": "exAMple EMOte"
       },
       "line": 3,
@@ -75,17 +75,17 @@
   "warnings": [
     {
       "first": {
-        "fromColumn": 22,
+        "from_column": 22,
         "line": 1,
         "normalized": "example-emote",
-        "toColumn": 35,
+        "to_column": 35,
         "verbatim": "Example  EmoTe"
       },
       "second": {
-        "fromColumn": 22,
+        "from_column": 22,
         "line": 3,
         "normalized": "example-emote",
-        "toColumn": 34,
+        "to_column": 34,
         "verbatim": "exAMple EMOte"
       },
       "type": "inconsistent_identifier"

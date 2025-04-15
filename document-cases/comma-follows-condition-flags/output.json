@@ -1,13 +1,13 @@
 {
   "errors": [
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
-      "toColumn": 83,
+      "to_column": 83,
       "type": "unparsable"
     }
   ],
-  "identifierInstances": [],
+  "identifier_instances": [],
   "type": "invalid",
   "warnings": []
 }

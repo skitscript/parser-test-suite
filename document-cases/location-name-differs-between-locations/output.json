@@ -1,20 +1,20 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 11,
+      "from_column": 11,
       "line": 1,
       "normalized": "example-a_location",
-      "toColumn": 28,
+      "to_column": 28,
       "type": "location",
       "verbatim": "Example A_Location"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 11,
+      "from_column": 11,
       "line": 3,
       "normalized": "example-a_location",
-      "toColumn": 31,
+      "to_column": 31,
       "type": "location",
       "verbatim": "ExamPLE    A_Location"
     }
@@ -22,9 +22,9 @@
   "instructions": [
     {
       "location": {
-        "fromColumn": 11,
+        "from_column": 11,
         "normalized": "example-a_location",
-        "toColumn": 28,
+        "to_column": 28,
         "verbatim": "Example A_Location"
       },
       "line": 1,
@@ -32,9 +32,9 @@
     },
     {
       "location": {
-        "fromColumn": 11,
+        "from_column": 11,
         "normalized": "example-a_location",
-        "toColumn": 31,
+        "to_column": 31,
         "verbatim": "ExamPLE    A_Location"
       },
       "line": 3,
@@ -45,17 +45,17 @@
   "warnings": [
     {
       "first": {
-        "fromColumn": 11,
+        "from_column": 11,
         "line": 1,
         "normalized": "example-a_location",
-        "toColumn": 28,
+        "to_column": 28,
         "verbatim": "Example A_Location"
       },
       "second": {
-        "fromColumn": 11,
+        "from_column": 11,
         "line": 3,
         "normalized": "example-a_location",
-        "toColumn": 31,
+        "to_column": 31,
         "verbatim": "ExamPLE    A_Location"
       },
       "type": "inconsistent_identifier"

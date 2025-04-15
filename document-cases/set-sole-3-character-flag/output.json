@@ -1,38 +1,38 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "declaration",
-      "fromColumn": 3,
+      "from_column": 3,
       "line": 1,
       "normalized": "example-label",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 6,
+      "from_column": 6,
       "line": 3,
       "normalized": "exa",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "flag",
       "verbatim": "Exa"
     },
     {
       "context": "reference",
-      "fromColumn": 9,
+      "from_column": 9,
       "line": 5,
       "normalized": "example-label",
-      "toColumn": 21,
+      "to_column": 21,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 28,
+      "from_column": 28,
       "line": 5,
       "normalized": "exa",
-      "toColumn": 30,
+      "to_column": 30,
       "type": "flag",
       "verbatim": "Exa"
     }
@@ -40,9 +40,9 @@
   "instructions": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,
@@ -50,9 +50,9 @@
     },
     {
       "flag": {
-        "fromColumn": 6,
+        "from_column": 6,
         "normalized": "exa",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Exa"
       },
       "line": 3,
@@ -61,18 +61,18 @@
     {
       "condition": {
         "flag": {
-          "fromColumn": 28,
+          "from_column": 28,
           "normalized": "exa",
-          "toColumn": 30,
+          "to_column": 30,
           "verbatim": "Exa"
         },
         "type": "flag_set"
       },
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "label": {
-        "fromColumn": 9,
+        "from_column": 9,
         "normalized": "example-label",
-        "toColumn": 21,
+        "to_column": 21,
         "verbatim": "Example Label"
       },
       "line": 5,

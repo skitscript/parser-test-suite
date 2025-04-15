@@ -1,38 +1,38 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "a",
-      "toColumn": 1,
+      "to_column": 1,
       "type": "character",
       "verbatim": "A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 4,
+      "from_column": 4,
       "line": 1,
       "normalized": "b",
-      "toColumn": 4,
+      "to_column": 4,
       "type": "character",
       "verbatim": "B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 10,
+      "from_column": 10,
       "line": 1,
       "normalized": "c",
-      "toColumn": 10,
+      "to_column": 10,
       "type": "character",
       "verbatim": "C"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 18,
+      "from_column": 18,
       "line": 1,
       "normalized": "d",
-      "toColumn": 18,
+      "to_column": 18,
       "type": "entry_animation",
       "verbatim": "D"
     }
@@ -40,15 +40,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 18,
+        "from_column": 18,
         "normalized": "d",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "D"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "a",
-        "toColumn": 1,
+        "to_column": 1,
         "verbatim": "A"
       },
       "line": 1,
@@ -56,15 +56,15 @@
     },
     {
       "animation": {
-        "fromColumn": 18,
+        "from_column": 18,
         "normalized": "d",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "D"
       },
       "character": {
-        "fromColumn": 4,
+        "from_column": 4,
         "normalized": "b",
-        "toColumn": 4,
+        "to_column": 4,
         "verbatim": "B"
       },
       "line": 1,
@@ -72,15 +72,15 @@
     },
     {
       "animation": {
-        "fromColumn": 18,
+        "from_column": 18,
         "normalized": "d",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "D"
       },
       "character": {
-        "fromColumn": 10,
+        "from_column": 10,
         "normalized": "c",
-        "toColumn": 10,
+        "to_column": 10,
         "verbatim": "C"
       },
       "line": 1,

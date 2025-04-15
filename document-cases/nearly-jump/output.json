@@ -1,49 +1,49 @@
 {
   "errors": [
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
-      "toColumn": 18,
+      "to_column": 18,
       "type": "unparsable"
     },
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 2,
-      "toColumn": 18,
+      "to_column": 18,
       "type": "unparsable"
     },
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
-      "toColumn": 18,
+      "to_column": 18,
       "type": "unparsable"
     },
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 4,
-      "toColumn": 17,
+      "to_column": 17,
       "type": "unparsable"
     },
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 5,
-      "toColumn": 18,
+      "to_column": 18,
       "type": "unparsable"
     },
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 6,
-      "toColumn": 18,
+      "to_column": 18,
       "type": "unparsable"
     },
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 7,
-      "toColumn": 22,
+      "to_column": 22,
       "type": "unparsable"
     }
   ],
-  "identifierInstances": [],
+  "identifier_instances": [],
   "type": "invalid",
   "warnings": []
 }

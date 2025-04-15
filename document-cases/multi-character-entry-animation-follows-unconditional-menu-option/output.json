@@ -1,92 +1,92 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "declaration",
-      "fromColumn": 3,
+      "from_column": 3,
       "line": 1,
       "normalized": "example-label",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 5,
+      "from_column": 5,
       "line": 3,
       "normalized": "example-flag",
-      "toColumn": 16,
+      "to_column": 16,
       "type": "flag",
       "verbatim": "Example Flag"
     },
     {
       "context": "reference",
-      "fromColumn": 32,
+      "from_column": 32,
       "line": 5,
       "normalized": "example-label",
-      "toColumn": 44,
+      "to_column": 44,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 51,
+      "from_column": 51,
       "line": 5,
       "normalized": "example-flag",
-      "toColumn": 62,
+      "to_column": 62,
       "type": "flag",
       "verbatim": "Example Flag"
     },
     {
       "context": "reference",
-      "fromColumn": 32,
+      "from_column": 32,
       "line": 6,
       "normalized": "example-label",
-      "toColumn": 44,
+      "to_column": 44,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "reference",
-      "fromColumn": 32,
+      "from_column": 32,
       "line": 7,
       "normalized": "example-label",
-      "toColumn": 44,
+      "to_column": 44,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 51,
+      "from_column": 51,
       "line": 7,
       "normalized": "example-flag",
-      "toColumn": 62,
+      "to_column": 62,
       "type": "flag",
       "verbatim": "Example Flag"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 9,
       "normalized": "example-character-a",
-      "toColumn": 19,
+      "to_column": 19,
       "type": "character",
       "verbatim": "Example Character A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 25,
+      "from_column": 25,
       "line": 9,
       "normalized": "example-character-b",
-      "toColumn": 43,
+      "to_column": 43,
       "type": "character",
       "verbatim": "Example Character B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 51,
+      "from_column": 51,
       "line": 9,
       "normalized": "left",
-      "toColumn": 54,
+      "to_column": 54,
       "type": "entry_animation",
       "verbatim": "left"
     }
@@ -94,9 +94,9 @@
   "instructions": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,
@@ -104,9 +104,9 @@
     },
     {
       "flag": {
-        "fromColumn": 5,
+        "from_column": 5,
         "normalized": "example-flag",
-        "toColumn": 16,
+        "to_column": 16,
         "verbatim": "Example Flag"
       },
       "line": 3,
@@ -115,9 +115,9 @@
     {
       "condition": {
         "flag": {
-          "fromColumn": 51,
+          "from_column": 51,
           "normalized": "example-flag",
-          "toColumn": 62,
+          "to_column": 62,
           "verbatim": "Example Flag"
         },
         "type": "flag_set"
@@ -126,18 +126,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Example Menu Option",
-          "toColumn": 21,
+          "plain_text": "Example Menu Option",
+          "to_column": 21,
           "verbatim": "Example Menu Option"
         }
       ],
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "label": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "example-label",
-        "toColumn": 44,
+        "to_column": 44,
         "verbatim": "Example Label"
       },
       "line": 5,
@@ -149,18 +149,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Example Menu Option",
-          "toColumn": 21,
+          "plain_text": "Example Menu Option",
+          "to_column": 21,
           "verbatim": "Example Menu Option"
         }
       ],
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "label": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "example-label",
-        "toColumn": 44,
+        "to_column": 44,
         "verbatim": "Example Label"
       },
       "line": 6,
@@ -169,9 +169,9 @@
     {
       "condition": {
         "flag": {
-          "fromColumn": 51,
+          "from_column": 51,
           "normalized": "example-flag",
-          "toColumn": 62,
+          "to_column": 62,
           "verbatim": "Example Flag"
         },
         "type": "flag_set"
@@ -180,18 +180,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Example Menu Option",
-          "toColumn": 21,
+          "plain_text": "Example Menu Option",
+          "to_column": 21,
           "verbatim": "Example Menu Option"
         }
       ],
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "label": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "example-label",
-        "toColumn": 44,
+        "to_column": 44,
         "verbatim": "Example Label"
       },
       "line": 7,
@@ -201,9 +201,9 @@
   "type": "valid",
   "warnings": [
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 9,
-      "toColumn": 55,
+      "to_column": 55,
       "type": "unreachable"
     }
   ]

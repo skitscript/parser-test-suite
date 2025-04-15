@@ -1,14 +1,14 @@
 {
   "errors": [
     {
-      "fromColumn": 11,
+      "from_column": 11,
       "line": 1,
-      "toColumn": 33,
+      "to_column": 33,
       "type": "unterminated_bold",
       "verbatim": "**line which ends bold."
     }
   ],
-  "identifierInstances": [],
+  "identifier_instances": [],
   "type": "invalid",
   "warnings": []
 }

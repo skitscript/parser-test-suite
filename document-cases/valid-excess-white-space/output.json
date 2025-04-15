@@ -1,1028 +1,1028 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 30,
+      "from_column": 30,
       "line": 1,
       "normalized": "podium",
-      "toColumn": 35,
+      "to_column": 35,
       "type": "location",
       "verbatim": "Podium"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "mr-explainer",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "character",
       "verbatim": "Mr. Explainer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 29,
+      "from_column": 29,
       "line": 3,
       "normalized": "from-the-left",
-      "toColumn": 41,
+      "to_column": 41,
       "type": "entry_animation",
       "verbatim": "from the left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 5,
       "normalized": "mr-explainer",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "character",
       "verbatim": "Mr. Explainer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 12,
       "normalized": "mrs-elucidator",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "character",
       "verbatim": "Mrs. Elucidator"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 31,
+      "from_column": 31,
       "line": 12,
       "normalized": "from-the-right",
-      "toColumn": 44,
+      "to_column": 44,
       "type": "entry_animation",
       "verbatim": "from the right"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 14,
       "normalized": "mrs-elucidator",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "character",
       "verbatim": "Mrs. Elucidator"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 25,
+      "from_column": 25,
       "line": 14,
       "normalized": "proud",
-      "toColumn": 29,
+      "to_column": 29,
       "type": "emote",
       "verbatim": "proud"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 17,
       "normalized": "mr-explainer",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "character",
       "verbatim": "Mr. Explainer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 18,
+      "from_column": 18,
       "line": 17,
       "normalized": "shocked",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "emote",
       "verbatim": "shocked"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 19,
       "normalized": "mr-explainer",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "character",
       "verbatim": "Mr. Explainer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 22,
       "normalized": "mr-company",
-      "toColumn": 11,
+      "to_column": 11,
       "type": "character",
       "verbatim": "Mr. Company"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 27,
+      "from_column": 27,
       "line": 22,
       "normalized": "from-the-left",
-      "toColumn": 39,
+      "to_column": 39,
       "type": "entry_animation",
       "verbatim": "from the left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 60,
+      "from_column": 60,
       "line": 22,
       "normalized": "surprised",
-      "toColumn": 68,
+      "to_column": 68,
       "type": "emote",
       "verbatim": "surprised"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 23,
       "normalized": "mrs-crowd",
-      "toColumn": 10,
+      "to_column": 10,
       "type": "character",
       "verbatim": "Mrs. Crowd"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 26,
+      "from_column": 26,
       "line": 23,
       "normalized": "from-the-right",
-      "toColumn": 39,
+      "to_column": 39,
       "type": "entry_animation",
       "verbatim": "from the right"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 25,
       "normalized": "mr-explainer",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "character",
       "verbatim": "Mr. Explainer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 25,
+      "from_column": 25,
       "line": 25,
       "normalized": "mrs-elucidator",
-      "toColumn": 39,
+      "to_column": 39,
       "type": "character",
       "verbatim": "Mrs. Elucidator"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 51,
+      "from_column": 51,
       "line": 25,
       "normalized": "mr-company",
-      "toColumn": 61,
+      "to_column": 61,
       "type": "character",
       "verbatim": "Mr. Company"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 78,
+      "from_column": 78,
       "line": 25,
       "normalized": "mrs-crowd",
-      "toColumn": 87,
+      "to_column": 87,
       "type": "character",
       "verbatim": "Mrs. Crowd"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 29,
       "normalized": "mr-explainer",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "character",
       "verbatim": "Mr. Explainer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 30,
+      "from_column": 30,
       "line": 29,
       "normalized": "mr-company",
-      "toColumn": 40,
+      "to_column": 40,
       "type": "character",
       "verbatim": "Mr. Company"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 57,
+      "from_column": 57,
       "line": 29,
       "normalized": "left",
-      "toColumn": 60,
+      "to_column": 60,
       "type": "exit_animation",
       "verbatim": "left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 79,
+      "from_column": 79,
       "line": 29,
       "normalized": "waving",
-      "toColumn": 84,
+      "to_column": 84,
       "type": "emote",
       "verbatim": "waving"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 30,
       "normalized": "mrs-elucidator",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "character",
       "verbatim": "Mrs. Elucidator"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 32,
+      "from_column": 32,
       "line": 30,
       "normalized": "mrs-crowd",
-      "toColumn": 41,
+      "to_column": 41,
       "type": "character",
       "verbatim": "Mrs. Crowd"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 60,
+      "from_column": 60,
       "line": 30,
       "normalized": "right",
-      "toColumn": 64,
+      "to_column": 64,
       "type": "exit_animation",
       "verbatim": "right"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 83,
+      "from_column": 83,
       "line": 30,
       "normalized": "waving",
-      "toColumn": 88,
+      "to_column": 88,
       "type": "emote",
       "verbatim": "waving"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 31,
+      "from_column": 31,
       "line": 32,
       "normalized": "interview-room",
-      "toColumn": 118,
+      "to_column": 118,
       "type": "location",
       "verbatim": "!?'\"{}@*/\\&#%`   +<=>|$.-Interview!?'\"{}@*/\\&#%`   +<=>|$.-Room!?'\"{}@*/\\&#%`   +<=>|$.-"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 34,
       "normalized": "the-questioner",
-      "toColumn": 14,
+      "to_column": 14,
       "type": "character",
       "verbatim": "The Questioner"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 30,
+      "from_column": 30,
       "line": 34,
       "normalized": "from-the-bottom",
-      "toColumn": 44,
+      "to_column": 44,
       "type": "entry_animation",
       "verbatim": "from the bottom"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 56,
+      "from_column": 56,
       "line": 34,
       "normalized": "eyebrow-raised",
-      "toColumn": 69,
+      "to_column": 69,
       "type": "emote",
       "verbatim": "eyebrow raised"
     },
     {
       "context": "declaration",
-      "fromColumn": 8,
+      "from_column": 8,
       "line": 36,
       "normalized": "menu",
-      "toColumn": 11,
+      "to_column": 11,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 38,
       "normalized": "the-questioner",
-      "toColumn": 14,
+      "to_column": 14,
       "type": "character",
       "verbatim": "The Questioner"
     },
     {
       "context": "reference",
-      "fromColumn": 44,
+      "from_column": 44,
       "line": 41,
       "normalized": "reset",
-      "toColumn": 48,
+      "to_column": 48,
       "type": "label",
       "verbatim": "Reset"
     },
     {
       "context": "reference",
-      "fromColumn": 49,
+      "from_column": 49,
       "line": 42,
       "normalized": "state-viewer",
-      "toColumn": 60,
+      "to_column": 60,
       "type": "label",
       "verbatim": "State Viewer"
     },
     {
       "context": "reference",
-      "fromColumn": 51,
+      "from_column": 51,
       "line": 43,
       "normalized": "flag-setter-a",
-      "toColumn": 63,
+      "to_column": 63,
       "type": "label",
       "verbatim": "Flag Setter A"
     },
     {
       "context": "reference",
-      "fromColumn": 53,
+      "from_column": 53,
       "line": 44,
       "normalized": "flag-setter-b",
-      "toColumn": 65,
+      "to_column": 65,
       "type": "label",
       "verbatim": "Flag Setter B"
     },
     {
       "context": "reference",
-      "fromColumn": 51,
+      "from_column": 51,
       "line": 45,
       "normalized": "flag-setter-c",
-      "toColumn": 63,
+      "to_column": 63,
       "type": "label",
       "verbatim": "Flag Setter C"
     },
     {
       "context": "reference",
-      "fromColumn": 83,
+      "from_column": 83,
       "line": 46,
       "normalized": "remark-no-flags",
-      "toColumn": 97,
+      "to_column": 97,
       "type": "label",
       "verbatim": "Remark No Flags"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 121,
+      "from_column": 121,
       "line": 46,
       "normalized": "flag-a",
-      "toColumn": 126,
+      "to_column": 126,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 137,
+      "from_column": 137,
       "line": 46,
       "normalized": "flag-b",
-      "toColumn": 142,
+      "to_column": 142,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 155,
+      "from_column": 155,
       "line": 46,
       "normalized": "flag-c",
-      "toColumn": 160,
+      "to_column": 160,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 81,
+      "from_column": 81,
       "line": 47,
       "normalized": "remark-at-least-one-flag",
-      "toColumn": 104,
+      "to_column": 104,
       "type": "label",
       "verbatim": "Remark At Least One Flag"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 119,
+      "from_column": 119,
       "line": 47,
       "normalized": "flag-a",
-      "toColumn": 124,
+      "to_column": 124,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 135,
+      "from_column": 135,
       "line": 47,
       "normalized": "flag-b",
-      "toColumn": 140,
+      "to_column": 140,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 153,
+      "from_column": 153,
       "line": 47,
       "normalized": "flag-c",
-      "toColumn": 158,
+      "to_column": 158,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 85,
+      "from_column": 85,
       "line": 48,
       "normalized": "remark-at-least-some-flags-missing",
-      "toColumn": 118,
+      "to_column": 118,
       "type": "label",
       "verbatim": "Remark At Least Some Flags Missing"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 142,
+      "from_column": 142,
       "line": 48,
       "normalized": "flag-a",
-      "toColumn": 147,
+      "to_column": 147,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 158,
+      "from_column": 158,
       "line": 48,
       "normalized": "flag-b",
-      "toColumn": 163,
+      "to_column": 163,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 180,
+      "from_column": 180,
       "line": 48,
       "normalized": "flag-c",
-      "toColumn": 185,
+      "to_column": 185,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 83,
+      "from_column": 83,
       "line": 49,
       "normalized": "remark-all-flags",
-      "toColumn": 98,
+      "to_column": 98,
       "type": "label",
       "verbatim": "Remark All Flags"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 113,
+      "from_column": 113,
       "line": 49,
       "normalized": "flag-a",
-      "toColumn": 118,
+      "to_column": 118,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 129,
+      "from_column": 129,
       "line": 49,
       "normalized": "flag-b",
-      "toColumn": 134,
+      "to_column": 134,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 151,
+      "from_column": 151,
       "line": 49,
       "normalized": "flag-c",
-      "toColumn": 156,
+      "to_column": 156,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 51,
       "normalized": "reset",
-      "toColumn": 11,
+      "to_column": 11,
       "type": "label",
       "verbatim": "Reset"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 53,
       "normalized": "flag-a",
-      "toColumn": 22,
+      "to_column": 22,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 33,
+      "from_column": 33,
       "line": 53,
       "normalized": "flag-b",
-      "toColumn": 38,
+      "to_column": 38,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 55,
+      "from_column": 55,
       "line": 53,
       "normalized": "flag-c",
-      "toColumn": 60,
+      "to_column": 60,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 20,
+      "from_column": 20,
       "line": 57,
       "normalized": "menu",
-      "toColumn": 23,
+      "to_column": 23,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 8,
+      "from_column": 8,
       "line": 59,
       "normalized": "state-viewer",
-      "toColumn": 19,
+      "to_column": 19,
       "type": "label",
       "verbatim": "State Viewer"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 61,
       "normalized": "state-viewer-none",
-      "toColumn": 39,
+      "to_column": 39,
       "type": "label",
       "verbatim": "State Viewer - None"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 63,
+      "from_column": 63,
       "line": 61,
       "normalized": "flag-a",
-      "toColumn": 68,
+      "to_column": 68,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 79,
+      "from_column": 79,
       "line": 61,
       "normalized": "flag-b",
-      "toColumn": 84,
+      "to_column": 84,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 97,
+      "from_column": 97,
       "line": 61,
       "normalized": "flag-c",
-      "toColumn": 102,
+      "to_column": 102,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 62,
       "normalized": "state-viewer-all",
-      "toColumn": 38,
+      "to_column": 38,
       "type": "label",
       "verbatim": "State Viewer - All"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 53,
+      "from_column": 53,
       "line": 62,
       "normalized": "flag-a",
-      "toColumn": 58,
+      "to_column": 58,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 69,
+      "from_column": 69,
       "line": 62,
       "normalized": "flag-b",
-      "toColumn": 74,
+      "to_column": 74,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 91,
+      "from_column": 91,
       "line": 62,
       "normalized": "flag-c",
-      "toColumn": 96,
+      "to_column": 96,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 64,
       "normalized": "state-viewer-only-a",
-      "toColumn": 41,
+      "to_column": 41,
       "type": "label",
       "verbatim": "State Viewer - Only A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 65,
+      "from_column": 65,
       "line": 64,
       "normalized": "flag-b",
-      "toColumn": 70,
+      "to_column": 70,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 83,
+      "from_column": 83,
       "line": 64,
       "normalized": "flag-c",
-      "toColumn": 88,
+      "to_column": 88,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 65,
       "normalized": "state-viewer-only-b",
-      "toColumn": 41,
+      "to_column": 41,
       "type": "label",
       "verbatim": "State Viewer - Only B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 65,
+      "from_column": 65,
       "line": 65,
       "normalized": "flag-a",
-      "toColumn": 70,
+      "to_column": 70,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 83,
+      "from_column": 83,
       "line": 65,
       "normalized": "flag-c",
-      "toColumn": 88,
+      "to_column": 88,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 66,
       "normalized": "state-viewer-only-c",
-      "toColumn": 41,
+      "to_column": 41,
       "type": "label",
       "verbatim": "State Viewer - Only C"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 65,
+      "from_column": 65,
       "line": 66,
       "normalized": "flag-a",
-      "toColumn": 70,
+      "to_column": 70,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 83,
+      "from_column": 83,
       "line": 66,
       "normalized": "flag-b",
-      "toColumn": 88,
+      "to_column": 88,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 68,
       "normalized": "state-viewer-a-b",
-      "toColumn": 40,
+      "to_column": 40,
       "type": "label",
       "verbatim": "State Viewer - A + B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 64,
+      "from_column": 64,
       "line": 68,
       "normalized": "flag-c",
-      "toColumn": 69,
+      "to_column": 69,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 69,
       "normalized": "state-viewer-a-c",
-      "toColumn": 40,
+      "to_column": 40,
       "type": "label",
       "verbatim": "State Viewer - A + C"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 64,
+      "from_column": 64,
       "line": 69,
       "normalized": "flag-b",
-      "toColumn": 69,
+      "to_column": 69,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 73,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 12,
+      "from_column": 12,
       "line": 75,
       "normalized": "state-viewer-none",
-      "toColumn": 30,
+      "to_column": 30,
       "type": "label",
       "verbatim": "State Viewer - None"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 79,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 15,
+      "from_column": 15,
       "line": 81,
       "normalized": "state-viewer-all",
-      "toColumn": 32,
+      "to_column": 32,
       "type": "label",
       "verbatim": "State Viewer - All"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 85,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 15,
+      "from_column": 15,
       "line": 87,
       "normalized": "state-viewer-only-a",
-      "toColumn": 35,
+      "to_column": 35,
       "type": "label",
       "verbatim": "State Viewer - Only A"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 91,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 12,
+      "from_column": 12,
       "line": 93,
       "normalized": "state-viewer-only-b",
-      "toColumn": 32,
+      "to_column": 32,
       "type": "label",
       "verbatim": "State Viewer - Only B"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 97,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 8,
+      "from_column": 8,
       "line": 99,
       "normalized": "state-viewer-only-c",
-      "toColumn": 28,
+      "to_column": 28,
       "type": "label",
       "verbatim": "State Viewer - Only C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 103,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 105,
       "normalized": "state-viewer-a-b",
-      "toColumn": 26,
+      "to_column": 26,
       "type": "label",
       "verbatim": "State Viewer - A + B"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 109,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 111,
       "normalized": "state-viewer-a-c",
-      "toColumn": 26,
+      "to_column": 26,
       "type": "label",
       "verbatim": "State Viewer - A + C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 115,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 9,
+      "from_column": 9,
       "line": 117,
       "normalized": "flag-setter-a",
-      "toColumn": 21,
+      "to_column": 21,
       "type": "label",
       "verbatim": "Flag Setter A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 13,
+      "from_column": 13,
       "line": 119,
       "normalized": "flag-a",
-      "toColumn": 18,
+      "to_column": 18,
       "type": "flag",
       "verbatim": "flag A"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 123,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 125,
       "normalized": "flag-setter-b",
-      "toColumn": 19,
+      "to_column": 19,
       "type": "label",
       "verbatim": "Flag Setter B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 13,
+      "from_column": 13,
       "line": 127,
       "normalized": "flag-b",
-      "toColumn": 18,
+      "to_column": 18,
       "type": "flag",
       "verbatim": "flag B"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 131,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 8,
+      "from_column": 8,
       "line": 133,
       "normalized": "flag-setter-c",
-      "toColumn": 20,
+      "to_column": 20,
       "type": "label",
       "verbatim": "Flag Setter C"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 13,
+      "from_column": 13,
       "line": 135,
       "normalized": "flag-c",
-      "toColumn": 18,
+      "to_column": 18,
       "type": "flag",
       "verbatim": "flag C"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 139,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 8,
+      "from_column": 8,
       "line": 141,
       "normalized": "remark-no-flags",
-      "toColumn": 22,
+      "to_column": 22,
       "type": "label",
       "verbatim": "Remark No Flags"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 145,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 147,
       "normalized": "remark-at-least-one-flag",
-      "toColumn": 30,
+      "to_column": 30,
       "type": "label",
       "verbatim": "Remark At Least One Flag"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 151,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 153,
       "normalized": "remark-at-least-some-flags-missing",
-      "toColumn": 40,
+      "to_column": 40,
       "type": "label",
       "verbatim": "Remark At Least Some Flags Missing"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 157,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     },
     {
       "context": "declaration",
-      "fromColumn": 7,
+      "from_column": 7,
       "line": 159,
       "normalized": "remark-all-flags",
-      "toColumn": 22,
+      "to_column": 22,
       "type": "label",
       "verbatim": "Remark All Flags"
     },
     {
       "context": "reference",
-      "fromColumn": 21,
+      "from_column": 21,
       "line": 163,
       "normalized": "menu",
-      "toColumn": 24,
+      "to_column": 24,
       "type": "label",
       "verbatim": "Menu"
     }
@@ -1031,24 +1031,24 @@
     {
       "line": 1,
       "location": {
-        "fromColumn": 30,
+        "from_column": 30,
         "normalized": "podium",
-        "toColumn": 35,
+        "to_column": 35,
         "verbatim": "Podium"
       },
       "type": "location"
     },
     {
       "animation": {
-        "fromColumn": 29,
+        "from_column": 29,
         "normalized": "from-the-left",
-        "toColumn": 41,
+        "to_column": 41,
         "verbatim": "from the left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mr-explainer",
-        "toColumn": 13,
+        "to_column": 13,
         "verbatim": "Mr. Explainer"
       },
       "line": 3,
@@ -1057,9 +1057,9 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "mr-explainer",
-          "toColumn": 13,
+          "to_column": 13,
           "verbatim": "Mr. Explainer"
         }
       ],
@@ -1071,10 +1071,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "By default, characters display the \"neutral\" emote.",
-          "toColumn": 53,
+          "plain_text": "By default, characters display the \"neutral\" emote.",
+          "to_column": 53,
           "verbatim": "By default, characters display the \"neutral\" emote."
         }
       ],
@@ -1086,10 +1086,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Any number of lines of dialog can be given following the name of a character (the speaker).",
-          "toColumn": 93,
+          "plain_text": "Any number of lines of dialog can be given following the name of a character (the speaker).",
+          "to_column": 93,
           "verbatim": "Any number of lines of dialog can be given following the name of a character (the speaker)."
         }
       ],
@@ -1101,55 +1101,55 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Syntax ",
-          "toColumn": 10,
+          "plain_text": "Syntax ",
+          "to_column": 10,
           "verbatim": "Syntax *"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 11,
+          "from_column": 11,
           "italic": true,
-          "plainText": "similar ",
-          "toColumn": 20,
+          "plain_text": "similar ",
+          "to_column": 20,
           "verbatim": "similar **"
         },
         {
           "bold": true,
           "code": false,
-          "fromColumn": 21,
+          "from_column": 21,
           "italic": true,
-          "plainText": "to",
-          "toColumn": 24,
+          "plain_text": "to",
+          "to_column": 24,
           "verbatim": "to**"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 25,
+          "from_column": 25,
           "italic": true,
-          "plainText": " markdown",
-          "toColumn": 34,
+          "plain_text": " markdown",
+          "to_column": 34,
           "verbatim": " markdown*"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 35,
+          "from_column": 35,
           "italic": false,
-          "plainText": " can be ",
-          "toColumn": 43,
+          "plain_text": " can be ",
+          "to_column": 43,
           "verbatim": " can be *"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 44,
+          "from_column": 44,
           "italic": true,
-          "plainText": "\\used.",
-          "toColumn": 51,
+          "plain_text": "\\used.",
+          "to_column": 51,
           "verbatim": "\\\\used.*"
         }
       ],
@@ -1161,55 +1161,55 @@
         {
           "bold": true,
           "code": true,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": true,
-          "plainText": "This",
-          "toColumn": 14,
+          "plain_text": "This",
+          "to_column": 14,
           "verbatim": "***`This`***"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 15,
+          "from_column": 15,
           "italic": false,
-          "plainText": " includes ",
-          "toColumn": 25,
+          "plain_text": " includes ",
+          "to_column": 25,
           "verbatim": " includes `"
         },
         {
           "bold": false,
           "code": true,
-          "fromColumn": 26,
+          "from_column": 26,
           "italic": false,
-          "plainText": "inline `code\\ segments",
-          "toColumn": 50,
+          "plain_text": "inline `code\\ segments",
+          "to_column": 50,
           "verbatim": "inline \\`code\\\\ segments`"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 51,
+          "from_column": 51,
           "italic": false,
-          "plainText": " which can be inside ",
-          "toColumn": 75,
+          "plain_text": " which can be inside ",
+          "to_column": 75,
           "verbatim": " which can be inside ***`"
         },
         {
           "bold": true,
           "code": true,
-          "fromColumn": 76,
+          "from_column": 76,
           "italic": true,
-          "plainText": "other-*sections* **formatted in other ways**",
-          "toColumn": 123,
+          "plain_text": "other-*sections* **formatted in other ways**",
+          "to_column": 123,
           "verbatim": "other-*sections* **formatted in other ways**`***"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 124,
+          "from_column": 124,
           "italic": false,
-          "plainText": ".",
-          "toColumn": 124,
+          "plain_text": ".",
+          "to_column": 124,
           "verbatim": "."
         }
       ],
@@ -1221,10 +1221,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "All *such* `syntax` **can** be \\es\\\\caped.",
-          "toColumn": 55,
+          "plain_text": "All *such* `syntax` **can** be \\es\\\\caped.",
+          "to_column": 55,
           "verbatim": "All \\*such\\* \\`syntax\\` \\*\\*can\\*\\* be \\\\es\\\\\\\\caped."
         }
       ],
@@ -1233,15 +1233,15 @@
     },
     {
       "animation": {
-        "fromColumn": 31,
+        "from_column": 31,
         "normalized": "from-the-right",
-        "toColumn": 44,
+        "to_column": 44,
         "verbatim": "from the right"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mrs-elucidator",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Mrs. Elucidator"
       },
       "line": 12,
@@ -1250,9 +1250,9 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "mrs-elucidator",
-          "toColumn": 15,
+          "to_column": 15,
           "verbatim": "Mrs. Elucidator"
         }
       ],
@@ -1261,15 +1261,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mrs-elucidator",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Mrs. Elucidator"
       },
       "emote": {
-        "fromColumn": 25,
+        "from_column": 25,
         "normalized": "proud",
-        "toColumn": 29,
+        "to_column": 29,
         "verbatim": "proud"
       },
       "line": 14,
@@ -1280,10 +1280,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "The name of an emote can be specified alongside the name of the speaking character.",
-          "toColumn": 85,
+          "plain_text": "The name of an emote can be specified alongside the name of the speaking character.",
+          "to_column": 85,
           "verbatim": "The name of an emote can be specified alongside the name of the speaking character."
         }
       ],
@@ -1292,15 +1292,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mr-explainer",
-        "toColumn": 13,
+        "to_column": 13,
         "verbatim": "Mr. Explainer"
       },
       "emote": {
-        "fromColumn": 18,
+        "from_column": 18,
         "normalized": "shocked",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "shocked"
       },
       "line": 17,
@@ -1309,9 +1309,9 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "mr-explainer",
-          "toColumn": 13,
+          "to_column": 13,
           "verbatim": "Mr. Explainer"
         }
       ],
@@ -1323,10 +1323,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "You can?  I've always used a stage direction!",
-          "toColumn": 47,
+          "plain_text": "You can?  I've always used a stage direction!",
+          "to_column": 47,
           "verbatim": "You can?  I've always used a stage direction!"
         }
       ],
@@ -1335,15 +1335,15 @@
     },
     {
       "animation": {
-        "fromColumn": 27,
+        "from_column": 27,
         "normalized": "from-the-left",
-        "toColumn": 39,
+        "to_column": 39,
         "verbatim": "from the left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mr-company",
-        "toColumn": 11,
+        "to_column": 11,
         "verbatim": "Mr. Company"
       },
       "line": 22,
@@ -1351,15 +1351,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mr-company",
-        "toColumn": 11,
+        "to_column": 11,
         "verbatim": "Mr. Company"
       },
       "emote": {
-        "fromColumn": 60,
+        "from_column": 60,
         "normalized": "surprised",
-        "toColumn": 68,
+        "to_column": 68,
         "verbatim": "surprised"
       },
       "line": 22,
@@ -1367,15 +1367,15 @@
     },
     {
       "animation": {
-        "fromColumn": 26,
+        "from_column": 26,
         "normalized": "from-the-right",
-        "toColumn": 39,
+        "to_column": 39,
         "verbatim": "from the right"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mrs-crowd",
-        "toColumn": 10,
+        "to_column": 10,
         "verbatim": "Mrs. Crowd"
       },
       "line": 23,
@@ -1384,27 +1384,27 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "mr-explainer",
-          "toColumn": 13,
+          "to_column": 13,
           "verbatim": "Mr. Explainer"
         },
         {
-          "fromColumn": 25,
+          "from_column": 25,
           "normalized": "mrs-elucidator",
-          "toColumn": 39,
+          "to_column": 39,
           "verbatim": "Mrs. Elucidator"
         },
         {
-          "fromColumn": 51,
+          "from_column": 51,
           "normalized": "mr-company",
-          "toColumn": 61,
+          "to_column": 61,
           "verbatim": "Mr. Company"
         },
         {
-          "fromColumn": 78,
+          "from_column": 78,
           "normalized": "mrs-crowd",
-          "toColumn": 87,
+          "to_column": 87,
           "verbatim": "Mrs. Crowd"
         }
       ],
@@ -1416,10 +1416,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Multiple people can speak simultaneously.",
-          "toColumn": 43,
+          "plain_text": "Multiple people can speak simultaneously.",
+          "to_column": 43,
           "verbatim": "Multiple people can speak simultaneously."
         }
       ],
@@ -1431,10 +1431,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Now to hand over to our assistant for a menu demo...",
-          "toColumn": 54,
+          "plain_text": "Now to hand over to our assistant for a menu demo...",
+          "to_column": 54,
           "verbatim": "Now to hand over to our assistant for a menu demo..."
         }
       ],
@@ -1443,15 +1443,15 @@
     },
     {
       "animation": {
-        "fromColumn": 57,
+        "from_column": 57,
         "normalized": "left",
-        "toColumn": 60,
+        "to_column": 60,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mr-explainer",
-        "toColumn": 13,
+        "to_column": 13,
         "verbatim": "Mr. Explainer"
       },
       "line": 29,
@@ -1459,15 +1459,15 @@
     },
     {
       "animation": {
-        "fromColumn": 57,
+        "from_column": 57,
         "normalized": "left",
-        "toColumn": 60,
+        "to_column": 60,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 30,
+        "from_column": 30,
         "normalized": "mr-company",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "Mr. Company"
       },
       "line": 29,
@@ -1475,15 +1475,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mr-explainer",
-        "toColumn": 13,
+        "to_column": 13,
         "verbatim": "Mr. Explainer"
       },
       "emote": {
-        "fromColumn": 79,
+        "from_column": 79,
         "normalized": "waving",
-        "toColumn": 84,
+        "to_column": 84,
         "verbatim": "waving"
       },
       "line": 29,
@@ -1491,15 +1491,15 @@
     },
     {
       "character": {
-        "fromColumn": 30,
+        "from_column": 30,
         "normalized": "mr-company",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "Mr. Company"
       },
       "emote": {
-        "fromColumn": 79,
+        "from_column": 79,
         "normalized": "waving",
-        "toColumn": 84,
+        "to_column": 84,
         "verbatim": "waving"
       },
       "line": 29,
@@ -1507,15 +1507,15 @@
     },
     {
       "animation": {
-        "fromColumn": 60,
+        "from_column": 60,
         "normalized": "right",
-        "toColumn": 64,
+        "to_column": 64,
         "verbatim": "right"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mrs-elucidator",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Mrs. Elucidator"
       },
       "line": 30,
@@ -1523,15 +1523,15 @@
     },
     {
       "animation": {
-        "fromColumn": 60,
+        "from_column": 60,
         "normalized": "right",
-        "toColumn": 64,
+        "to_column": 64,
         "verbatim": "right"
       },
       "character": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "mrs-crowd",
-        "toColumn": 41,
+        "to_column": 41,
         "verbatim": "Mrs. Crowd"
       },
       "line": 30,
@@ -1539,15 +1539,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "mrs-elucidator",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Mrs. Elucidator"
       },
       "emote": {
-        "fromColumn": 83,
+        "from_column": 83,
         "normalized": "waving",
-        "toColumn": 88,
+        "to_column": 88,
         "verbatim": "waving"
       },
       "line": 30,
@@ -1555,15 +1555,15 @@
     },
     {
       "character": {
-        "fromColumn": 32,
+        "from_column": 32,
         "normalized": "mrs-crowd",
-        "toColumn": 41,
+        "to_column": 41,
         "verbatim": "Mrs. Crowd"
       },
       "emote": {
-        "fromColumn": 83,
+        "from_column": 83,
         "normalized": "waving",
-        "toColumn": 88,
+        "to_column": 88,
         "verbatim": "waving"
       },
       "line": 30,
@@ -1572,24 +1572,24 @@
     {
       "line": 32,
       "location": {
-        "fromColumn": 31,
+        "from_column": 31,
         "normalized": "interview-room",
-        "toColumn": 118,
+        "to_column": 118,
         "verbatim": "!?'\"{}@*/\\&#%`   +<=>|$.-Interview!?'\"{}@*/\\&#%`   +<=>|$.-Room!?'\"{}@*/\\&#%`   +<=>|$.-"
       },
       "type": "location"
     },
     {
       "animation": {
-        "fromColumn": 30,
+        "from_column": 30,
         "normalized": "from-the-bottom",
-        "toColumn": 44,
+        "to_column": 44,
         "verbatim": "from the bottom"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "the-questioner",
-        "toColumn": 14,
+        "to_column": 14,
         "verbatim": "The Questioner"
       },
       "line": 34,
@@ -1597,15 +1597,15 @@
     },
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "the-questioner",
-        "toColumn": 14,
+        "to_column": 14,
         "verbatim": "The Questioner"
       },
       "emote": {
-        "fromColumn": 56,
+        "from_column": 56,
         "normalized": "eyebrow-raised",
-        "toColumn": 69,
+        "to_column": 69,
         "verbatim": "eyebrow raised"
       },
       "line": 34,
@@ -1613,9 +1613,9 @@
     },
     {
       "label": {
-        "fromColumn": 8,
+        "from_column": 8,
         "normalized": "menu",
-        "toColumn": 11,
+        "to_column": 11,
         "verbatim": "Menu"
       },
       "line": 36,
@@ -1624,9 +1624,9 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "the-questioner",
-          "toColumn": 14,
+          "to_column": 14,
           "verbatim": "The Questioner"
         }
       ],
@@ -1638,10 +1638,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "A list of options can be given, which can also be conditional:",
-          "toColumn": 64,
+          "plain_text": "A list of options can be given, which can also be conditional:",
+          "to_column": 64,
           "verbatim": "A list of options can be given, which can also be conditional:"
         }
       ],
@@ -1654,18 +1654,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Reset",
-          "toColumn": 18,
+          "plain_text": "Reset",
+          "to_column": 18,
           "verbatim": "Reset"
         }
       ],
-      "instructionIndex": 44,
+      "instruction_index": 44,
       "label": {
-        "fromColumn": 44,
+        "from_column": 44,
         "normalized": "reset",
-        "toColumn": 48,
+        "to_column": 48,
         "verbatim": "Reset"
       },
       "line": 41,
@@ -1677,18 +1677,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "View state",
-          "toColumn": 23,
+          "plain_text": "View state",
+          "to_column": 23,
           "verbatim": "View state"
         }
       ],
-      "instructionIndex": 50,
+      "instruction_index": 50,
       "label": {
-        "fromColumn": 49,
+        "from_column": 49,
         "normalized": "state-viewer",
-        "toColumn": 60,
+        "to_column": 60,
         "verbatim": "State Viewer"
       },
       "line": 42,
@@ -1700,27 +1700,27 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Set ",
-          "toColumn": 18,
+          "plain_text": "Set ",
+          "to_column": 18,
           "verbatim": "Set *"
         },
         {
           "bold": false,
           "code": false,
-          "fromColumn": 19,
+          "from_column": 19,
           "italic": true,
-          "plainText": "flag A",
-          "toColumn": 25,
+          "plain_text": "flag A",
+          "to_column": 25,
           "verbatim": "flag A*"
         }
       ],
-      "instructionIndex": 81,
+      "instruction_index": 81,
       "label": {
-        "fromColumn": 51,
+        "from_column": 51,
         "normalized": "flag-setter-a",
-        "toColumn": 63,
+        "to_column": 63,
         "verbatim": "Flag Setter A"
       },
       "line": 43,
@@ -1732,27 +1732,27 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Set ",
-          "toColumn": 19,
+          "plain_text": "Set ",
+          "to_column": 19,
           "verbatim": "Set **"
         },
         {
           "bold": true,
           "code": false,
-          "fromColumn": 20,
+          "from_column": 20,
           "italic": false,
-          "plainText": "flag B",
-          "toColumn": 27,
+          "plain_text": "flag B",
+          "to_column": 27,
           "verbatim": "flag B**"
         }
       ],
-      "instructionIndex": 85,
+      "instruction_index": 85,
       "label": {
-        "fromColumn": 53,
+        "from_column": 53,
         "normalized": "flag-setter-b",
-        "toColumn": 65,
+        "to_column": 65,
         "verbatim": "Flag Setter B"
       },
       "line": 44,
@@ -1764,27 +1764,27 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Set ",
-          "toColumn": 18,
+          "plain_text": "Set ",
+          "to_column": 18,
           "verbatim": "Set `"
         },
         {
           "bold": false,
           "code": true,
-          "fromColumn": 19,
+          "from_column": 19,
           "italic": false,
-          "plainText": "flag C",
-          "toColumn": 25,
+          "plain_text": "flag C",
+          "to_column": 25,
           "verbatim": "flag C`"
         }
       ],
-      "instructionIndex": 89,
+      "instruction_index": 89,
       "label": {
-        "fromColumn": 51,
+        "from_column": 51,
         "normalized": "flag-setter-c",
-        "toColumn": 63,
+        "to_column": 63,
         "verbatim": "Flag Setter C"
       },
       "line": 45,
@@ -1794,21 +1794,21 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 121,
+            "from_column": 121,
             "normalized": "flag-a",
-            "toColumn": 126,
+            "to_column": 126,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 137,
+            "from_column": 137,
             "normalized": "flag-b",
-            "toColumn": 142,
+            "to_column": 142,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 155,
+            "from_column": 155,
             "normalized": "flag-c",
-            "toColumn": 160,
+            "to_column": 160,
             "verbatim": "flag C"
           }
         ],
@@ -1818,18 +1818,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Option which is removed when any flag is set",
-          "toColumn": 57,
+          "plain_text": "Option which is removed when any flag is set",
+          "to_column": 57,
           "verbatim": "Option which is removed when any flag is set"
         }
       ],
-      "instructionIndex": 93,
+      "instruction_index": 93,
       "label": {
-        "fromColumn": 83,
+        "from_column": 83,
         "normalized": "remark-no-flags",
-        "toColumn": 97,
+        "to_column": 97,
         "verbatim": "Remark No Flags"
       },
       "line": 46,
@@ -1839,21 +1839,21 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 119,
+            "from_column": 119,
             "normalized": "flag-a",
-            "toColumn": 124,
+            "to_column": 124,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 135,
+            "from_column": 135,
             "normalized": "flag-b",
-            "toColumn": 140,
+            "to_column": 140,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 153,
+            "from_column": 153,
             "normalized": "flag-c",
-            "toColumn": 158,
+            "to_column": 158,
             "verbatim": "flag C"
           }
         ],
@@ -1863,18 +1863,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Option which is added when any flag is set",
-          "toColumn": 55,
+          "plain_text": "Option which is added when any flag is set",
+          "to_column": 55,
           "verbatim": "Option which is added when any flag is set"
         }
       ],
-      "instructionIndex": 96,
+      "instruction_index": 96,
       "label": {
-        "fromColumn": 81,
+        "from_column": 81,
         "normalized": "remark-at-least-one-flag",
-        "toColumn": 104,
+        "to_column": 104,
         "verbatim": "Remark At Least One Flag"
       },
       "line": 47,
@@ -1884,21 +1884,21 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 142,
+            "from_column": 142,
             "normalized": "flag-a",
-            "toColumn": 147,
+            "to_column": 147,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 158,
+            "from_column": 158,
             "normalized": "flag-b",
-            "toColumn": 163,
+            "to_column": 163,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 180,
+            "from_column": 180,
             "normalized": "flag-c",
-            "toColumn": 185,
+            "to_column": 185,
             "verbatim": "flag C"
           }
         ],
@@ -1908,18 +1908,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Option which is removed when every flag is set",
-          "toColumn": 59,
+          "plain_text": "Option which is removed when every flag is set",
+          "to_column": 59,
           "verbatim": "Option which is removed when every flag is set"
         }
       ],
-      "instructionIndex": 99,
+      "instruction_index": 99,
       "label": {
-        "fromColumn": 85,
+        "from_column": 85,
         "normalized": "remark-at-least-some-flags-missing",
-        "toColumn": 118,
+        "to_column": 118,
         "verbatim": "Remark At Least Some Flags Missing"
       },
       "line": 48,
@@ -1929,21 +1929,21 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 113,
+            "from_column": 113,
             "normalized": "flag-a",
-            "toColumn": 118,
+            "to_column": 118,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 129,
+            "from_column": 129,
             "normalized": "flag-b",
-            "toColumn": 134,
+            "to_column": 134,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 151,
+            "from_column": 151,
             "normalized": "flag-c",
-            "toColumn": 156,
+            "to_column": 156,
             "verbatim": "flag C"
           }
         ],
@@ -1953,18 +1953,18 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 14,
+          "from_column": 14,
           "italic": false,
-          "plainText": "Option which is added when every flag is set",
-          "toColumn": 57,
+          "plain_text": "Option which is added when every flag is set",
+          "to_column": 57,
           "verbatim": "Option which is added when every flag is set"
         }
       ],
-      "instructionIndex": 102,
+      "instruction_index": 102,
       "label": {
-        "fromColumn": 83,
+        "from_column": 83,
         "normalized": "remark-all-flags",
-        "toColumn": 98,
+        "to_column": 98,
         "verbatim": "Remark All Flags"
       },
       "line": 49,
@@ -1972,9 +1972,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "reset",
-        "toColumn": 11,
+        "to_column": 11,
         "verbatim": "Reset"
       },
       "line": 51,
@@ -1982,9 +1982,9 @@
     },
     {
       "flag": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "flag-a",
-        "toColumn": 22,
+        "to_column": 22,
         "verbatim": "flag A"
       },
       "line": 53,
@@ -1992,9 +1992,9 @@
     },
     {
       "flag": {
-        "fromColumn": 33,
+        "from_column": 33,
         "normalized": "flag-b",
-        "toColumn": 38,
+        "to_column": 38,
         "verbatim": "flag B"
       },
       "line": 53,
@@ -2002,9 +2002,9 @@
     },
     {
       "flag": {
-        "fromColumn": 55,
+        "from_column": 55,
         "normalized": "flag-c",
-        "toColumn": 60,
+        "to_column": 60,
         "verbatim": "flag C"
       },
       "line": 53,
@@ -2015,10 +2015,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "All flags have been cleared.",
-          "toColumn": 30,
+          "plain_text": "All flags have been cleared.",
+          "to_column": 30,
           "verbatim": "All flags have been cleared."
         }
       ],
@@ -2027,11 +2027,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 20,
+        "from_column": 20,
         "normalized": "menu",
-        "toColumn": 23,
+        "to_column": 23,
         "verbatim": "Menu"
       },
       "line": 57,
@@ -2039,9 +2039,9 @@
     },
     {
       "label": {
-        "fromColumn": 8,
+        "from_column": 8,
         "normalized": "state-viewer",
-        "toColumn": 19,
+        "to_column": 19,
         "verbatim": "State Viewer"
       },
       "line": 59,
@@ -2051,31 +2051,31 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 63,
+            "from_column": 63,
             "normalized": "flag-a",
-            "toColumn": 68,
+            "to_column": 68,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 79,
+            "from_column": 79,
             "normalized": "flag-b",
-            "toColumn": 84,
+            "to_column": 84,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 97,
+            "from_column": 97,
             "normalized": "flag-c",
-            "toColumn": 102,
+            "to_column": 102,
             "verbatim": "flag C"
           }
         ],
         "type": "every_flag_clear"
       },
-      "instructionIndex": 60,
+      "instruction_index": 60,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-none",
-        "toColumn": 39,
+        "to_column": 39,
         "verbatim": "State Viewer - None"
       },
       "line": 61,
@@ -2085,31 +2085,31 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 53,
+            "from_column": 53,
             "normalized": "flag-a",
-            "toColumn": 58,
+            "to_column": 58,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 69,
+            "from_column": 69,
             "normalized": "flag-b",
-            "toColumn": 74,
+            "to_column": 74,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 91,
+            "from_column": 91,
             "normalized": "flag-c",
-            "toColumn": 96,
+            "to_column": 96,
             "verbatim": "flag C"
           }
         ],
         "type": "every_flag_set"
       },
-      "instructionIndex": 63,
+      "instruction_index": 63,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-all",
-        "toColumn": 38,
+        "to_column": 38,
         "verbatim": "State Viewer - All"
       },
       "line": 62,
@@ -2119,25 +2119,25 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 65,
+            "from_column": 65,
             "normalized": "flag-b",
-            "toColumn": 70,
+            "to_column": 70,
             "verbatim": "flag B"
           },
           {
-            "fromColumn": 83,
+            "from_column": 83,
             "normalized": "flag-c",
-            "toColumn": 88,
+            "to_column": 88,
             "verbatim": "flag C"
           }
         ],
         "type": "every_flag_clear"
       },
-      "instructionIndex": 66,
+      "instruction_index": 66,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-only-a",
-        "toColumn": 41,
+        "to_column": 41,
         "verbatim": "State Viewer - Only A"
       },
       "line": 64,
@@ -2147,25 +2147,25 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 65,
+            "from_column": 65,
             "normalized": "flag-a",
-            "toColumn": 70,
+            "to_column": 70,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 83,
+            "from_column": 83,
             "normalized": "flag-c",
-            "toColumn": 88,
+            "to_column": 88,
             "verbatim": "flag C"
           }
         ],
         "type": "every_flag_clear"
       },
-      "instructionIndex": 69,
+      "instruction_index": 69,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-only-b",
-        "toColumn": 41,
+        "to_column": 41,
         "verbatim": "State Viewer - Only B"
       },
       "line": 65,
@@ -2175,25 +2175,25 @@
       "condition": {
         "flags": [
           {
-            "fromColumn": 65,
+            "from_column": 65,
             "normalized": "flag-a",
-            "toColumn": 70,
+            "to_column": 70,
             "verbatim": "flag A"
           },
           {
-            "fromColumn": 83,
+            "from_column": 83,
             "normalized": "flag-b",
-            "toColumn": 88,
+            "to_column": 88,
             "verbatim": "flag B"
           }
         ],
         "type": "every_flag_clear"
       },
-      "instructionIndex": 72,
+      "instruction_index": 72,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-only-c",
-        "toColumn": 41,
+        "to_column": 41,
         "verbatim": "State Viewer - Only C"
       },
       "line": 66,
@@ -2202,18 +2202,18 @@
     {
       "condition": {
         "flag": {
-          "fromColumn": 64,
+          "from_column": 64,
           "normalized": "flag-c",
-          "toColumn": 69,
+          "to_column": 69,
           "verbatim": "flag C"
         },
         "type": "flag_clear"
       },
-      "instructionIndex": 75,
+      "instruction_index": 75,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-a-b",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "State Viewer - A + B"
       },
       "line": 68,
@@ -2222,18 +2222,18 @@
     {
       "condition": {
         "flag": {
-          "fromColumn": 64,
+          "from_column": 64,
           "normalized": "flag-b",
-          "toColumn": 69,
+          "to_column": 69,
           "verbatim": "flag B"
         },
         "type": "flag_clear"
       },
-      "instructionIndex": 78,
+      "instruction_index": 78,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "state-viewer-a-c",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "State Viewer - A + C"
       },
       "line": 69,
@@ -2244,10 +2244,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flags B and C have been set.",
-          "toColumn": 30,
+          "plain_text": "Flags B and C have been set.",
+          "to_column": 30,
           "verbatim": "Flags B and C have been set."
         }
       ],
@@ -2256,11 +2256,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 73,
@@ -2268,9 +2268,9 @@
     },
     {
       "label": {
-        "fromColumn": 12,
+        "from_column": 12,
         "normalized": "state-viewer-none",
-        "toColumn": 30,
+        "to_column": 30,
         "verbatim": "State Viewer - None"
       },
       "line": 75,
@@ -2281,10 +2281,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "All of the flags (A, B and C) are clear.",
-          "toColumn": 42,
+          "plain_text": "All of the flags (A, B and C) are clear.",
+          "to_column": 42,
           "verbatim": "All of the flags (A, B and C) are clear."
         }
       ],
@@ -2293,11 +2293,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 79,
@@ -2305,9 +2305,9 @@
     },
     {
       "label": {
-        "fromColumn": 15,
+        "from_column": 15,
         "normalized": "state-viewer-all",
-        "toColumn": 32,
+        "to_column": 32,
         "verbatim": "State Viewer - All"
       },
       "line": 81,
@@ -2318,10 +2318,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "All of the flags (A, B and C) are set.",
-          "toColumn": 40,
+          "plain_text": "All of the flags (A, B and C) are set.",
+          "to_column": 40,
           "verbatim": "All of the flags (A, B and C) are set."
         }
       ],
@@ -2330,11 +2330,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 85,
@@ -2342,9 +2342,9 @@
     },
     {
       "label": {
-        "fromColumn": 15,
+        "from_column": 15,
         "normalized": "state-viewer-only-a",
-        "toColumn": 35,
+        "to_column": 35,
         "verbatim": "State Viewer - Only A"
       },
       "line": 87,
@@ -2355,10 +2355,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flag A is set; flags B and C are clear.",
-          "toColumn": 41,
+          "plain_text": "Flag A is set; flags B and C are clear.",
+          "to_column": 41,
           "verbatim": "Flag A is set; flags B and C are clear."
         }
       ],
@@ -2367,11 +2367,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 91,
@@ -2379,9 +2379,9 @@
     },
     {
       "label": {
-        "fromColumn": 12,
+        "from_column": 12,
         "normalized": "state-viewer-only-b",
-        "toColumn": 32,
+        "to_column": 32,
         "verbatim": "State Viewer - Only B"
       },
       "line": 93,
@@ -2392,10 +2392,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flag B is set; flags A and C are clear.",
-          "toColumn": 41,
+          "plain_text": "Flag B is set; flags A and C are clear.",
+          "to_column": 41,
           "verbatim": "Flag B is set; flags A and C are clear."
         }
       ],
@@ -2404,11 +2404,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 97,
@@ -2416,9 +2416,9 @@
     },
     {
       "label": {
-        "fromColumn": 8,
+        "from_column": 8,
         "normalized": "state-viewer-only-c",
-        "toColumn": 28,
+        "to_column": 28,
         "verbatim": "State Viewer - Only C"
       },
       "line": 99,
@@ -2429,10 +2429,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flag C is set; flags A and B are clear.",
-          "toColumn": 41,
+          "plain_text": "Flag C is set; flags A and B are clear.",
+          "to_column": 41,
           "verbatim": "Flag C is set; flags A and B are clear."
         }
       ],
@@ -2441,11 +2441,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 103,
@@ -2453,9 +2453,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "state-viewer-a-b",
-        "toColumn": 26,
+        "to_column": 26,
         "verbatim": "State Viewer - A + B"
       },
       "line": 105,
@@ -2466,10 +2466,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flags A and B are set; flag C is clear.",
-          "toColumn": 41,
+          "plain_text": "Flags A and B are set; flag C is clear.",
+          "to_column": 41,
           "verbatim": "Flags A and B are set; flag C is clear."
         }
       ],
@@ -2478,11 +2478,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 109,
@@ -2490,9 +2490,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "state-viewer-a-c",
-        "toColumn": 26,
+        "to_column": 26,
         "verbatim": "State Viewer - A + C"
       },
       "line": 111,
@@ -2503,10 +2503,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flags A and C are set; flag B is clear.",
-          "toColumn": 41,
+          "plain_text": "Flags A and C are set; flag B is clear.",
+          "to_column": 41,
           "verbatim": "Flags A and C are set; flag B is clear."
         }
       ],
@@ -2515,11 +2515,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 115,
@@ -2527,9 +2527,9 @@
     },
     {
       "label": {
-        "fromColumn": 9,
+        "from_column": 9,
         "normalized": "flag-setter-a",
-        "toColumn": 21,
+        "to_column": 21,
         "verbatim": "Flag Setter A"
       },
       "line": 117,
@@ -2537,9 +2537,9 @@
     },
     {
       "flag": {
-        "fromColumn": 13,
+        "from_column": 13,
         "normalized": "flag-a",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "flag A"
       },
       "line": 119,
@@ -2550,10 +2550,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flag A has been set.",
-          "toColumn": 22,
+          "plain_text": "Flag A has been set.",
+          "to_column": 22,
           "verbatim": "Flag A has been set."
         }
       ],
@@ -2562,11 +2562,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 123,
@@ -2574,9 +2574,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "flag-setter-b",
-        "toColumn": 19,
+        "to_column": 19,
         "verbatim": "Flag Setter B"
       },
       "line": 125,
@@ -2584,9 +2584,9 @@
     },
     {
       "flag": {
-        "fromColumn": 13,
+        "from_column": 13,
         "normalized": "flag-b",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "flag B"
       },
       "line": 127,
@@ -2597,10 +2597,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flag B has been set.",
-          "toColumn": 22,
+          "plain_text": "Flag B has been set.",
+          "to_column": 22,
           "verbatim": "Flag B has been set."
         }
       ],
@@ -2609,11 +2609,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 131,
@@ -2621,9 +2621,9 @@
     },
     {
       "label": {
-        "fromColumn": 8,
+        "from_column": 8,
         "normalized": "flag-setter-c",
-        "toColumn": 20,
+        "to_column": 20,
         "verbatim": "Flag Setter C"
       },
       "line": 133,
@@ -2631,9 +2631,9 @@
     },
     {
       "flag": {
-        "fromColumn": 13,
+        "from_column": 13,
         "normalized": "flag-c",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "flag C"
       },
       "line": 135,
@@ -2644,10 +2644,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Flag C has been set.",
-          "toColumn": 22,
+          "plain_text": "Flag C has been set.",
+          "to_column": 22,
           "verbatim": "Flag C has been set."
         }
       ],
@@ -2656,11 +2656,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 139,
@@ -2668,9 +2668,9 @@
     },
     {
       "label": {
-        "fromColumn": 8,
+        "from_column": 8,
         "normalized": "remark-no-flags",
-        "toColumn": 22,
+        "to_column": 22,
         "verbatim": "Remark No Flags"
       },
       "line": 141,
@@ -2681,10 +2681,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "No flags are set.",
-          "toColumn": 19,
+          "plain_text": "No flags are set.",
+          "to_column": 19,
           "verbatim": "No flags are set."
         }
       ],
@@ -2693,11 +2693,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 145,
@@ -2705,9 +2705,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "remark-at-least-one-flag",
-        "toColumn": 30,
+        "to_column": 30,
         "verbatim": "Remark At Least One Flag"
       },
       "line": 147,
@@ -2718,10 +2718,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "At least one flag is set.",
-          "toColumn": 27,
+          "plain_text": "At least one flag is set.",
+          "to_column": 27,
           "verbatim": "At least one flag is set."
         }
       ],
@@ -2730,11 +2730,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 151,
@@ -2742,9 +2742,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "remark-at-least-some-flags-missing",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "Remark At Least Some Flags Missing"
       },
       "line": 153,
@@ -2755,10 +2755,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "At least some flags are not set.",
-          "toColumn": 34,
+          "plain_text": "At least some flags are not set.",
+          "to_column": 34,
           "verbatim": "At least some flags are not set."
         }
       ],
@@ -2767,11 +2767,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 157,
@@ -2779,9 +2779,9 @@
     },
     {
       "label": {
-        "fromColumn": 7,
+        "from_column": 7,
         "normalized": "remark-all-flags",
-        "toColumn": 22,
+        "to_column": 22,
         "verbatim": "Remark All Flags"
       },
       "line": 159,
@@ -2792,10 +2792,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "All flags are set.",
-          "toColumn": 20,
+          "plain_text": "All flags are set.",
+          "to_column": 20,
           "verbatim": "All flags are set."
         }
       ],
@@ -2804,11 +2804,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 32,
+      "instruction_index": 32,
       "label": {
-        "fromColumn": 21,
+        "from_column": 21,
         "normalized": "menu",
-        "toColumn": 24,
+        "to_column": 24,
         "verbatim": "Menu"
       },
       "line": 163,

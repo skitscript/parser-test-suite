@@ -1,56 +1,56 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "example-character-b",
-      "toColumn": 20,
+      "to_column": 20,
       "type": "character",
       "verbatim": "Example  CharActer B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 28,
+      "from_column": 28,
       "line": 1,
       "normalized": "left",
-      "toColumn": 31,
+      "to_column": 31,
       "type": "exit_animation",
       "verbatim": "left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "example-character-a",
-      "toColumn": 19,
+      "to_column": 19,
       "type": "character",
       "verbatim": "Example Character A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 22,
+      "from_column": 22,
       "line": 3,
       "normalized": "example-character-b",
-      "toColumn": 40,
+      "to_column": 40,
       "type": "character",
       "verbatim": "exAMple CHARacter B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 46,
+      "from_column": 46,
       "line": 3,
       "normalized": "example-character-c",
-      "toColumn": 64,
+      "to_column": 64,
       "type": "character",
       "verbatim": "Example Character C"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 71,
+      "from_column": 71,
       "line": 3,
       "normalized": "left",
-      "toColumn": 74,
+      "to_column": 74,
       "type": "exit_animation",
       "verbatim": "left"
     }
@@ -58,15 +58,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 28,
+        "from_column": 28,
         "normalized": "left",
-        "toColumn": 31,
+        "to_column": 31,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character-b",
-        "toColumn": 20,
+        "to_column": 20,
         "verbatim": "Example  CharActer B"
       },
       "line": 1,
@@ -74,15 +74,15 @@
     },
     {
       "animation": {
-        "fromColumn": 71,
+        "from_column": 71,
         "normalized": "left",
-        "toColumn": 74,
+        "to_column": 74,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character-a",
-        "toColumn": 19,
+        "to_column": 19,
         "verbatim": "Example Character A"
       },
       "line": 3,
@@ -90,15 +90,15 @@
     },
     {
       "animation": {
-        "fromColumn": 71,
+        "from_column": 71,
         "normalized": "left",
-        "toColumn": 74,
+        "to_column": 74,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 22,
+        "from_column": 22,
         "normalized": "example-character-b",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "exAMple CHARacter B"
       },
       "line": 3,
@@ -106,15 +106,15 @@
     },
     {
       "animation": {
-        "fromColumn": 71,
+        "from_column": 71,
         "normalized": "left",
-        "toColumn": 74,
+        "to_column": 74,
         "verbatim": "left"
       },
       "character": {
-        "fromColumn": 46,
+        "from_column": 46,
         "normalized": "example-character-c",
-        "toColumn": 64,
+        "to_column": 64,
         "verbatim": "Example Character C"
       },
       "line": 3,
@@ -125,17 +125,17 @@
   "warnings": [
     {
       "first": {
-        "fromColumn": 1,
+        "from_column": 1,
         "line": 1,
         "normalized": "example-character-b",
-        "toColumn": 20,
+        "to_column": 20,
         "verbatim": "Example  CharActer B"
       },
       "second": {
-        "fromColumn": 22,
+        "from_column": 22,
         "line": 3,
         "normalized": "example-character-b",
-        "toColumn": 40,
+        "to_column": 40,
         "verbatim": "exAMple CHARacter B"
       },
       "type": "inconsistent_identifier"

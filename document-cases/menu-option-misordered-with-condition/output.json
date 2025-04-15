@@ -7,8 +7,8 @@
       "label": {
         "verbatim": "Example Label",
         "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
+        "from_column": 3,
+        "to_column": 15
       }
     },
     {
@@ -17,8 +17,8 @@
       "flag": {
         "verbatim": "Example Flag",
         "normalized": "example-flag",
-        "fromColumn": 5,
-        "toColumn": 16
+        "from_column": 5,
+        "to_column": 16
       }
     },
     {
@@ -30,36 +30,36 @@
           "italic": false,
           "code": false,
           "verbatim": "Example Text Leads To When Not And Or Leads To When Not And Or",
-          "plainText": "Example Text Leads To When Not And Or Leads To When Not And Or",
-          "fromColumn": 3,
-          "toColumn": 64
+          "plain_text": "Example Text Leads To When Not And Or Leads To When Not And Or",
+          "from_column": 3,
+          "to_column": 64
         }
       ],
       "label": {
         "verbatim": "Example Label",
         "normalized": "example-label",
-        "fromColumn": 75,
-        "toColumn": 87
+        "from_column": 75,
+        "to_column": 87
       },
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "condition": {
         "type": "flag_clear",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",
-          "fromColumn": 98,
-          "toColumn": 109
+          "from_column": 98,
+          "to_column": 109
         }
       }
     }
   ],
   "warnings": [],
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "verbatim": "Example Label",
       "normalized": "example-label",
-      "fromColumn": 3,
-      "toColumn": 15,
+      "from_column": 3,
+      "to_column": 15,
       "type": "label",
       "context": "declaration",
       "line": 1
@@ -67,8 +67,8 @@
     {
       "verbatim": "Example Flag",
       "normalized": "example-flag",
-      "fromColumn": 5,
-      "toColumn": 16,
+      "from_column": 5,
+      "to_column": 16,
       "type": "flag",
       "context": "implicit_declaration",
       "line": 2
@@ -76,8 +76,8 @@
     {
       "verbatim": "Example Label",
       "normalized": "example-label",
-      "fromColumn": 75,
-      "toColumn": 87,
+      "from_column": 75,
+      "to_column": 87,
       "type": "label",
       "context": "reference",
       "line": 3
@@ -85,8 +85,8 @@
     {
       "verbatim": "Example Flag",
       "normalized": "example-flag",
-      "fromColumn": 98,
-      "toColumn": 109,
+      "from_column": 98,
+      "to_column": 109,
       "type": "flag",
       "context": "implicit_declaration",
       "line": 3

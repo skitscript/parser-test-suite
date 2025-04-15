@@ -1,38 +1,38 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "example-character",
-      "toColumn": 17,
+      "to_column": 17,
       "type": "character",
       "verbatim": "Example Character"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 26,
+      "from_column": 26,
       "line": 1,
       "normalized": "example-animation",
-      "toColumn": 42,
+      "to_column": 42,
       "type": "entry_animation",
       "verbatim": "Example AnimAtion"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "example-character",
-      "toColumn": 17,
+      "to_column": 17,
       "type": "character",
       "verbatim": "Example Character"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 26,
+      "from_column": 26,
       "line": 3,
       "normalized": "example-animation",
-      "toColumn": 42,
+      "to_column": 42,
       "type": "entry_animation",
       "verbatim": "exAMple ANIMation"
     }
@@ -40,15 +40,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 26,
+        "from_column": 26,
         "normalized": "example-animation",
-        "toColumn": 42,
+        "to_column": 42,
         "verbatim": "Example AnimAtion"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character",
-        "toColumn": 17,
+        "to_column": 17,
         "verbatim": "Example Character"
       },
       "line": 1,
@@ -56,15 +56,15 @@
     },
     {
       "animation": {
-        "fromColumn": 26,
+        "from_column": 26,
         "normalized": "example-animation",
-        "toColumn": 42,
+        "to_column": 42,
         "verbatim": "exAMple ANIMation"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character",
-        "toColumn": 17,
+        "to_column": 17,
         "verbatim": "Example Character"
       },
       "line": 3,
@@ -75,17 +75,17 @@
   "warnings": [
     {
       "first": {
-        "fromColumn": 26,
+        "from_column": 26,
         "line": 1,
         "normalized": "example-animation",
-        "toColumn": 42,
+        "to_column": 42,
         "verbatim": "Example AnimAtion"
       },
       "second": {
-        "fromColumn": 26,
+        "from_column": 26,
         "line": 3,
         "normalized": "example-animation",
-        "toColumn": 42,
+        "to_column": 42,
         "verbatim": "exAMple ANIMation"
       },
       "type": "inconsistent_identifier"

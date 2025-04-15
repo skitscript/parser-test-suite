@@ -1,20 +1,20 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "declaration",
-      "fromColumn": 3,
+      "from_column": 3,
       "line": 1,
       "normalized": "example-label",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "reference",
-      "fromColumn": 9,
+      "from_column": 9,
       "line": 3,
       "normalized": "example-label",
-      "toColumn": 21,
+      "to_column": 21,
       "type": "label",
       "verbatim": "Example Label"
     }
@@ -22,9 +22,9 @@
   "instructions": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,
@@ -32,11 +32,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "label": {
-        "fromColumn": 9,
+        "from_column": 9,
         "normalized": "example-label",
-        "toColumn": 21,
+        "to_column": 21,
         "verbatim": "Example Label"
       },
       "line": 3,
@@ -47,9 +47,9 @@
   "warnings": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,

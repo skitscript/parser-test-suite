@@ -1,20 +1,20 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "a",
-      "toColumn": 1,
+      "to_column": 1,
       "type": "character",
       "verbatim": "A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 9,
+      "from_column": 9,
       "line": 1,
       "normalized": "b",
-      "toColumn": 9,
+      "to_column": 9,
       "type": "exit_animation",
       "verbatim": "B"
     }
@@ -22,15 +22,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 9,
+        "from_column": 9,
         "normalized": "b",
-        "toColumn": 9,
+        "to_column": 9,
         "verbatim": "B"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "a",
-        "toColumn": 1,
+        "to_column": 1,
         "verbatim": "A"
       },
       "line": 1,

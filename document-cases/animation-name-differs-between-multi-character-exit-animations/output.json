@@ -1,56 +1,56 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "example-character-a",
-      "toColumn": 19,
+      "to_column": 19,
       "type": "character",
       "verbatim": "Example Character A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 25,
+      "from_column": 25,
       "line": 1,
       "normalized": "example-character-b",
-      "toColumn": 43,
+      "to_column": 43,
       "type": "character",
       "verbatim": "Example Character B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 50,
+      "from_column": 50,
       "line": 1,
       "normalized": "example-animation",
-      "toColumn": 66,
+      "to_column": 66,
       "type": "exit_animation",
       "verbatim": "Example AnimAtion"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "example-character-a",
-      "toColumn": 19,
+      "to_column": 19,
       "type": "character",
       "verbatim": "Example Character A"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 25,
+      "from_column": 25,
       "line": 3,
       "normalized": "example-character-b",
-      "toColumn": 43,
+      "to_column": 43,
       "type": "character",
       "verbatim": "Example Character B"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 50,
+      "from_column": 50,
       "line": 3,
       "normalized": "example-animation",
-      "toColumn": 66,
+      "to_column": 66,
       "type": "exit_animation",
       "verbatim": "exAMple ANIMation"
     }
@@ -58,15 +58,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 50,
+        "from_column": 50,
         "normalized": "example-animation",
-        "toColumn": 66,
+        "to_column": 66,
         "verbatim": "Example AnimAtion"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character-a",
-        "toColumn": 19,
+        "to_column": 19,
         "verbatim": "Example Character A"
       },
       "line": 1,
@@ -74,15 +74,15 @@
     },
     {
       "animation": {
-        "fromColumn": 50,
+        "from_column": 50,
         "normalized": "example-animation",
-        "toColumn": 66,
+        "to_column": 66,
         "verbatim": "Example AnimAtion"
       },
       "character": {
-        "fromColumn": 25,
+        "from_column": 25,
         "normalized": "example-character-b",
-        "toColumn": 43,
+        "to_column": 43,
         "verbatim": "Example Character B"
       },
       "line": 1,
@@ -90,15 +90,15 @@
     },
     {
       "animation": {
-        "fromColumn": 50,
+        "from_column": 50,
         "normalized": "example-animation",
-        "toColumn": 66,
+        "to_column": 66,
         "verbatim": "exAMple ANIMation"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "example-character-a",
-        "toColumn": 19,
+        "to_column": 19,
         "verbatim": "Example Character A"
       },
       "line": 3,
@@ -106,15 +106,15 @@
     },
     {
       "animation": {
-        "fromColumn": 50,
+        "from_column": 50,
         "normalized": "example-animation",
-        "toColumn": 66,
+        "to_column": 66,
         "verbatim": "exAMple ANIMation"
       },
       "character": {
-        "fromColumn": 25,
+        "from_column": 25,
         "normalized": "example-character-b",
-        "toColumn": 43,
+        "to_column": 43,
         "verbatim": "Example Character B"
       },
       "line": 3,
@@ -125,17 +125,17 @@
   "warnings": [
     {
       "first": {
-        "fromColumn": 50,
+        "from_column": 50,
         "line": 1,
         "normalized": "example-animation",
-        "toColumn": 66,
+        "to_column": 66,
         "verbatim": "Example AnimAtion"
       },
       "second": {
-        "fromColumn": 50,
+        "from_column": 50,
         "line": 3,
         "normalized": "example-animation",
-        "toColumn": 66,
+        "to_column": 66,
         "verbatim": "exAMple ANIMation"
       },
       "type": "inconsistent_identifier"

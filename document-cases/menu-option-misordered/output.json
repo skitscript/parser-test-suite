@@ -7,8 +7,8 @@
       "label": {
         "verbatim": "Example Label",
         "normalized": "example-label",
-        "fromColumn": 3,
-        "toColumn": 15
+        "from_column": 3,
+        "to_column": 15
       }
     },
     {
@@ -20,28 +20,28 @@
           "italic": false,
           "code": false,
           "verbatim": "Example Text Leads To When Not And Or Leads To When Not And Or",
-          "plainText": "Example Text Leads To When Not And Or Leads To When Not And Or",
-          "fromColumn": 3,
-          "toColumn": 64
+          "plain_text": "Example Text Leads To When Not And Or Leads To When Not And Or",
+          "from_column": 3,
+          "to_column": 64
         }
       ],
       "label": {
         "verbatim": "Example Label",
         "normalized": "example-label",
-        "fromColumn": 75,
-        "toColumn": 87
+        "from_column": 75,
+        "to_column": 87
       },
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "condition": null
     }
   ],
   "warnings": [],
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "verbatim": "Example Label",
       "normalized": "example-label",
-      "fromColumn": 3,
-      "toColumn": 15,
+      "from_column": 3,
+      "to_column": 15,
       "type": "label",
       "context": "declaration",
       "line": 1
@@ -49,8 +49,8 @@
     {
       "verbatim": "Example Label",
       "normalized": "example-label",
-      "fromColumn": 75,
-      "toColumn": 87,
+      "from_column": 75,
+      "to_column": 87,
       "type": "label",
       "context": "reference",
       "line": 2

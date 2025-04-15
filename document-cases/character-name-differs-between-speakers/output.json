@@ -1,20 +1,20 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "example-character",
-      "toColumn": 18,
+      "to_column": 18,
       "type": "character",
       "verbatim": "Example  CharActer"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "example-character",
-      "toColumn": 17,
+      "to_column": 17,
       "type": "character",
       "verbatim": "exAMple CHARacter"
     }
@@ -23,9 +23,9 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "example-character",
-          "toColumn": 18,
+          "to_column": 18,
           "verbatim": "Example  CharActer"
         }
       ],
@@ -35,9 +35,9 @@
     {
       "characters": [
         {
-          "fromColumn": 1,
+          "from_column": 1,
           "normalized": "example-character",
-          "toColumn": 17,
+          "to_column": 17,
           "verbatim": "exAMple CHARacter"
         }
       ],
@@ -49,17 +49,17 @@
   "warnings": [
     {
       "first": {
-        "fromColumn": 1,
+        "from_column": 1,
         "line": 1,
         "normalized": "example-character",
-        "toColumn": 18,
+        "to_column": 18,
         "verbatim": "Example  CharActer"
       },
       "second": {
-        "fromColumn": 1,
+        "from_column": 1,
         "line": 3,
         "normalized": "example-character",
-        "toColumn": 17,
+        "to_column": 17,
         "verbatim": "exAMple CHARacter"
       },
       "type": "inconsistent_identifier"

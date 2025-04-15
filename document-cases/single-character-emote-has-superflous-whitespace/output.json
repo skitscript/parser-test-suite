@@ -1,20 +1,20 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "andy",
-      "toColumn": 4,
+      "to_column": 4,
       "type": "character",
       "verbatim": "Andy"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 10,
+      "from_column": 10,
       "line": 1,
       "normalized": "blue",
-      "toColumn": 13,
+      "to_column": 13,
       "type": "emote",
       "verbatim": "blue"
     }
@@ -22,15 +22,15 @@
   "instructions": [
     {
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "andy",
-        "toColumn": 4,
+        "to_column": 4,
         "verbatim": "Andy"
       },
       "emote": {
-        "fromColumn": 10,
+        "from_column": 10,
         "normalized": "blue",
-        "toColumn": 13,
+        "to_column": 13,
         "verbatim": "blue"
       },
       "line": 1,

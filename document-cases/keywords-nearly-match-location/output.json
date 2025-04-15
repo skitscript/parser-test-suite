@@ -1,128 +1,128 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 1,
       "normalized": "lycation",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Lycation"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 1,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 2,
       "normalized": "loyation",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Loyation"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 2,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 3,
       "normalized": "locytion",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Locytion"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 3,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 4,
       "normalized": "locayion",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Locayion"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 4,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 5,
       "normalized": "locatyon",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Locatyon"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 5,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 6,
       "normalized": "locatiyn",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Locatiyn"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 6,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 7,
       "normalized": "locatioy",
-      "toColumn": 8,
+      "to_column": 8,
       "type": "character",
       "verbatim": "Locatioy"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 17,
+      "from_column": 17,
       "line": 7,
       "normalized": "from-left",
-      "toColumn": 25,
+      "to_column": 25,
       "type": "entry_animation",
       "verbatim": "from left"
     }
@@ -130,15 +130,15 @@
   "instructions": [
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "lycation",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Lycation"
       },
       "line": 1,
@@ -146,15 +146,15 @@
     },
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "loyation",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Loyation"
       },
       "line": 2,
@@ -162,15 +162,15 @@
     },
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "locytion",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Locytion"
       },
       "line": 3,
@@ -178,15 +178,15 @@
     },
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "locayion",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Locayion"
       },
       "line": 4,
@@ -194,15 +194,15 @@
     },
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "locatyon",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Locatyon"
       },
       "line": 5,
@@ -210,15 +210,15 @@
     },
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "locatiyn",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Locatiyn"
       },
       "line": 6,
@@ -226,15 +226,15 @@
     },
     {
       "animation": {
-        "fromColumn": 17,
+        "from_column": 17,
         "normalized": "from-left",
-        "toColumn": 25,
+        "to_column": 25,
         "verbatim": "from left"
       },
       "character": {
-        "fromColumn": 1,
+        "from_column": 1,
         "normalized": "locatioy",
-        "toColumn": 8,
+        "to_column": 8,
         "verbatim": "Locatioy"
       },
       "line": 7,

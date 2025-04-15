@@ -1,11 +1,11 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "declaration",
-      "fromColumn": 3,
+      "from_column": 3,
       "line": 1,
       "normalized": "example-label",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "label",
       "verbatim": "Example Label"
     }
@@ -13,9 +13,9 @@
   "instructions": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,
@@ -26,9 +26,9 @@
   "warnings": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,

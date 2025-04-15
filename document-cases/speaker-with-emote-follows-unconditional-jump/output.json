@@ -1,38 +1,38 @@
 {
-  "identifierInstances": [
+  "identifier_instances": [
     {
       "context": "declaration",
-      "fromColumn": 3,
+      "from_column": 3,
       "line": 1,
       "normalized": "example-label",
-      "toColumn": 15,
+      "to_column": 15,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "reference",
-      "fromColumn": 9,
+      "from_column": 9,
       "line": 5,
       "normalized": "example-label",
-      "toColumn": 21,
+      "to_column": 21,
       "type": "label",
       "verbatim": "Example Label"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 7,
       "normalized": "example-character",
-      "toColumn": 17,
+      "to_column": 17,
       "type": "character",
       "verbatim": "Example Character"
     },
     {
       "context": "implicit_declaration",
-      "fromColumn": 20,
+      "from_column": 20,
       "line": 7,
       "normalized": "example-emote",
-      "toColumn": 32,
+      "to_column": 32,
       "type": "emote",
       "verbatim": "Example Emote"
     }
@@ -40,9 +40,9 @@
   "instructions": [
     {
       "label": {
-        "fromColumn": 3,
+        "from_column": 3,
         "normalized": "example-label",
-        "toColumn": 15,
+        "to_column": 15,
         "verbatim": "Example Label"
       },
       "line": 1,
@@ -53,10 +53,10 @@
         {
           "bold": false,
           "code": false,
-          "fromColumn": 3,
+          "from_column": 3,
           "italic": false,
-          "plainText": "Example Line",
-          "toColumn": 14,
+          "plain_text": "Example Line",
+          "to_column": 14,
           "verbatim": "Example Line"
         }
       ],
@@ -65,11 +65,11 @@
     },
     {
       "condition": null,
-      "instructionIndex": 0,
+      "instruction_index": 0,
       "label": {
-        "fromColumn": 9,
+        "from_column": 9,
         "normalized": "example-label",
-        "toColumn": 21,
+        "to_column": 21,
         "verbatim": "Example Label"
       },
       "line": 5,
@@ -79,9 +79,9 @@
   "type": "valid",
   "warnings": [
     {
-      "fromColumn": 1,
+      "from_column": 1,
       "line": 7,
-      "toColumn": 34,
+      "to_column": 34,
       "type": "unreachable"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "errors": [
     {
-      "fromColumn": 33,
+      "from_column": 33,
       "line": 1,
-      "toColumn": 33,
+      "to_column": 33,
       "type": "unterminated_italic",
       "verbatim": "*"
     }
   ],
-  "identifierInstances": [],
+  "identifier_instances": [],
   "type": "invalid",
   "warnings": []
 }

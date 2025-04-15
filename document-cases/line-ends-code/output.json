@@ -1,14 +1,14 @@
 {
   "errors": [
     {
-      "fromColumn": 11,
+      "from_column": 11,
       "line": 1,
-      "toColumn": 35,
+      "to_column": 35,
       "type": "unterminated_code",
       "verbatim": "`line which ends as code."
     }
   ],
-  "identifierInstances": [],
+  "identifier_instances": [],
   "type": "invalid",
   "warnings": []
 }
