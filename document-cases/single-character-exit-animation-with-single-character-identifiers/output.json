@@ -15,7 +15,7 @@
       "line": 1,
       "normalized": "b",
       "toColumn": 9,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "B"
     }
   ],
@@ -34,7 +34,7 @@
         "verbatim": "A"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     }
   ],
   "type": "valid",

@@ -75,7 +75,7 @@
         "toColumn": 25,
         "verbatim": "EXAmple     laBel"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

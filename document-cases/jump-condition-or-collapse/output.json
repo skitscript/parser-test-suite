@@ -113,7 +113,7 @@
         "toColumn": 57,
         "verbatim": "Example     Flag"
       },
-      "type": "duplicateIdentifierInList"
+      "type": "duplicate_identifier_in_list"
     }
   ]
 }

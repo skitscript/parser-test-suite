@@ -53,7 +53,7 @@
         "verbatim": "Example Label"
       },
       "line": 1,
-      "type": "emptyLabel"
+      "type": "empty_label"
     }
   ]
 }

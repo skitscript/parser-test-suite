@@ -24,7 +24,7 @@
       "line": 3,
       "normalized": "from-the-left",
       "toColumn": 34,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from the left"
     },
     {
@@ -51,7 +51,7 @@
       "line": 12,
       "normalized": "from-the-right",
       "toColumn": 37,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from the right"
     },
     {
@@ -114,7 +114,7 @@
       "line": 22,
       "normalized": "from-the-left",
       "toColumn": 32,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from the left"
     },
     {
@@ -141,7 +141,7 @@
       "line": 23,
       "normalized": "from-the-right",
       "toColumn": 32,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from the right"
     },
     {
@@ -204,7 +204,7 @@
       "line": 29,
       "normalized": "left",
       "toColumn": 39,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "left"
     },
     {
@@ -240,7 +240,7 @@
       "line": 30,
       "normalized": "right",
       "toColumn": 41,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "right"
     },
     {
@@ -276,7 +276,7 @@
       "line": 34,
       "normalized": "from-the-bottom",
       "toColumn": 37,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from the bottom"
     },
     {
@@ -1052,7 +1052,7 @@
         "verbatim": "Mr. Explainer"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -1245,7 +1245,7 @@
         "verbatim": "Mrs. Elucidator"
       },
       "line": 12,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -1347,7 +1347,7 @@
         "verbatim": "Mr. Company"
       },
       "line": 22,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "character": {
@@ -1379,7 +1379,7 @@
         "verbatim": "Mrs. Crowd"
       },
       "line": 23,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -1455,7 +1455,7 @@
         "verbatim": "Mr. Explainer"
       },
       "line": 29,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -1471,7 +1471,7 @@
         "verbatim": "Mr. Company"
       },
       "line": 29,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "character": {
@@ -1519,7 +1519,7 @@
         "verbatim": "Mrs. Elucidator"
       },
       "line": 30,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -1535,7 +1535,7 @@
         "verbatim": "Mrs. Crowd"
       },
       "line": 30,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "character": {
@@ -1593,7 +1593,7 @@
         "verbatim": "The Questioner"
       },
       "line": 34,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "character": {

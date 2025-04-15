@@ -125,7 +125,7 @@
         "toColumn": 19,
         "verbatim": "exAMple CHARacter B"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

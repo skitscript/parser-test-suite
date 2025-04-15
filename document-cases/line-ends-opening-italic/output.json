@@ -4,7 +4,7 @@
       "fromColumn": 33,
       "line": 1,
       "toColumn": 33,
-      "type": "unterminatedItalic",
+      "type": "unterminated_italic",
       "verbatim": "*"
     }
   ],

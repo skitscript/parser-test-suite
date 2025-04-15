@@ -4,7 +4,7 @@
       "fromColumn": 11,
       "line": 1,
       "toColumn": 34,
-      "type": "unterminatedItalic",
+      "type": "unterminated_italic",
       "verbatim": "*line which ends italic."
     }
   ],

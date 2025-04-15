@@ -87,7 +87,7 @@
       "line": 9,
       "normalized": "left",
       "toColumn": 53,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "left"
     },
     {

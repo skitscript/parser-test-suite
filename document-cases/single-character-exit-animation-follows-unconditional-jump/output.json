@@ -33,7 +33,7 @@
       "line": 7,
       "normalized": "left",
       "toColumn": 28,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "left"
     }
   ],

@@ -33,7 +33,7 @@
       "line": 1,
       "normalized": "d",
       "toColumn": 18,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "D"
     }
   ],
@@ -52,7 +52,7 @@
         "verbatim": "A"
       },
       "line": 1,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "animation": {
@@ -68,7 +68,7 @@
         "verbatim": "B"
       },
       "line": 1,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "animation": {
@@ -84,7 +84,7 @@
         "verbatim": "C"
       },
       "line": 1,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     }
   ],
   "type": "valid",

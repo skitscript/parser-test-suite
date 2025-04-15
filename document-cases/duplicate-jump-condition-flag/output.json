@@ -174,7 +174,7 @@
         "toColumn": 73,
         "verbatim": "Example Flag A"
       },
-      "type": "duplicateIdentifierInList"
+      "type": "duplicate_identifier_in_list"
     }
   ]
 }

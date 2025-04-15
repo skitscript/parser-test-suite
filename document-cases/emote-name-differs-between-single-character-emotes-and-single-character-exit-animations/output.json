@@ -33,7 +33,7 @@
       "line": 3,
       "normalized": "left",
       "toColumn": 28,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "left"
     },
     {
@@ -77,7 +77,7 @@
         "verbatim": "Example Character"
       },
       "line": 3,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "character": {
@@ -113,7 +113,7 @@
         "toColumn": 43,
         "verbatim": "exAMple EMOte"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

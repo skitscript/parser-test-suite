@@ -15,7 +15,7 @@
       "line": 1,
       "normalized": "from-left",
       "toColumn": 35,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from left"
     },
     {
@@ -43,7 +43,7 @@
         "verbatim": "Example  CharActer"
       },
       "line": 1,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -75,7 +75,7 @@
         "toColumn": 17,
         "verbatim": "exAMple CHARacter"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

@@ -51,7 +51,7 @@
       "line": 3,
       "normalized": "left",
       "toColumn": 30,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "left"
     }
   ],
@@ -118,7 +118,7 @@
         "verbatim": "exAMple CHARacter B"
       },
       "line": 3,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     }
   ],
   "type": "valid",
@@ -138,7 +138,7 @@
         "toColumn": 19,
         "verbatim": "exAMple CHARacter B"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

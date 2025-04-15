@@ -24,7 +24,7 @@
       "line": 3,
       "normalized": "c",
       "toColumn": 10,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "C"
     },
     {
@@ -51,7 +51,7 @@
       "line": 12,
       "normalized": "e",
       "toColumn": 10,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "E"
     },
     {
@@ -114,7 +114,7 @@
       "line": 22,
       "normalized": "c",
       "toColumn": 10,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "C"
     },
     {
@@ -141,7 +141,7 @@
       "line": 23,
       "normalized": "e",
       "toColumn": 10,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "E"
     },
     {
@@ -204,7 +204,7 @@
       "line": 29,
       "normalized": "k",
       "toColumn": 14,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "K"
     },
     {
@@ -240,7 +240,7 @@
       "line": 30,
       "normalized": "m",
       "toColumn": 14,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "M"
     },
     {
@@ -276,7 +276,7 @@
       "line": 34,
       "normalized": "p",
       "toColumn": 10,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "P"
     },
     {
@@ -1052,7 +1052,7 @@
         "verbatim": "B"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -1245,7 +1245,7 @@
         "verbatim": "D"
       },
       "line": 12,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -1347,7 +1347,7 @@
         "verbatim": "H"
       },
       "line": 22,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "character": {
@@ -1379,7 +1379,7 @@
         "verbatim": "J"
       },
       "line": 23,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "characters": [
@@ -1455,7 +1455,7 @@
         "verbatim": "B"
       },
       "line": 29,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -1471,7 +1471,7 @@
         "verbatim": "H"
       },
       "line": 29,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "character": {
@@ -1519,7 +1519,7 @@
         "verbatim": "D"
       },
       "line": 30,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -1535,7 +1535,7 @@
         "verbatim": "J"
       },
       "line": 30,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "character": {
@@ -1593,7 +1593,7 @@
         "verbatim": "O"
       },
       "line": 34,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "character": {

@@ -251,7 +251,7 @@
         "toColumn": 70,
         "verbatim": "example    flAG  b"
       },
-      "type": "duplicateIdentifierInList"
+      "type": "duplicate_identifier_in_list"
     }
   ]
 }

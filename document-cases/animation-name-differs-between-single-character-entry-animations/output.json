@@ -15,7 +15,7 @@
       "line": 1,
       "normalized": "example-animation",
       "toColumn": 42,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "Example AnimAtion"
     },
     {
@@ -33,7 +33,7 @@
       "line": 3,
       "normalized": "example-animation",
       "toColumn": 42,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "exAMple ANIMation"
     }
   ],
@@ -52,7 +52,7 @@
         "verbatim": "Example Character"
       },
       "line": 1,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "animation": {
@@ -68,7 +68,7 @@
         "verbatim": "Example Character"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     }
   ],
   "type": "valid",
@@ -88,7 +88,7 @@
         "toColumn": 42,
         "verbatim": "exAMple ANIMation"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

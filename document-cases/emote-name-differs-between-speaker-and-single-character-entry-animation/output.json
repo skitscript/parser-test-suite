@@ -33,7 +33,7 @@
       "line": 3,
       "normalized": "left",
       "toColumn": 29,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "left"
     },
     {
@@ -89,7 +89,7 @@
         "verbatim": "Example Character"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "character": {
@@ -125,7 +125,7 @@
         "toColumn": 44,
         "verbatim": "exAMple EMOte"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

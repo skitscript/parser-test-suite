@@ -62,7 +62,7 @@
         "toColumn": 17,
         "verbatim": "exAMple CHARacter"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

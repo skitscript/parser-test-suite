@@ -58,7 +58,7 @@
         "toColumn": 31,
         "verbatim": "ExamPLE    A_Location"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

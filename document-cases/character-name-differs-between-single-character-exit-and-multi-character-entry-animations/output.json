@@ -15,7 +15,7 @@
       "line": 1,
       "normalized": "from-left",
       "toColumn": 36,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "from left"
     },
     {
@@ -51,7 +51,7 @@
       "line": 3,
       "normalized": "from-left",
       "toColumn": 80,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "from left"
     }
   ],
@@ -70,7 +70,7 @@
         "verbatim": "Example  CharActer B"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -86,7 +86,7 @@
         "verbatim": "Example Character A"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "animation": {
@@ -102,7 +102,7 @@
         "verbatim": "exAMple CHARacter B"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "animation": {
@@ -118,7 +118,7 @@
         "verbatim": "Example Character C"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     }
   ],
   "type": "valid",
@@ -138,7 +138,7 @@
         "toColumn": 40,
         "verbatim": "exAMple CHARacter B"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

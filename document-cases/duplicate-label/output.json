@@ -15,7 +15,7 @@
         "toColumn": 15,
         "verbatim": "Example Label"
       },
-      "type": "duplicateLabel"
+      "type": "duplicate_label"
     }
   ],
   "identifierInstances": [

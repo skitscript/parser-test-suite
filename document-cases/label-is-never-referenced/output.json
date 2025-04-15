@@ -32,7 +32,7 @@
         "verbatim": "Example Label"
       },
       "line": 1,
-      "type": "unreferencedLabel"
+      "type": "unreferenced_label"
     }
   ]
 }

@@ -42,7 +42,7 @@
       "line": 3,
       "normalized": "left",
       "toColumn": 54,
-      "type": "entryAnimation",
+      "type": "entry_animation",
       "verbatim": "left"
     },
     {
@@ -86,7 +86,7 @@
         "verbatim": "Example Character A"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "animation": {
@@ -102,7 +102,7 @@
         "verbatim": "Example Character B"
       },
       "line": 3,
-      "type": "entryAnimation"
+      "type": "entry_animation"
     },
     {
       "character": {
@@ -154,7 +154,7 @@
         "toColumn": 69,
         "verbatim": "exAMple EMOte"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }

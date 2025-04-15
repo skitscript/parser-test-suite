@@ -96,7 +96,7 @@
       "line": 1,
       "normalized": "left",
       "toColumn": 77,
-      "type": "exitAnimation",
+      "type": "exit_animation",
       "verbatim": "left"
     }
   ],
@@ -115,7 +115,7 @@
         "verbatim": "Jeff"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -131,7 +131,7 @@
         "verbatim": "Eyit"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -147,7 +147,7 @@
         "verbatim": "Exyt"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -163,7 +163,7 @@
         "verbatim": "Exiy"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -179,7 +179,7 @@
         "verbatim": "Eyits"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -195,7 +195,7 @@
         "verbatim": "Exyts"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -211,7 +211,7 @@
         "verbatim": "Exiys"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -227,7 +227,7 @@
         "verbatim": "Exity"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -243,7 +243,7 @@
         "verbatim": "Exitsy"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     },
     {
       "animation": {
@@ -259,7 +259,7 @@
         "verbatim": "Andy"
       },
       "line": 1,
-      "type": "exitAnimation"
+      "type": "exit_animation"
     }
   ],
   "type": "valid",

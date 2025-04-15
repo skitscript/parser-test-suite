@@ -112,7 +112,7 @@
         "toColumn": 32,
         "verbatim": "exAMple EMOte"
       },
-      "type": "inconsistentIdentifier"
+      "type": "inconsistent_identifier"
     }
   ]
 }
