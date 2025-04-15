@@ -3,7 +3,7 @@
     {
       "column": 51,
       "line": 1,
-      "type": "incompleteEscapeSequence"
+      "type": "incomplete_escape_sequence"
     }
   ],
   "identifierInstances": [],

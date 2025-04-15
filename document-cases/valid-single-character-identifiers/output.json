@@ -1669,7 +1669,7 @@
         "verbatim": "S"
       },
       "line": 41,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": null,
@@ -1692,7 +1692,7 @@
         "verbatim": "T"
       },
       "line": 42,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": null,
@@ -1724,7 +1724,7 @@
         "verbatim": "U"
       },
       "line": 43,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": null,
@@ -1756,7 +1756,7 @@
         "verbatim": "V"
       },
       "line": 44,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": null,
@@ -1788,7 +1788,7 @@
         "verbatim": "W"
       },
       "line": 45,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": {
@@ -1812,7 +1812,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "everyFlagClear"
+        "type": "every_flag_clear"
       },
       "content": [
         {
@@ -1833,7 +1833,7 @@
         "verbatim": "X"
       },
       "line": 46,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": {
@@ -1857,7 +1857,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "someFlagsSet"
+        "type": "some_flags_set"
       },
       "content": [
         {
@@ -1878,7 +1878,7 @@
         "verbatim": "É"
       },
       "line": 47,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": {
@@ -1902,7 +1902,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "someFlagsClear"
+        "type": "some_flags_clear"
       },
       "content": [
         {
@@ -1923,7 +1923,7 @@
         "verbatim": "Í"
       },
       "line": 48,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": {
@@ -1947,7 +1947,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "everyFlagSet"
+        "type": "every_flag_set"
       },
       "content": [
         {
@@ -1968,7 +1968,7 @@
         "verbatim": "Ó"
       },
       "line": 49,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "label": {
@@ -2069,7 +2069,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "everyFlagClear"
+        "type": "every_flag_clear"
       },
       "instructionIndex": 60,
       "label": {
@@ -2103,7 +2103,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "everyFlagSet"
+        "type": "every_flag_set"
       },
       "instructionIndex": 63,
       "label": {
@@ -2131,7 +2131,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "everyFlagClear"
+        "type": "every_flag_clear"
       },
       "instructionIndex": 66,
       "label": {
@@ -2159,7 +2159,7 @@
             "verbatim": "Á"
           }
         ],
-        "type": "everyFlagClear"
+        "type": "every_flag_clear"
       },
       "instructionIndex": 69,
       "label": {
@@ -2187,7 +2187,7 @@
             "verbatim": "Z"
           }
         ],
-        "type": "everyFlagClear"
+        "type": "every_flag_clear"
       },
       "instructionIndex": 72,
       "label": {
@@ -2207,7 +2207,7 @@
           "toColumn": 20,
           "verbatim": "Á"
         },
-        "type": "flagClear"
+        "type": "flag_clear"
       },
       "instructionIndex": 75,
       "label": {
@@ -2227,7 +2227,7 @@
           "toColumn": 20,
           "verbatim": "Z"
         },
-        "type": "flagClear"
+        "type": "flag_clear"
       },
       "instructionIndex": 78,
       "label": {

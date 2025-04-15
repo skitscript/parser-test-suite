@@ -66,7 +66,7 @@
           "toColumn": 43,
           "verbatim": "Nxt Example Flag"
         },
-        "type": "flagSet"
+        "type": "flag_set"
       },
       "instructionIndex": 0,
       "label": {

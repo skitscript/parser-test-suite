@@ -430,7 +430,7 @@
             "verbatim": "End"
           }
         ],
-        "type": "everyFlagSet"
+        "type": "every_flag_set"
       },
       "instructionIndex": 0,
       "label": {
@@ -500,7 +500,7 @@
             "verbatim": "End"
           }
         ],
-        "type": "someFlagsSet"
+        "type": "some_flags_set"
       },
       "instructionIndex": 0,
       "label": {

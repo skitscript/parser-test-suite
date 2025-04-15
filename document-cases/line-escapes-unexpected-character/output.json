@@ -4,7 +4,7 @@
       "fromColumn": 16,
       "line": 1,
       "toColumn": 17,
-      "type": "invalidEscapeSequence",
+      "type": "invalid_escape_sequence",
       "verbatim": "\\Q"
     }
   ],

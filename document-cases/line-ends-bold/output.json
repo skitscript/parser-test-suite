@@ -4,7 +4,7 @@
       "fromColumn": 11,
       "line": 1,
       "toColumn": 33,
-      "type": "unterminatedBold",
+      "type": "unterminated_bold",
       "verbatim": "**line which ends bold."
     }
   ],

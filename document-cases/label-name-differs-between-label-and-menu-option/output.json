@@ -51,7 +51,7 @@
         "verbatim": "EXAmple     laBel"
       },
       "line": 3,
-      "type": "menuOption"
+      "type": "menu_option"
     }
   ],
   "type": "valid",

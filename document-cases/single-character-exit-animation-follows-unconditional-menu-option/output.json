@@ -111,7 +111,7 @@
           "toColumn": 62,
           "verbatim": "Example Flag"
         },
-        "type": "flagSet"
+        "type": "flag_set"
       },
       "content": [
         {
@@ -132,7 +132,7 @@
         "verbatim": "Example Label"
       },
       "line": 5,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": null,
@@ -155,7 +155,7 @@
         "verbatim": "Example Label"
       },
       "line": 6,
-      "type": "menuOption"
+      "type": "menu_option"
     },
     {
       "condition": {
@@ -165,7 +165,7 @@
           "toColumn": 62,
           "verbatim": "Example Flag"
         },
-        "type": "flagSet"
+        "type": "flag_set"
       },
       "content": [
         {
@@ -186,7 +186,7 @@
         "verbatim": "Example Label"
       },
       "line": 7,
-      "type": "menuOption"
+      "type": "menu_option"
     }
   ],
   "type": "valid",

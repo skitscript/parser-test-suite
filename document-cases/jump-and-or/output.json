@@ -56,7 +56,7 @@
         "verbatim": "Example Flag A"
       },
       "line": 3,
-      "type": "flagNeverReferenced"
+      "type": "flag_never_referenced"
     },
     {
       "flag": {
@@ -66,7 +66,7 @@
         "verbatim": "Example Flag B"
       },
       "line": 3,
-      "type": "flagNeverReferenced"
+      "type": "flag_never_referenced"
     }
   ]
 }

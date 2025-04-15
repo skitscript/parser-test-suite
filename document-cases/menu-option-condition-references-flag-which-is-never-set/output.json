@@ -117,7 +117,7 @@
             "verbatim": "Example Flag C"
           }
         ],
-        "type": "everyFlagSet"
+        "type": "every_flag_set"
       },
       "content": [
         {
@@ -138,7 +138,7 @@
         "verbatim": "Example Label"
       },
       "line": 5,
-      "type": "menuOption"
+      "type": "menu_option"
     }
   ],
   "type": "valid",
@@ -151,7 +151,7 @@
         "verbatim": "Example Flag B"
       },
       "line": 5,
-      "type": "flagNeverSet"
+      "type": "flag_never_set"
     }
   ]
 }

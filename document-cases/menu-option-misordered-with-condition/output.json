@@ -22,7 +22,7 @@
       }
     },
     {
-      "type": "menuOption",
+      "type": "menu_option",
       "line": 3,
       "content": [
         {
@@ -43,7 +43,7 @@
       },
       "instructionIndex": 0,
       "condition": {
-        "type": "flagClear",
+        "type": "flag_clear",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",

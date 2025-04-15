@@ -84,7 +84,7 @@
           "toColumn": 43,
           "verbatim": "Example Flag"
         },
-        "type": "flagClear"
+        "type": "flag_clear"
       },
       "instructionIndex": 0,
       "label": {

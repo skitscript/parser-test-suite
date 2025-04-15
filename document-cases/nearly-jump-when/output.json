@@ -82,7 +82,7 @@
       },
       "instructionIndex": 0,
       "condition": {
-        "type": "flagSet",
+        "type": "flag_set",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",
@@ -102,7 +102,7 @@
       },
       "instructionIndex": 1,
       "condition": {
-        "type": "flagSet",
+        "type": "flag_set",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",
@@ -122,7 +122,7 @@
       },
       "instructionIndex": 2,
       "condition": {
-        "type": "flagSet",
+        "type": "flag_set",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",
@@ -142,7 +142,7 @@
       },
       "instructionIndex": 3,
       "condition": {
-        "type": "flagSet",
+        "type": "flag_set",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",
@@ -162,7 +162,7 @@
       },
       "instructionIndex": 4,
       "condition": {
-        "type": "flagSet",
+        "type": "flag_set",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",
@@ -182,7 +182,7 @@
       },
       "instructionIndex": 5,
       "condition": {
-        "type": "flagSet",
+        "type": "flag_set",
         "flag": {
           "verbatim": "Example Flag",
           "normalized": "example-flag",

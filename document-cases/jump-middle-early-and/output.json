@@ -47,7 +47,7 @@
         "verbatim": "Example Flag"
       },
       "line": 3,
-      "type": "flagNeverReferenced"
+      "type": "flag_never_referenced"
     }
   ]
 }

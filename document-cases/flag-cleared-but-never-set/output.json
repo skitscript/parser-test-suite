@@ -174,7 +174,7 @@
             "verbatim": "Example Flag C"
           }
         ],
-        "type": "everyFlagSet"
+        "type": "every_flag_set"
       },
       "instructionIndex": 0,
       "label": {
@@ -197,7 +197,7 @@
         "verbatim": "Example Flag B"
       },
       "line": 5,
-      "type": "flagNeverSet"
+      "type": "flag_never_set"
     }
   ]
 }

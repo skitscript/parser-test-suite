@@ -84,7 +84,7 @@
           "toColumn": 39,
           "verbatim": "Example Flag"
         },
-        "type": "flagSet"
+        "type": "flag_set"
       },
       "instructionIndex": 0,
       "label": {

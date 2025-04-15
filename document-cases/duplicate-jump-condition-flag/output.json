@@ -145,7 +145,7 @@
             "verbatim": "Example Flag C"
           }
         ],
-        "type": "everyFlagSet"
+        "type": "every_flag_set"
       },
       "instructionIndex": 0,
       "label": {
