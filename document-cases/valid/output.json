@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 11,
       "line": 1,
       "normalized": "podium",
@@ -10,7 +10,7 @@
       "verbatim": "Podium"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 3,
       "normalized": "mr-explainer",
@@ -19,7 +19,7 @@
       "verbatim": "Mr. Explainer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 22,
       "line": 3,
       "normalized": "from-the-left",
@@ -28,7 +28,7 @@
       "verbatim": "from the left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 5,
       "normalized": "mr-explainer",
@@ -37,7 +37,7 @@
       "verbatim": "Mr. Explainer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 12,
       "normalized": "mrs-elucidator",
@@ -46,7 +46,7 @@
       "verbatim": "Mrs. Elucidator"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 24,
       "line": 12,
       "normalized": "from-the-right",
@@ -55,7 +55,7 @@
       "verbatim": "from the right"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 14,
       "normalized": "mrs-elucidator",
@@ -64,7 +64,7 @@
       "verbatim": "Mrs. Elucidator"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 18,
       "line": 14,
       "normalized": "proud",
@@ -73,7 +73,7 @@
       "verbatim": "proud"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 17,
       "normalized": "mr-explainer",
@@ -82,7 +82,7 @@
       "verbatim": "Mr. Explainer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 18,
       "line": 17,
       "normalized": "shocked",
@@ -91,7 +91,7 @@
       "verbatim": "shocked"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 19,
       "normalized": "mr-explainer",
@@ -100,7 +100,7 @@
       "verbatim": "Mr. Explainer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 22,
       "normalized": "mr-company",
@@ -109,7 +109,7 @@
       "verbatim": "Mr. Company"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 20,
       "line": 22,
       "normalized": "from-the-left",
@@ -118,7 +118,7 @@
       "verbatim": "from the left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 35,
       "line": 22,
       "normalized": "surprised",
@@ -127,7 +127,7 @@
       "verbatim": "surprised"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 23,
       "normalized": "mrs-crowd",
@@ -136,7 +136,7 @@
       "verbatim": "Mrs. Crowd"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 19,
       "line": 23,
       "normalized": "from-the-right",
@@ -145,7 +145,7 @@
       "verbatim": "from the right"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 25,
       "normalized": "mr-explainer",
@@ -154,7 +154,7 @@
       "verbatim": "Mr. Explainer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 16,
       "line": 25,
       "normalized": "mrs-elucidator",
@@ -163,7 +163,7 @@
       "verbatim": "Mrs. Elucidator"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 25,
       "normalized": "mr-company",
@@ -172,7 +172,7 @@
       "verbatim": "Mr. Company"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 49,
       "line": 25,
       "normalized": "mrs-crowd",
@@ -181,7 +181,7 @@
       "verbatim": "Mrs. Crowd"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 29,
       "normalized": "mr-explainer",
@@ -190,7 +190,7 @@
       "verbatim": "Mr. Explainer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 19,
       "line": 29,
       "normalized": "mr-company",
@@ -199,7 +199,7 @@
       "verbatim": "Mr. Company"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 36,
       "line": 29,
       "normalized": "left",
@@ -208,7 +208,7 @@
       "verbatim": "left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 42,
       "line": 29,
       "normalized": "waving",
@@ -217,7 +217,7 @@
       "verbatim": "waving"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 30,
       "normalized": "mrs-elucidator",
@@ -226,7 +226,7 @@
       "verbatim": "Mrs. Elucidator"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 21,
       "line": 30,
       "normalized": "mrs-crowd",
@@ -235,7 +235,7 @@
       "verbatim": "Mrs. Crowd"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 37,
       "line": 30,
       "normalized": "right",
@@ -244,7 +244,7 @@
       "verbatim": "right"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 44,
       "line": 30,
       "normalized": "waving",
@@ -253,7 +253,7 @@
       "verbatim": "waving"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 11,
       "line": 32,
       "normalized": "interview-room",
@@ -262,7 +262,7 @@
       "verbatim": "!?'\"{}@*/\\&#%`   +<=>|$.-Interview!?'\"{}@*/\\&#%`   +<=>|$.-Room!?'\"{}@*/\\&#%`   +<=>|$.-"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 34,
       "normalized": "the-questioner",
@@ -271,7 +271,7 @@
       "verbatim": "The Questioner"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 23,
       "line": 34,
       "normalized": "from-the-bottom",
@@ -280,7 +280,7 @@
       "verbatim": "from the bottom"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 40,
       "line": 34,
       "normalized": "eyebrow-raised",
@@ -298,7 +298,7 @@
       "verbatim": "Menu"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 38,
       "normalized": "the-questioner",
@@ -361,7 +361,7 @@
       "verbatim": "Remark No Flags"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 82,
       "line": 46,
       "normalized": "flag-a",
@@ -370,7 +370,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 90,
       "line": 46,
       "normalized": "flag-b",
@@ -379,7 +379,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 100,
       "line": 46,
       "normalized": "flag-c",
@@ -397,7 +397,7 @@
       "verbatim": "Remark At Least One Flag"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 85,
       "line": 47,
       "normalized": "flag-a",
@@ -406,7 +406,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 93,
       "line": 47,
       "normalized": "flag-b",
@@ -415,7 +415,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 103,
       "line": 47,
       "normalized": "flag-c",
@@ -433,7 +433,7 @@
       "verbatim": "Remark At Least Some Flags Missing"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 103,
       "line": 48,
       "normalized": "flag-a",
@@ -442,7 +442,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 111,
       "line": 48,
       "normalized": "flag-b",
@@ -451,7 +451,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 122,
       "line": 48,
       "normalized": "flag-c",
@@ -469,7 +469,7 @@
       "verbatim": "Remark All Flags"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 79,
       "line": 49,
       "normalized": "flag-a",
@@ -478,7 +478,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 87,
       "line": 49,
       "normalized": "flag-b",
@@ -487,7 +487,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 98,
       "line": 49,
       "normalized": "flag-c",
@@ -505,7 +505,7 @@
       "verbatim": "Reset"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 7,
       "line": 53,
       "normalized": "flag-a",
@@ -514,7 +514,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 15,
       "line": 53,
       "normalized": "flag-b",
@@ -523,7 +523,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 26,
       "line": 53,
       "normalized": "flag-c",
@@ -559,7 +559,7 @@
       "verbatim": "State Viewer - None"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 38,
       "line": 61,
       "normalized": "flag-a",
@@ -568,7 +568,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 46,
       "line": 61,
       "normalized": "flag-b",
@@ -577,7 +577,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 56,
       "line": 61,
       "normalized": "flag-c",
@@ -595,7 +595,7 @@
       "verbatim": "State Viewer - All"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 62,
       "normalized": "flag-a",
@@ -604,7 +604,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 41,
       "line": 62,
       "normalized": "flag-b",
@@ -613,7 +613,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 52,
       "line": 62,
       "normalized": "flag-c",
@@ -631,7 +631,7 @@
       "verbatim": "State Viewer - Only A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 40,
       "line": 64,
       "normalized": "flag-b",
@@ -640,7 +640,7 @@
       "verbatim": "flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 50,
       "line": 64,
       "normalized": "flag-c",
@@ -658,7 +658,7 @@
       "verbatim": "State Viewer - Only B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 40,
       "line": 65,
       "normalized": "flag-a",
@@ -667,7 +667,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 50,
       "line": 65,
       "normalized": "flag-c",
@@ -685,7 +685,7 @@
       "verbatim": "State Viewer - Only C"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 40,
       "line": 66,
       "normalized": "flag-a",
@@ -694,7 +694,7 @@
       "verbatim": "flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 50,
       "line": 66,
       "normalized": "flag-b",
@@ -712,7 +712,7 @@
       "verbatim": "State Viewer - A + B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 39,
       "line": 68,
       "normalized": "flag-c",
@@ -730,7 +730,7 @@
       "verbatim": "State Viewer - A + C"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 39,
       "line": 69,
       "normalized": "flag-b",
@@ -883,7 +883,7 @@
       "verbatim": "Flag Setter A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 5,
       "line": 119,
       "normalized": "flag-a",
@@ -910,7 +910,7 @@
       "verbatim": "Flag Setter B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 5,
       "line": 127,
       "normalized": "flag-b",
@@ -937,7 +937,7 @@
       "verbatim": "Flag Setter C"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 5,
       "line": 135,
       "normalized": "flag-c",

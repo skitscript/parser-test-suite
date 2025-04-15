@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "example-character",
@@ -10,7 +10,7 @@
       "verbatim": "Example  CharActer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 23,
       "line": 1,
       "normalized": "example-emote",
@@ -19,7 +19,7 @@
       "verbatim": "Example Emote"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 3,
       "normalized": "example-character",
@@ -28,7 +28,7 @@
       "verbatim": "exAMple CHARacter"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 26,
       "line": 3,
       "normalized": "left",

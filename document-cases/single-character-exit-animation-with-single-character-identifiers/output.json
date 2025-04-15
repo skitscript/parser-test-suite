@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "a",
@@ -10,7 +10,7 @@
       "verbatim": "A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 9,
       "line": 1,
       "normalized": "b",

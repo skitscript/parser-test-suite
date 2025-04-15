@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 16,
       "line": 1,
       "normalized": "example-a_location",

@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "jeff",
@@ -10,7 +10,7 @@
       "verbatim": "Jeff"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 7,
       "line": 1,
       "normalized": "enyer",
@@ -19,7 +19,7 @@
       "verbatim": "Enyer"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 14,
       "line": 1,
       "normalized": "entyr",
@@ -28,7 +28,7 @@
       "verbatim": "Entyr"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 21,
       "line": 1,
       "normalized": "entey",
@@ -37,7 +37,7 @@
       "verbatim": "Entey"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 28,
       "line": 1,
       "normalized": "entery",
@@ -46,7 +46,7 @@
       "verbatim": "Entery"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 36,
       "line": 1,
       "normalized": "entersy",
@@ -55,7 +55,7 @@
       "verbatim": "Entersy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 48,
       "line": 1,
       "normalized": "andy",
@@ -64,7 +64,7 @@
       "verbatim": "Andy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 59,
       "line": 1,
       "normalized": "left",

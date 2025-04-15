@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "lycation",
@@ -10,7 +10,7 @@
       "verbatim": "Lycation"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 1,
       "normalized": "from-left",
@@ -19,7 +19,7 @@
       "verbatim": "from left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 2,
       "normalized": "loyation",
@@ -28,7 +28,7 @@
       "verbatim": "Loyation"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 2,
       "normalized": "from-left",
@@ -37,7 +37,7 @@
       "verbatim": "from left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 3,
       "normalized": "locytion",
@@ -46,7 +46,7 @@
       "verbatim": "Locytion"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 3,
       "normalized": "from-left",
@@ -55,7 +55,7 @@
       "verbatim": "from left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 4,
       "normalized": "locayion",
@@ -64,7 +64,7 @@
       "verbatim": "Locayion"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 4,
       "normalized": "from-left",
@@ -73,7 +73,7 @@
       "verbatim": "from left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 5,
       "normalized": "locatyon",
@@ -82,7 +82,7 @@
       "verbatim": "Locatyon"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 5,
       "normalized": "from-left",
@@ -91,7 +91,7 @@
       "verbatim": "from left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 6,
       "normalized": "locatiyn",
@@ -100,7 +100,7 @@
       "verbatim": "Locatiyn"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 6,
       "normalized": "from-left",
@@ -109,7 +109,7 @@
       "verbatim": "from left"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 7,
       "normalized": "locatioy",
@@ -118,7 +118,7 @@
       "verbatim": "Locatioy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 7,
       "normalized": "from-left",

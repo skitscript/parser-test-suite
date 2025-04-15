@@ -10,7 +10,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 5,
       "line": 3,
       "normalized": "example-flag",
@@ -28,7 +28,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 51,
       "line": 5,
       "normalized": "example-flag",
@@ -55,7 +55,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 51,
       "line": 7,
       "normalized": "example-flag",
@@ -64,7 +64,7 @@
       "verbatim": "Example Flag"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 9,
       "normalized": "example-character-a",
@@ -73,7 +73,7 @@
       "verbatim": "Example Character A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 25,
       "line": 9,
       "normalized": "example-character-b",
@@ -82,7 +82,7 @@
       "verbatim": "Example Character B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 51,
       "line": 9,
       "normalized": "left",

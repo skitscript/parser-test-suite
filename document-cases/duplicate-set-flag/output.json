@@ -10,7 +10,7 @@
       "verbatim": "Example Label Name"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 5,
       "line": 3,
       "normalized": "example-flag-a",
@@ -19,7 +19,7 @@
       "verbatim": "Example Flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 21,
       "line": 3,
       "normalized": "example-flag-b",
@@ -28,7 +28,7 @@
       "verbatim": "Example Flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 37,
       "line": 3,
       "normalized": "example-flag-c",
@@ -37,7 +37,7 @@
       "verbatim": "Example Flag C"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 53,
       "line": 3,
       "normalized": "example-flag-b",
@@ -46,7 +46,7 @@
       "verbatim": "example    flAG  b"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 73,
       "line": 3,
       "normalized": "example-flag-d",
@@ -55,7 +55,7 @@
       "verbatim": "Example Flag D"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 89,
       "line": 3,
       "normalized": "example-flag-b",
@@ -64,7 +64,7 @@
       "verbatim": "EXAMPLE FLAG B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 108,
       "line": 3,
       "normalized": "example-flag-e",
@@ -82,7 +82,7 @@
       "verbatim": "Example Label Name"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 5,
       "normalized": "example-flag-a",
@@ -91,7 +91,7 @@
       "verbatim": "Example Flag A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 49,
       "line": 5,
       "normalized": "example-flag-b",
@@ -100,7 +100,7 @@
       "verbatim": "Example Flag B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 65,
       "line": 5,
       "normalized": "example-flag-c",
@@ -109,7 +109,7 @@
       "verbatim": "Example Flag C"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 81,
       "line": 5,
       "normalized": "example-flag-d",
@@ -118,7 +118,7 @@
       "verbatim": "Example Flag D"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 99,
       "line": 5,
       "normalized": "example-flag-e",

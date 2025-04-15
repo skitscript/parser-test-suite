@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "jeff",
@@ -10,7 +10,7 @@
       "verbatim": "Jeff"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 7,
       "line": 1,
       "normalized": "eyit",
@@ -19,7 +19,7 @@
       "verbatim": "Eyit"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 13,
       "line": 1,
       "normalized": "exyt",
@@ -28,7 +28,7 @@
       "verbatim": "Exyt"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 19,
       "line": 1,
       "normalized": "exiy",
@@ -37,7 +37,7 @@
       "verbatim": "Exiy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 25,
       "line": 1,
       "normalized": "eyits",
@@ -46,7 +46,7 @@
       "verbatim": "Eyits"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 32,
       "line": 1,
       "normalized": "exyts",
@@ -55,7 +55,7 @@
       "verbatim": "Exyts"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 39,
       "line": 1,
       "normalized": "exiys",
@@ -64,7 +64,7 @@
       "verbatim": "Exiys"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 46,
       "line": 1,
       "normalized": "exity",
@@ -73,7 +73,7 @@
       "verbatim": "Exity"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 53,
       "line": 1,
       "normalized": "exitsy",
@@ -82,7 +82,7 @@
       "verbatim": "Exitsy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 64,
       "line": 1,
       "normalized": "andy",
@@ -91,7 +91,7 @@
       "verbatim": "Andy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 74,
       "line": 1,
       "normalized": "left",

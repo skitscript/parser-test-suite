@@ -254,7 +254,7 @@
       "fromColumn": 5,
       "toColumn": 16,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 7
     },
     {
@@ -272,7 +272,7 @@
       "fromColumn": 46,
       "toColumn": 57,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 8
     },
     {
@@ -290,7 +290,7 @@
       "fromColumn": 46,
       "toColumn": 57,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 9
     },
     {
@@ -308,7 +308,7 @@
       "fromColumn": 46,
       "toColumn": 57,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 10
     },
     {
@@ -326,7 +326,7 @@
       "fromColumn": 46,
       "toColumn": 57,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 11
     },
     {
@@ -344,7 +344,7 @@
       "fromColumn": 46,
       "toColumn": 57,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 12
     },
     {
@@ -362,7 +362,7 @@
       "fromColumn": 46,
       "toColumn": 57,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 13
     }
   ]

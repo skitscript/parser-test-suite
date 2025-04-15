@@ -19,7 +19,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 7,
       "normalized": "example-character",
@@ -28,7 +28,7 @@
       "verbatim": "Example Character"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 20,
       "line": 7,
       "normalized": "example-emote",

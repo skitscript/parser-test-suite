@@ -10,7 +10,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 6,
       "line": 3,
       "normalized": "exa",
@@ -28,7 +28,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 28,
       "line": 5,
       "normalized": "exa",

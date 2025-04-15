@@ -70,7 +70,7 @@
       "fromColumn": 5,
       "toColumn": 16,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 2
     },
     {
@@ -88,7 +88,7 @@
       "fromColumn": 98,
       "toColumn": 109,
       "type": "flag",
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "line": 3
     }
   ]

@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "joe",
@@ -10,7 +10,7 @@
       "verbatim": "Joe"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 6,
       "line": 1,
       "normalized": "andy",
@@ -19,7 +19,7 @@
       "verbatim": "Andy"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 12,
       "line": 1,
       "normalized": "ave",
@@ -28,7 +28,7 @@
       "verbatim": "Ave"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 17,
       "line": 1,
       "normalized": "ari",
@@ -37,7 +37,7 @@
       "verbatim": "Ari"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 22,
       "line": 1,
       "normalized": "ane",
@@ -46,7 +46,7 @@
       "verbatim": "Ane"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 27,
       "line": 1,
       "normalized": "aren",
@@ -55,7 +55,7 @@
       "verbatim": "Aren"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 1,
       "normalized": "isa",
@@ -64,7 +64,7 @@
       "verbatim": "Isa"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 41,
       "line": 1,
       "normalized": "ix",
@@ -73,7 +73,7 @@
       "verbatim": "Ix"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 48,
       "line": 1,
       "normalized": "blue",

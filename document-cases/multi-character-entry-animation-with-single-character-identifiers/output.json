@@ -1,7 +1,7 @@
 {
   "identifierInstances": [
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 1,
       "line": 1,
       "normalized": "a",
@@ -10,7 +10,7 @@
       "verbatim": "A"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 4,
       "line": 1,
       "normalized": "b",
@@ -19,7 +19,7 @@
       "verbatim": "B"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 10,
       "line": 1,
       "normalized": "c",
@@ -28,7 +28,7 @@
       "verbatim": "C"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 18,
       "line": 1,
       "normalized": "d",

@@ -10,7 +10,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 5,
       "line": 3,
       "normalized": "nrt",
@@ -19,7 +19,7 @@
       "verbatim": "Nrt"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 10,
       "line": 3,
       "normalized": "noe",
@@ -28,7 +28,7 @@
       "verbatim": "Noe"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 15,
       "line": 3,
       "normalized": "nota",
@@ -37,7 +37,7 @@
       "verbatim": "Nota"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 21,
       "line": 3,
       "normalized": "ot",
@@ -46,7 +46,7 @@
       "verbatim": "Ot"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 25,
       "line": 3,
       "normalized": "orange",
@@ -55,7 +55,7 @@
       "verbatim": "Orange"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 3,
       "normalized": "ard",
@@ -64,7 +64,7 @@
       "verbatim": "Ard"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 38,
       "line": 3,
       "normalized": "ane",
@@ -73,7 +73,7 @@
       "verbatim": "Ane"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 43,
       "line": 3,
       "normalized": "anda",
@@ -82,7 +82,7 @@
       "verbatim": "Anda"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 52,
       "line": 3,
       "normalized": "end",
@@ -100,7 +100,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 28,
       "line": 5,
       "normalized": "nrt",
@@ -109,7 +109,7 @@
       "verbatim": "Nrt"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 5,
       "normalized": "noe",
@@ -118,7 +118,7 @@
       "verbatim": "Noe"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 38,
       "line": 5,
       "normalized": "nota",
@@ -127,7 +127,7 @@
       "verbatim": "Nota"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 44,
       "line": 5,
       "normalized": "ot",
@@ -136,7 +136,7 @@
       "verbatim": "Ot"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 48,
       "line": 5,
       "normalized": "orange",
@@ -145,7 +145,7 @@
       "verbatim": "Orange"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 56,
       "line": 5,
       "normalized": "ard",
@@ -154,7 +154,7 @@
       "verbatim": "Ard"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 61,
       "line": 5,
       "normalized": "ane",
@@ -163,7 +163,7 @@
       "verbatim": "Ane"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 66,
       "line": 5,
       "normalized": "anda",
@@ -172,7 +172,7 @@
       "verbatim": "Anda"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 75,
       "line": 5,
       "normalized": "end",
@@ -190,7 +190,7 @@
       "verbatim": "Example Label"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 28,
       "line": 6,
       "normalized": "nrt",
@@ -199,7 +199,7 @@
       "verbatim": "Nrt"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 33,
       "line": 6,
       "normalized": "noe",
@@ -208,7 +208,7 @@
       "verbatim": "Noe"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 38,
       "line": 6,
       "normalized": "nota",
@@ -217,7 +217,7 @@
       "verbatim": "Nota"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 44,
       "line": 6,
       "normalized": "ot",
@@ -226,7 +226,7 @@
       "verbatim": "Ot"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 48,
       "line": 6,
       "normalized": "orange",
@@ -235,7 +235,7 @@
       "verbatim": "Orange"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 56,
       "line": 6,
       "normalized": "ard",
@@ -244,7 +244,7 @@
       "verbatim": "Ard"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 61,
       "line": 6,
       "normalized": "ane",
@@ -253,7 +253,7 @@
       "verbatim": "Ane"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 66,
       "line": 6,
       "normalized": "anda",
@@ -262,7 +262,7 @@
       "verbatim": "Anda"
     },
     {
-      "context": "implicitDeclaration",
+      "context": "implicit_declaration",
       "fromColumn": 74,
       "line": 6,
       "normalized": "end",
